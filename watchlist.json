@@ -18,5 +18,5 @@
       "note": "Ironwood Pharmaceuticals. Still excluded from sizing -- prices continue to conflict ($4.15, $4.22 prior close, and a third source citing $3.58 dated a not-yet-happened Aug 6 2026, discarded as unreliable). Low share price would fit the $200 budget well if a reliable quote becomes available."
     }
   ],
-  "note": "This file is overwritten by the agent each run with its self-sourced candidate list (from news/movers search) plus any tickers currently held. Not user-curated. Fourth run today (this scheduled post-open run): TipRanks MCP quota remains exhausted (0/10 calls remaining, resets 2026-09-01 UTC) and Alpha Vantage GLOBAL_QUOTE remains blocked by network egress policy (403, confirmed non-transient). WebSearch fallback pricing was attempted for all four candidates; none cleared the ~1-2% cross-reference reliability bar (AMZN was reasonably priced but simply too expensive for available cash). No open holdings currently -- prior INTC buy recommendation was never reported as executed."
+  "note": "This is a GROWING candidate universe, not overwritten each run: new high-growth names are added over time and existing entries get their notes/prices refreshed, per RULES.md. Not user-curated. Every open holding must always appear here too."
 }
