@@ -1,21 +1,41 @@
 {
-  "last_updated": "2026-08-01T10:15:00-04:00",
+  "last_updated": "2026-08-01T11:30:00-04:00",
   "candidates": [
     {
       "ticker": "AMZN",
-      "note": "Amazon. New this run, +12.5% on a strong Q2 2026 beat (net sales $200.6B vs ~$196.5B est, EPS $5.75 vs $1.82 est, AWS revenue +36.7% YoY to $42.2B, AWS operating margin +650bps to 39%). Sourced price ~$269.91 (prev close $235.50) -- not sized this run because even 1 share exceeds the full $200 cash balance, independent of price-confidence. Worth revisiting only if cash grows well beyond $270."
+      "note": "Amazon. +12.5% on a strong Q2 2026 beat (net sales $200.6B vs ~$196.5B est, EPS $5.75 vs $1.82 est, AWS revenue +36.7% YoY to $42.2B, AWS operating margin +650bps to 39%). Sourced price ~$269.91 (prev close $235.50) -- not sized, even 1 share exceeds the full $200 cash balance. Not re-priced this run (still unaffordable regardless). Worth revisiting only if cash grows well beyond $270."
     },
     {
       "ticker": "INTC",
-      "note": "Intel. Prior run's BUY recommendation (2 shares @ $91.13, web-search-sourced) was never reported as executed, so it is not reflected in holdings/cash. This run's fresh search found conflicting prices ($91.13 close, $92.63, $96.00 current -- roughly a 5% spread), too wide to clear the ~1-2% cross-reference tolerance for new sizing, so no new INTC action taken this run. Still on watchlist given continued post-earnings volatility."
+      "note": "Intel. Prior run's BUY recommendation (2 shares @ $91.13, web-search-sourced) was never reported as executed, so it is not reflected in holdings/cash. This run again found conflicting prices ($92.09 cited by two aggregator summaries, but also $96.00 and an $82.00-$95.45 intraday range cited elsewhere) -- still too wide a spread to clear the ~1-2% cross-reference tolerance for new sizing, third consecutive run excluded. Still on watchlist given continued post-earnings volatility."
     },
     {
       "ticker": "AXTI",
-      "note": "AXT Inc. Still excluded from sizing -- prices remain incoherent across sources and across runs today ($46.91 this run vs $58-67 range in prior runs same day). Needs a verified live quote (TipRanks/Alpha Vantage) before it can be trusted, and both remain unavailable."
+      "note": "AXT Inc (semis, indium phosphide substrates for AI/data-center optics). BOUGHT this run: 2 sh @ $46.92 (cross-referenced $46.91/$46.94, <0.1% spread -- first time today's price cleared the tolerance after two prior runs of incoherent quotes $46-67). Thesis: Q2 2026 record revenue $47.6M and net income $11.1M (turnaround from losses), new long-term Lumentum indium-phosphide supply deal through 2031 (two $43.5M deposits). Analyst targets diverge sharply (Northland PT $125 vs B. Riley PT $52, Neutral) -- watch for target convergence or fresh analyst notes next run."
     },
     {
       "ticker": "IRWD",
-      "note": "Ironwood Pharmaceuticals. Still excluded from sizing -- prices continue to conflict ($4.15, $4.22 prior close, and a third source citing $3.58 dated a not-yet-happened Aug 6 2026, discarded as unreliable). Low share price would fit the $200 budget well if a reliable quote becomes available."
+      "note": "Ironwood Pharmaceuticals. Still excluded from sizing -- prices continue to conflict this run too ($4.15 vs $3.58, ~14% spread). Low share price would fit the $200 budget well if a reliable quote becomes available."
+    },
+    {
+      "ticker": "REPL",
+      "note": "Replimune Group (clinical-stage oncolytic immunotherapy). BOUGHT this run: 8 sh @ $11.10 (cross-referenced $11.20/$10.99, ~1.9% spread). FDA advisory panel voted 10-3 on 2026-07-31 that RP1 (+ BMY's Opdivo) trial data for advanced melanoma are clinically meaningful; formal PDUFA decision due 2026-08-02. Stock already +107-127% on the panel vote; Wedbush upgraded to Outperform, PT $12. HIGH-RISK BINARY CATALYST -- tomorrow's FDA decision could send this sharply higher (approval) or reverse much of the recent gain (rejection/delay/CRL). Re-price and re-evaluate urgently on the next run once the PDUFA outcome is known."
+    },
+    {
+      "ticker": "RDDT",
+      "note": "Reddit. New this run. Q2 2026 beat on both lines (EPS $1.25 vs $0.95 est, revenue $805M +61% YoY vs $730M est) with strong Q3 guidance, but shares fell ~17.6% anyway on concerns about a sequential US DAU decline and 'choppy' Google search-referral traffic (plus reconsideration of a $60M/yr Google licensing deal). Sourced price ~$136. Not sized this run (too expensive for a meaningful multi-share position on $200 cash, and the post-earnings selloff reflects a real fundamental concern, not just noise) -- kept on watchlist as a name to watch for further clarity on the Google dependency risk."
+    },
+    {
+      "ticker": "CRDO",
+      "note": "Credo Technology. New this run, surfaced via semiconductor/AI-networking momentum search. FQ4 2026 non-GAAP EPS $1.16; FY2027 consensus implies ~73% YoY EPS growth; Zacks Rank #1 (Strong Buy). No price sourced/cross-referenced yet -- needs a priced check on a future run before any sizing."
+    },
+    {
+      "ticker": "ALAB",
+      "note": "Astera Labs. New this run, AI fabric/PCIe 6 signal-conditioning connectivity play. Q1 2026 revenue $308M (+93.4% YoY), non-GAAP EPS $0.61 (+84.8% YoY), Gen 6 products now >1/3 of revenue. No price sourced/cross-referenced yet -- needs a priced check on a future run before any sizing."
+    },
+    {
+      "ticker": "MRNA",
+      "note": "Moderna. New this run. FDA PDUFA date 2026-08-05 for seasonal flu vaccine mRNA-1010 (would be its 5th approved commercial product); reported +177% into that date per one source (unverified, needs cross-reference). Binary-catalyst profile similar to REPL but on a longer fuse (catalyst is ~4 days out, not tomorrow). No price sourced/cross-referenced yet -- needs a priced check on a future run before any sizing."
     }
   ],
   "note": "This is a GROWING candidate universe, not overwritten each run: new high-growth names are added over time and existing entries get their notes/prices refreshed, per RULES.md. Not user-curated. Every open holding must always appear here too."
