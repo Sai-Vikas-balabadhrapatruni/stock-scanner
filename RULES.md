@@ -15,7 +15,10 @@ Maximize total return on the $200 starting cash between `challenge_start` and `c
 ## Each run, do this in order
 1. Read `portfolio.json` for current cash, open `holdings`, and `challenge_end`.
 2. Source candidates: use WebSearch for today's top market movers, notable news/catalysts, and sector trends. Build a shortlist (a handful of names) biased toward stocks priced low enough that $200 (or remaining cash) can meaningfully buy shares.
-3. For the shortlist **and** every open holding, fetch a live quote from Alpha Vantage `GLOBAL_QUOTE` (key in `config.json`, ~25 requests/day cap — spend them only on names that survived step 2's filter). Optionally pull `TIME_SERIES_DAILY` for trend context on top candidates.
+3. For the shortlist **and** every open holding, get a live quote:
+   - Try the TipRanks financial data MCP connector first, if available and not rate/quota-limited.
+   - Otherwise, fetch Alpha Vantage `GLOBAL_QUOTE` **via the WebFetch tool** (not `curl`/Bash — the sandbox's Bash has no direct internet access, only WebFetch/WebSearch/MCP connectors can reach the network): `WebFetch` the URL `https://www.alphavantage.co/query?function=GLOBAL_QUOTE&symbol=TICKER&apikey=KEY` (key in `config.json`/prompt, ~25 requests/day cap — spend them only on names that survived step 2's filter). Optionally `TIME_SERIES_DAILY` for trend context on top candidates, same way.
+   - If both fail for a ticker, do not guess a price from web-search snippets — treat it as unconfirmed and exclude it from this run's buy/sell sizing (hold is always safe to fall back to).
 4. Decide one clear recommendation for this run: buy X shares of TICKER, sell TICKER, or hold/no action. Justify briefly with the news/data found. Respect the hard rules above.
 5. Update `portfolio.json`:
    - For each open holding, append today's price to its `mark_to_market` array.
