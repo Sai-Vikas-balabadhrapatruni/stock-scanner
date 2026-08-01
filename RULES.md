@@ -29,7 +29,7 @@ Maximize total return on the $200 starting cash between `challenge_start` and `c
    - For each open holding, append today's price to its `mark_to_market` array.
    - Append this run's recommendation (ticker, action, reasoning, price, timestamp) to `recommendations_log`. Do NOT change `cash`/`holdings` based on the recommendation alone — those only change when the user reports back an actual executed trade (see below).
 6. Overwrite `watchlist.json` with today's candidate list + open holdings, and `last_updated`.
-7. Send an email (via the Gmail connector) to the address in `config.json` with:
+7. Send an email (via the **AgentMail** MCP connector — the Gmail connector only supports creating drafts, not sending, so it must not be used for this step) to the address in `config.json` with:
    - Today's recommendation and reasoning, **including which price source was used (TipRanks / Alpha Vantage / web-search fallback)** so the user knows how much to trust the price before acting.
    - Current cash, open holdings, and unrealized P&L per holding.
    - Realized P&L to date and days remaining in the 30-day challenge.
