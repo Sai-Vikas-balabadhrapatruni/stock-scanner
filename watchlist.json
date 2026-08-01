@@ -1,5 +1,18 @@
 {
-  "last_updated": null,
-  "candidates": [],
+  "last_updated": "2026-08-01T09:45:00-04:00",
+  "candidates": [
+    {
+      "ticker": "AXTI",
+      "note": "AXT Inc, +36.7% Fri 7/31 on Q2 earnings beat (EPS $0.19 vs $0.07 est, rev $47.6M vs $34.1M est), driven by AI/data-center indium phosphide demand. Price unconfirmed this run (data sources unavailable); web sources conflicted ($44-$58 range) and need verification via a live quote before sizing any trade."
+    },
+    {
+      "ticker": "INTC",
+      "note": "Intel, sharp multi-day rally after Q2 beat (rev $16.1B vs $14.45B est, EPS $0.42 vs $0.22 est, Data Center & AI revenue +59%). Reported trading near ~$90/sh, likely too expensive for a meaningfully sized position on $200 cash; kept on watchlist for context, not a near-term buy candidate."
+    },
+    {
+      "ticker": "IRWD",
+      "note": "Ironwood Pharmaceuticals, ~$4.23 with a bullish moving-average crossover technical signal on 7/31. Low share price fits the $200 budget well; priority name to get a confirmed live quote on next run."
+    }
+  ],
   "note": "This file is overwritten by the agent each run with its self-sourced candidate list (from news/movers search) plus any tickers currently held. Not user-curated."
 }
