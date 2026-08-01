@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-08-01T09:45:00-04:00",
+  "last_updated": "2026-08-01T09:47:00-04:00",
   "candidates": [
     {
       "ticker": "AXTI",
-      "note": "AXT Inc, +36.7% Fri 7/31 on Q2 earnings beat (EPS $0.19 vs $0.07 est, rev $47.6M vs $34.1M est), driven by AI/data-center indium phosphide demand. Price unconfirmed this run (data sources unavailable); web sources conflicted ($44-$58 range) and need verification via a live quote before sizing any trade."
+      "note": "AXT Inc, +36.7% Fri 7/31 on Q2 earnings beat (EPS $0.19 vs $0.07 est, rev $47.6M vs $34.1M est), driven by AI/data-center indium phosphide demand. Aggregator sites now show ~$58.90 close on 7/31 (+25.48% that session per one source, figures conflict across sites). Still unconfirmed by a live quote (both TipRanks and Alpha Vantage unavailable this run) -- top priority name to verify once data access is restored."
     },
     {
       "ticker": "INTC",
@@ -11,8 +11,8 @@
     },
     {
       "ticker": "IRWD",
-      "note": "Ironwood Pharmaceuticals, ~$4.23 with a bullish moving-average crossover technical signal on 7/31. Low share price fits the $200 budget well; priority name to get a confirmed live quote on next run."
+      "note": "Ironwood Pharmaceuticals. Web sources now show ~$3.80-3.85 (down from ~$4.23 cited previously), off strong Q1 LINZESS U.S. net sales growth (+97% YoY) and reaffirmed FY26 guidance. Low share price fits the $200 budget well; still needs a confirmed live quote (unavailable this run) before sizing."
     }
   ],
-  "note": "This file is overwritten by the agent each run with its self-sourced candidate list (from news/movers search) plus any tickers currently held. Not user-curated."
+  "note": "This file is overwritten by the agent each run with its self-sourced candidate list (from news/movers search) plus any tickers currently held. Not user-curated. Both live-quote sources (TipRanks MCP quota, Alpha Vantage network egress) were unavailable again this run -- see portfolio.json recommendations_log for details."
 }
