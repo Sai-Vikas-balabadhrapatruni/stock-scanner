@@ -1,7 +1,9 @@
 # Stock Scanner Agent — Run Instructions
 
 Project directory: `~/Coding/stock-scanner/`
-Files: `portfolio.json` (state), `watchlist.json` (growing candidate universe), `config.json` (API key, email, schedule).
+Files: `portfolio.json` (state), `watchlist.json` (growing candidate universe), `config.json` (email, schedule).
+
+All research and pricing is done via WebSearch/WebFetch only — no TipRanks or Alpha Vantage connectors/APIs are used in this project.
 
 ## Goal
 Maximize total return on the $200 starting cash between `challenge_start` and `challenge_end` in `portfolio.json`. This favors decisive, higher-conviction moves over passive holding, especially as `challenge_end` approaches — but never at the cost of the hard rules below.
@@ -18,23 +20,22 @@ Maximize total return on the $200 starting cash between `challenge_start` and `c
 Read `portfolio.json` for current cash, open `holdings`, and `challenge_end`. Read `watchlist.json` for the existing candidate universe built up by prior runs.
 
 ### 2. Grow and refresh the watchlist (not a fixed shortlist)
-`watchlist.json` is a **growing universe**, not overwritten from scratch each run:
-- Use WebSearch to find today's high-growth candidates: top market movers/gainers, notable earnings beats, sector momentum (AI/semis, biotech catalysts, etc.), screened toward stocks priced low enough that $200 (or remaining cash) can meaningfully buy shares.
+`watchlist.json` is a **growing universe**, not overwritten from scratch each run. Source candidates entirely via WebSearch/WebFetch — no TipRanks or Alpha Vantage (not used in this project):
+- Today's high-growth candidates: top market movers/gainers, notable earnings beats, sector momentum (AI/semis, biotech catalysts, etc.), screened toward stocks priced low enough that $200 (or remaining cash) can meaningfully buy shares.
+- **Institutional/long-term-investor activity**: search for what well-known long-term investors and institutions are currently holding or have recently transacted — e.g. recent 13F filing news (Berkshire Hathaway/Buffett, other prominent funds), notable insider buying/selling, analyst upgrades tied to institutional accumulation. Use this as a signal feeding into candidate sourcing and conviction (a stock notable investors are accumulating is a stronger candidate; one they're exiting is a warning sign for existing holdings), not as a price source.
 - **Add** newly-found promising names to `watchlist.candidates` (don't drop existing ones just because they weren't mentioned today).
-- **Update** existing entries' notes/last-seen-price/thesis if you found fresher information on them today.
+- **Update** existing entries' notes/last-seen-price/thesis if you found fresher information on them today, including any institutional-activity notes.
 - It's fine and expected for this list to grow over the course of the 30-day challenge (aim to have accumulated a broad set — dozens of names across a few sectors — by the end, not just 3-5).
 - Every open holding must always be present in the watchlist (so it keeps getting priced/reviewed each run even if it's no longer a "hot" candidate).
 
 ### 3. Get prices for anything you might act on
-You don't need a fresh price for every single name in the whole accumulated watchlist every run — that won't scale. Prioritize: all open holdings (always), plus the strongest handful of candidates from today's refresh (step 2) that look buy-worthy. For each of those, get a price in this priority order:
-- Try the TipRanks financial data MCP connector first, if available and not rate/quota-limited.
-- Otherwise, fetch Alpha Vantage `GLOBAL_QUOTE` via the `WebFetch` tool (not `curl`/Bash — sandbox network egress policy blocks direct Bash internet access and may also block alphavantage.co specifically; if so, skip straight to the next option rather than retrying).
-- **Fallback — WebSearch-sourced price**: if both of the above are unavailable, use a price found via WebSearch, but only if:
+You don't need a fresh price for every single name in the whole accumulated watchlist every run — that won't scale. Prioritize: all open holdings (always), plus the strongest handful of candidates from today's refresh (step 2) that look buy-worthy. Pricing is entirely WebSearch/WebFetch-based (no TipRanks/Alpha Vantage):
+- Use WebSearch to find a price for each ticker, only if:
   - It comes from a specific, named, reputable source (e.g. a finance site's quote page, not a vague aggregator claim), and
   - You can cross-reference it against at least one other independent source and they roughly agree (within ~1-2%), and
   - You note in the recommendation's reasoning that the price is **web-search-sourced, not exchange-API-verified**, with the source and timestamp/date it reflects.
-- If no price can be established even via WebSearch fallback for a ticker, exclude it from this run's buy/sell sizing.
-- Because WebSearch-sourced prices can be stale or wrong, size positions a bit conservatively when relying on this fallback (e.g. leave a small cash buffer rather than spending 100% of available cash on unverified prices).
+- If no price can be established for a ticker, exclude it from this run's buy/sell sizing.
+- Because web-sourced prices can be stale or wrong, size positions a bit conservatively (e.g. leave a small cash buffer rather than spending 100% of available cash on unverified prices).
 
 ### 4. Produce a full buy list AND a full sell list (not just one recommendation)
 - **Buy list**: every priced candidate you'd genuinely recommend buying right now, **ranked by expected profit potential** (highest-conviction / highest expected return first). For each: ticker, suggested qty, price, brief reasoning, and expected-return rationale (why this one and why that ranking). The suggested buys don't all have to be affordable simultaneously — rank them, and note in the email how far down the list current cash actually covers, so the user can act on however many they choose top-down.
@@ -47,7 +48,7 @@ You don't need a fresh price for every single name in the whole accumulated watc
 
 ### 6. Send the email
 Send an email (via the **AgentMail** MCP connector — the Gmail connector only supports creating drafts, not sending, so it must not be used for this step) to the address in `config.json` with:
-- The ranked buy list and the sell list from step 4, including price source for each (TipRanks / Alpha Vantage / web-search fallback).
+- The ranked buy list and the sell list from step 4, including the price source for each (which search source(s) it was cross-referenced against) and any institutional/long-term-investor activity signal that informed it.
 - Current cash, open holdings, and unrealized P&L per holding.
 - Realized P&L to date and days remaining in the 30-day challenge.
 - The not-financial-advice line.
