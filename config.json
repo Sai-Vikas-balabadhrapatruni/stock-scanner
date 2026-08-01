@@ -1,0 +1,10 @@
+{
+  "alpha_vantage_api_key": "SUPPLIED_AT_RUNTIME_VIA_ROUTINE_PROMPT",
+  "alpha_vantage_daily_limit": 25,
+  "notify_email": "saivikas7209@gmail.com",
+  "timezone": "America/New_York",
+  "schedule": {
+    "morning_run": "09:45",
+    "evening_run": "16:15"
+  }
+}
