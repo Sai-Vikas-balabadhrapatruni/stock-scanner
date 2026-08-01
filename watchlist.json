@@ -1,18 +1,18 @@
 {
-  "last_updated": "2026-08-01T09:47:00-04:00",
+  "last_updated": "2026-08-01T09:52:00-04:00",
   "candidates": [
     {
-      "ticker": "AXTI",
-      "note": "AXT Inc, +36.7% Fri 7/31 on Q2 earnings beat (EPS $0.19 vs $0.07 est, rev $47.6M vs $34.1M est), driven by AI/data-center indium phosphide demand. Aggregator sites now show ~$58.90 close on 7/31 (+25.48% that session per one source, figures conflict across sites). Still unconfirmed by a live quote (both TipRanks and Alpha Vantage unavailable this run) -- top priority name to verify once data access is restored."
+      "ticker": "INTC",
+      "note": "Intel. This run's BUY recommendation (2 shares @ $91.13, web-search-sourced/cross-referenced, not exchange-API-verified). Multi-day rally after a strong Q2 beat (rev $16.1B vs $14.45B est, EPS $0.42 vs $0.22 est, Data Center & AI revenue +59% YoY). Unlike AXTI/IRWD, price quotes converged tightly (~1.1%) across two independent sources, which is why this was the only ticker sized this run."
     },
     {
-      "ticker": "INTC",
-      "note": "Intel, sharp multi-day rally after Q2 beat (rev $16.1B vs $14.45B est, EPS $0.42 vs $0.22 est, Data Center & AI revenue +59%). Reported trading near ~$90/sh, likely too expensive for a meaningfully sized position on $200 cash; kept on watchlist for context, not a near-term buy candidate."
+      "ticker": "AXTI",
+      "note": "AXT Inc, +25%-44% (sources disagree) Fri 7/31 on a Q2 beat (EPS $0.19 vs $0.07 est, rev $47.6M vs $34.1M est) driven by AI/data-center indium phosphide demand. Excluded from sizing again this run -- web-search prices conflict too widely to trust ($58.35 to $67, more than the ~1-2% cross-reference tolerance). Needs a verified live quote (TipRanks/Alpha Vantage) before it can be sized; both remain unavailable as of this run."
     },
     {
       "ticker": "IRWD",
-      "note": "Ironwood Pharmaceuticals. Web sources now show ~$3.80-3.85 (down from ~$4.23 cited previously), off strong Q1 LINZESS U.S. net sales growth (+97% YoY) and reaffirmed FY26 guidance. Low share price fits the $200 budget well; still needs a confirmed live quote (unavailable this run) before sizing."
+      "note": "Ironwood Pharmaceuticals. Excluded from sizing again this run -- web-search prices conflict too widely to trust (values seen: $4.15, $4.22, $3.80, and an outlier $1.46 tied to a source citing a not-yet-happened Aug 7 earnings date). Low share price would fit the $200 budget well if a reliable quote becomes available; still needs TipRanks/Alpha Vantage confirmation."
     }
   ],
-  "note": "This file is overwritten by the agent each run with its self-sourced candidate list (from news/movers search) plus any tickers currently held. Not user-curated. Both live-quote sources (TipRanks MCP quota, Alpha Vantage network egress) were unavailable again this run -- see portfolio.json recommendations_log for details."
+  "note": "This file is overwritten by the agent each run with its self-sourced candidate list (from news/movers search) plus any tickers currently held. Not user-curated. TipRanks MCP quota remains exhausted (0/10 calls remaining, resets 2026-09-01 UTC) and Alpha Vantage GLOBAL_QUOTE remains blocked by network egress policy (403, confirmed non-transient) -- third consecutive run with both primary quote sources unavailable. WebSearch fallback pricing was used this run per RULES.md step 3; it only cleared the reliability bar for INTC (large-cap, tightly converging quotes). AXTI and IRWD quotes conflicted too widely across sources to trust and were excluded from sizing. No open holdings currently."
 }
