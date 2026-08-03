@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-01T13:15:00-04:00",
+  "last_updated": "2026-08-03T09:55:00-04:00",
   "candidates": [
     {
       "ticker": "AMZN",
@@ -7,19 +7,19 @@
     },
     {
       "ticker": "INTC",
-      "note": "Intel. Prior BUY recommendations (2 sh @ $91.13 on an earlier run today, then excluded on two subsequent runs for price-spread reasons) were never reported as executed, so not reflected in holdings/cash. THIS RUN: price converged tightly ($90.15 / $90.20, ~0.06% spread, both Investing.com-sourced, consistent $91.13 previous close) after several runs of 5%+ spreads -- cleared the tolerance and included in this run's BUY list (1 sh @ $90.18). Fundamentals: Q2 2026 revenue $16.1B vs $14.45B est, EPS $0.42 vs $0.22 est, Data Center & AI revenue +59% YoY."
+      "note": "Intel. Prior BUY recommendations (2026-08-01, multiple runs) were never reported as executed, so not reflected in holdings/cash. 2026-08-03 RUN: price $90.20 matched exactly across CNN Business and Investing.com quote summaries (0% spread) -- highest pricing confidence of any candidate this run, though both reads appear to reflect ~2026-07-31 trading rather than a same-day quote. Included in this run's BUY list (1 sh @ $90.20). Fundamentals: Q2 2026 revenue $16.1B (+25% YoY) vs $14.42B est, EPS $0.42 vs $0.21 est, Data Center & AI revenue +59% YoY to $6.3B. Some sources note a partial post-earnings pullback on substrate/memory supply-constraint commentary -- noted, not thesis-breaking."
     },
     {
       "ticker": "AXTI",
-      "note": "AXT Inc (semis, indium phosphide substrates for AI/data-center optics). An earlier run today logged a BUY (2 sh @ $46.92) but it was never reported executed. THIS RUN: prices conflicted sharply again ($44.25, $46.91, $58.35, $60.43, $66.90, $67.68 across different source snippets) -- excluded from sizing. Thesis unchanged: Q2 2026 record revenue $47.6M and net income $11.1M (turnaround from losses), new long-term Lumentum indium-phosphide supply deal through 2031. NEW CONTEXT: broader AI/semis sector sold off this week on valuation concerns (SK Hynix -11%, Samsung -9%, AMD -5%, Teradyne -4%, Micron -2%) -- adds some caution to the momentum thesis even though AXTI itself hasn't been reliably priced today."
+      "note": "AXT Inc (semis, indium phosphide substrates for AI/data-center optics). A 2026-08-01 run logged a BUY (2 sh @ $46.92) but it was never reported executed. 2026-08-03 RUN: prices conflicted sharply again ($44.25, $46.91, $58.35, $60.43, $67.68, plus one clear $108.42 outlier discarded as a likely bad scrape) -- still a ~35%+ spread after discarding the outlier, excluded from sizing again. Thesis unchanged: Q2 2026 record revenue $47.6M and net income $11.1M (turnaround from losses), new long-term Lumentum indium-phosphide supply deal through 2031, plus a wave of analyst PT hikes (B. Riley to $55, Needham upgrade, Northland to $125) reflecting a plausible rapid rally -- but needs a clean live quote before any future sizing."
     },
     {
       "ticker": "IRWD",
-      "note": "Ironwood Pharmaceuticals. Still excluded from sizing -- this run's searches again conflicted ($4.15 from one source, consistent with prior runs, vs $1.77 from another, the latter accompanied by a claim of an 'August 7th' earnings date that is in the future relative to today and was already flagged as likely-hallucinated/unreliable data in a prior run's log). Low share price would fit the $200 budget well if a reliable quote ever becomes available, but data quality for this ticker has been consistently poor across every run so far."
+      "note": "Ironwood Pharmaceuticals. 2026-08-03 RUN: first coherent, tolerance-passing cross-reference for this historically-unreliable ticker -- a CNN-derived read shows a close of $4.23 (+13.40%, implying prior close ~$3.73) and a separate synthesis shows $4.15 intraday with an explicit previous close of $4.22; the previous-close figures agree within ~0.2% and form a coherent time series (big up-day, small pullback). Included in this run's BUY list (15 sh @ $4.20). Thesis: stock rallied ~14-16% recently on promising IBS-C trial data. Q2 2026 earnings call scheduled 2026-08-06 (3 days out) -- real near-term catalyst with binary-ish risk; also a management transition (CMO Michael Shetzline retiring, replaced by Jeffrey Silber)."
     },
     {
       "ticker": "REPL",
-      "note": "Replimune Group (clinical-stage oncolytic immunotherapy). An earlier run today logged a BUY (8 sh @ $11.10, price $11.20/$10.99 cross-referenced) but it was never reported executed. THIS RUN: re-priced at the same converged level ($11.20 Yahoo / $10.99 TradingView, ~1.9% spread; a third source's $8.69 was an outlier and excluded) and included again in this run's BUY list (8 sh @ $11.10). FDA PDUFA decision due TOMORROW, 2026-08-02. IMPORTANT: this is REPL's THIRD BLA resubmission for this exact RP1+Opdivo melanoma indication -- FDA issued CRLs on 2025-07-22 and again on the 2026-04-10 PDUFA date. The 2026-07-31 advisory panel voted 10-3 in favor of clinically meaningful benefit and Wedbush upgraded to Outperform (PT $12), but the two-CRL history means real rejection risk remains despite the positive vote. Re-price and re-evaluate urgently on the next run once tomorrow's outcome is known."
+      "note": "Replimune Group (clinical-stage oncolytic immunotherapy). 2026-08-01 runs logged BUY recommendations (8 sh @ $11.10) that were never reported executed. FDA PDUFA decision was due 2026-08-02 (fell on a Sunday). 2026-08-03 RUN: price is a partial cross-reference pass -- a CNN/TradingView-derived cluster of $11.20-$11.43 (incl. an intraday Aug 3 read of $11.43, +2.01%) agrees within ~2%, but a stocktwits-derived outlier of $6.98 could not be reconciled. CRITICAL: the actual FDA decision outcome could NOT be confirmed either way -- a low-quality drugs.com-derived snippet claimed approval under a brand name 'TUDRIQEV' but is unverified, uncorroborated by any primary source or reputable outlet, and treated as likely unreliable/hallucinated. Given this is REPL's THIRD BLA resubmission after two prior CRLs (2025-07-22 and 2026-04-10) on this exact RP1+Opdivo melanoma indication, and the 2026-07-31 AdCom vote was 10-3 in favor (Wedbush upgraded to Outperform, PT $12), EXCLUDED from this run's buy list pending confirmation of the actual decision -- buying without knowing whether it already approved or rejected would be pure speculation. Re-verify the decision status urgently on the next run."
     },
     {
       "ticker": "RDDT",
@@ -27,35 +27,83 @@
     },
     {
       "ticker": "CRDO",
-      "note": "Credo Technology. FQ4 2026 non-GAAP EPS $1.16; FY2027 consensus implies ~73% YoY EPS growth; Zacks Rank #1 (Strong Buy); FY2026 revenue $1.34B, +205.68% YoY. THIS RUN: attempted a priced check but sources diverged sharply ($159.68, $206.15, ~$215.03 across different searches, a >30% spread) -- still not reliably priced, needs a cleaner cross-reference on a future run before any sizing. Note the broader AI/semis sector pullback this week (see AXTI note) as added context."
+      "note": "Credo Technology. FQ4 2026 non-GAAP EPS $1.16; FY2027 consensus implies ~73% YoY EPS growth; Zacks Rank #1 (Strong Buy); FY2026 revenue $1.34B, +205.68% YoY. 2026-08-03 RUN: sources diverged sharply again ($161.51 vs $206.99, ~28% spread; note even single sources show internally inconsistent 52-week ranges/ATH figures) -- still not reliably priced, needs a cleaner cross-reference before any sizing."
     },
     {
       "ticker": "ALAB",
-      "note": "Astera Labs. AI fabric/PCIe 6 signal-conditioning connectivity play. Q1 2026 revenue $308M (+93.4% YoY), non-GAAP EPS $0.61 (+84.8% YoY), Gen 6 products now >1/3 of revenue. THIS RUN: attempted a priced check but sources diverged sharply ($289.78 vs $406.42, a ~40% spread) -- still not reliably priced, needs a cleaner cross-reference on a future run before any sizing. Note the broader AI/semis sector pullback this week (see AXTI note) as added context."
+      "note": "Astera Labs. AI fabric/PCIe 6 signal-conditioning connectivity play. Q1 2026 revenue $308M (+93.4% YoY), non-GAAP EPS $0.61 (+84.8% YoY), Gen 6 products now >1/3 of revenue. 2026-08-03 RUN: price CLEARED cross-reference for the first time -- $311.23 matched exactly across CNN and Investing.com (a $346 StockAnalysis-derived figure was an uncorroborated outlier and excluded). Not sized this run purely on affordability: at ~$311/share, not even 1 share fits meaningfully into the $200 budget. Keep on watchlist in case cash grows or the price pulls back."
     },
     {
       "ticker": "MRNA",
-      "note": "Moderna. FDA advisory committee voted 9-0 in favor of the mRNA-1010 seasonal flu vaccine's benefit-risk profile (ages 50-64 full approval, 65+ accelerated approval); formal PDUFA decision date 2026-08-05 (would be Moderna's 5th approved commercial product) -- a real, dated, near-term catalyst (~4 days out). THIS RUN: attempted a priced check but got five materially different figures across searches ($54.23, $54.49, $58.09, $59.76, $70.29) -- far outside the 1-2% tolerance, so still not sized despite the genuine catalyst. Needs a cleaner cross-reference, ideally closer to the 08-05 date."
+      "note": "Moderna. FDA VRBPAC voted unanimously (9-0) on 2026-06-18 that mRNA-1010 (proposed brand mFLUSIVA) seasonal flu vaccine's benefits outweigh risks (ages 50-64 full approval, 65+ accelerated approval); formal PDUFA decision date 2026-08-05 (2 days out as of this run, would be Moderna's 5th approved commercial product) -- a real, dated, near-term catalyst, decision NOT yet made. 2026-08-03 RUN: price narrowed to a two-source read of $54.82 (CNN close) vs $56.17 (Investing.com) -- ~2.4% spread, narrowly missing the ~1-2% tolerance, so still excluded from sizing. Re-check tomorrow/before 08-05, this is close to clearing."
     },
     {
       "ticker": "CVX",
-      "note": "Chevron. New this run, surfaced via institutional-activity research: Berkshire Hathaway's Q2 2026 13F (positions as of 2026-06-30) shows Berkshire added ~$1.2B to its CVX stake, its largest single add in the filing. Large, liquid, well-covered energy major -- institutional accumulation signal from a notable long-term investor. No price sourced/cross-referenced yet -- needs a priced check on a future run before any sizing."
+      "note": "Chevron. CORRECTION (2026-08-03 run): a prior run's note claiming a Berkshire Q2 2026 13F add to CVX is UNVERIFIED and likely erroneous -- Berkshire's Q2 2026 13F has not actually been filed yet (due ~2026-08-14, 45 days after the 2026-06-30 quarter-end). The most recent CONFIRMED filing (Q1 2026, filed May 2026) actually shows Berkshire REDUCING its Chevron stake, the opposite of the prior claim. 2026-08-03 RUN: price cleared cross-reference ($194.52 Investing.com vs $196.83 CNN, ~1.2% spread) but with the institutional thesis now debunked and the stock priced too high (~$195/sh) for a meaningful $200-budget position, not sized this run. Re-evaluate once the actual Q2 2026 13F is filed in mid-August."
     },
     {
       "ticker": "LAMR",
-      "note": "Lamar Advertising. New this run, surfaced via institutional-activity research: one of Berkshire Hathaway's Q2 2026 13F adds (positions as of 2026-06-30). No price sourced/cross-referenced yet -- needs a priced check on a future run before any sizing."
+      "note": "Lamar Advertising. CORRECTION (2026-08-03 run): the 'Berkshire Q2 2026 13F add' framing from a prior run is imprecise -- Berkshire's Q2 2026 13F is not filed yet (due ~2026-08-14); Berkshire's LAMR position actually dates back to a new position in Q2 2025 with additions in Q4 2025, i.e. older news, not a fresh signal. 2026-08-03 RUN: price is a borderline cross-reference fail ($160.99 CNN vs $164.62 Investing.com, ~2.2% spread) and the stock is expensive (~$160+/sh) relative to the $200 budget. Not sized this run."
     },
     {
       "ticker": "ELV",
-      "note": "Elevance Health. New this run, surfaced via insider-buying research: CEO Gail Boudreaux purchased ~$1.0M of stock on 2026-07-17 ($366.41-$368.25/sh across multiple purchases), and director Ramiro G. Peru separately bought ~$366K (1,000 sh @ $366.05) the same day. Meaningful cluster of insider buying at the top. Likely too expensive per-share for a large position on $200 cash even at 1 share, but worth a priced check on a future run given the insider-conviction signal."
+      "note": "Elevance Health. CEO Gail Boudreaux purchased ~$1.0M of stock on 2026-07-17 (~$367.79/sh), and director Ramiro G. Peru separately bought ~$366K the same day -- notably his FIRST purchase since 2008, reversing a long sell history. Followed Elevance raising FY2026 EPS/cash-flow guidance post-Q2. 2026-08-03 RUN: price cleared cross-reference cleanly ($372.85 Investing.com vs $375.84 CNN, ~0.8% spread) but at ~$374/share is too expensive for a meaningful $200-budget position -- not sized this run, kept for the insider-conviction signal in case cash grows."
     },
     {
       "ticker": "BOLD",
-      "note": "Boundless Bio. New this run, surfaced via insider-buying research: Kevin Tang / Tang Capital Management LLC (10% owners, notable biotech-focused investor) collectively bought ~$268,880 of stock across multiple transactions between 2026-06-30 and 2026-07-02. Clinical-stage biotech -- higher risk profile. No price sourced/cross-referenced yet -- needs a priced check on a future run before any sizing."
+      "note": "Boundless Bio. Kevin Tang / Tang Capital Management LLC (10% owner, notable biotech-focused investor) made repeated on-market purchases through late June-July 2026 (e.g. 286,333 sh late June at $2.40-$2.60, more in early/mid-July at $2.43-$2.60), no August-dated buys found yet. 2026-08-03 RUN: price ~$2.48 (CNN, single-source only -- not independently cross-referenced). MAJOR NEW DEVELOPMENT: Boundless Bio and Serapha Bio announced a definitive all-stock merger agreement (BOLD shareholders to receive a cash dividend + minority stake in the combined entity) -- this turns BOLD into a merger-arb situation rather than a clean growth play; excluded from sizing pending clarity on final deal terms/valuation."
     },
     {
       "ticker": "IPX",
-      "note": "IperionX (critical minerals/titanium). New this run, surfaced via insider-buying research: Executive Chairman Todd Hannigan made a ~$1.1M open-market purchase on 2026-07-13, days after a $50M equity raise, part of a run of 2026 insider buys. No price sourced/cross-referenced yet -- needs a priced check on a future run before any sizing."
+      "note": "IperionX (critical minerals/titanium). Executive Chairman Todd Hannigan made a ~$1.1M open-market purchase on 2026-07-13, days after a $50M equity raise; SEC Form 6-Ks confirm further insider/director purchases totaling ~$4.3M March-April 2026 plus additional director buys in July 2026 (amount not fully specified). 2026-08-03 RUN: price failed cross-reference sharply ($34.70 CNN vs $41.36 Investing.com, ~19% spread) -- excluded from sizing, needs a clean live quote on a future run."
+    },
+    {
+      "ticker": "SOFI",
+      "note": "New 2026-08-03: SoFi Technologies. CEO Anthony Noto has made repeated, large open-market insider buys across 2026 -- five separate transactions (e.g. 56,000 sh @ ~$17.50-18.20; 28,900 sh @ $17.32; 15,878 sh; 15,545 sh @ $16.00; 13,888 sh @ $18.06), ~$2.25M cumulative, most recently 2026-06-16, bringing his direct stake to ~11.96M shares. Repeated CEO buying (not routine option exercises) at a price affordable on a $200 budget (mid-teens) is a notable conviction signal. No independently cross-referenced current price yet -- needs a priced check on a future run before any sizing."
+    },
+    {
+      "ticker": "OKLO",
+      "note": "New 2026-08-03: Oklo Inc (nuclear/SMR, AI-power-demand theme). Sector rallied >10% in late July on Holtec NRC decommissioning-plan news. Reports Q2 2026 earnings before the open on 2026-08-07 -- a near-term catalyst. Approx. price ~$39-45 (not independently cross-referenced yet) -- needs a priced check on a future run before any sizing."
+    },
+    {
+      "ticker": "APLD",
+      "note": "New 2026-08-03: Applied Digital. Beat Q4 FY26 estimates (revenue $258.7M, +407% YoY; adj. EPS $0.04 vs an expected loss) on AI data-center leasing momentum (Polaris Forge 3, a 15-yr hyperscaler lease). Stock +88% YTD, average analyst target $72.54. Approx. price ~$30 (not independently cross-referenced yet) -- needs a priced check on a future run before any sizing."
+    },
+    {
+      "ticker": "PLTR",
+      "note": "New 2026-08-03: Palantir Technologies. Reported Q2 2026 results after market close TODAY (2026-08-03) -- consensus was $1.81B revenue / $0.34 EPS, with 8 consecutive prior quarterly beats; traded ~+2.75% into the print on govt-AI-contract optimism (Baird PT $200, calling it a 'premier AI growth asset'). Pre-earnings price ~$123-127; the after-hours/next-day reaction to tonight's print is UNKNOWN as of this run -- re-price and re-evaluate on the next run once the reaction is visible, do not size off the stale pre-earnings price."
+    },
+    {
+      "ticker": "HYFM",
+      "note": "New 2026-08-03, flagged explicitly as LOW QUALITY: Hydrofarm Holdings. Reported a +494% single-day spike on completion of an asset sale (Aurora Peat unit) plus a new logistics platform launch, but this is a sub-$1-$3 micro-cap penny stock with declining revenue and large losses. Kept on watchlist for visibility only -- not a genuine candidate; do not size without a much stronger fundamental case."
+    },
+    {
+      "ticker": "MU",
+      "note": "New 2026-08-03, sector-context only (NOT tradeable on this budget): Micron Technology. Record Q3 FY26 results (revenue $41.5B, +346% YoY; EPS $25.11 vs $20.28 est), guided Q4 revenue to $50B, jumped +15.7% on the print (late June 2026), part of a genuine AI-driven memory/NAND shortage supercycle. Trades ~$807-823/share -- far above the $200 budget for even 1 share. Kept only as sector-momentum context for AXTI/CRDO/ALAB theses."
+    },
+    {
+      "ticker": "SNDK",
+      "note": "New 2026-08-03, sector-context only (NOT tradeable on this budget): SanDisk. Same AI-storage/NAND shortage theme as MU -- ~12% options-implied move into an 2026-08-05 earnings date, stock reportedly up ~574% over the past year. Trades roughly ~$1,200/share -- far above the $200 budget. Kept only as sector-momentum context."
+    },
+    {
+      "ticker": "NTRA",
+      "note": "New 2026-08-03, surfaced via institutional-activity research: Natera. Duquesne Family Office (Stanley Druckenmiller) added +552,249 shares (~$118.5M) in its Q1 2026 13F (filed mid-May 2026), bringing the position to ~$613M and ~18% of the Duquesne portfolio -- its largest holding. No price sourced/cross-referenced yet -- needs a priced check on a future run before any sizing."
+    },
+    {
+      "ticker": "AVGO",
+      "note": "New 2026-08-03, surfaced via institutional-activity research: Broadcom. New position initiated by Duquesne Family Office (Stanley Druckenmiller) in its Q1 2026 13F (one of 31 new positions that quarter). No price sourced/cross-referenced yet -- likely a high-priced mega-cap, needs a priced check on a future run before any sizing (may be unaffordable on a $200 budget)."
+    },
+    {
+      "ticker": "HOOD",
+      "note": "New 2026-08-03, surfaced via insider-activity research: Robinhood Markets. A director-affiliated fund (Meyer 'Micky' Malka) made an open-market buy of 249,000 shares (~$20M at avg. $80.39/sh) on 2026-05-28 -- notably his FIRST purchase after 18+ months of selling. No price sourced/cross-referenced yet for the current date -- needs a priced check on a future run before any sizing."
+    },
+    {
+      "ticker": "CAG",
+      "note": "New 2026-08-03, surfaced via insider-activity research: Conagra Brands. CEO John P. Brase made an open-market buy of 35,000 shares (~$510,632) on 2026-07-17. Smaller/lower-conviction defensive-sector insider signal. No price sourced/cross-referenced yet -- needs a priced check on a future run before any sizing."
+    },
+    {
+      "ticker": "ACI",
+      "note": "New 2026-08-03, surfaced via insider-activity research: Albertsons Companies. CEO/Director Susan Morris made an open-market buy of 39,409 Class A shares (~$449,937) on 2026-07-28. Smaller/lower-conviction defensive-sector insider signal. No price sourced/cross-referenced yet -- needs a priced check on a future run before any sizing."
     }
   ],
   "note": "This is a GROWING candidate universe, not overwritten each run: new high-growth names are added over time and existing entries get their notes/prices refreshed, per RULES.md. Not user-curated. Every open holding must always appear here too."
