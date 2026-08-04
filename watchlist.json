@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-03T16:20:00-04:00",
+  "last_updated": "2026-08-04T09:50:00-04:00",
   "candidates": [
     {
       "ticker": "AMZN",
@@ -7,19 +7,19 @@
     },
     {
       "ticker": "INTC",
-      "note": "Intel. Prior BUY recommendations (multiple runs, never executed by user). 2026-08-03 EVENING RUN: price $90.20 (Yahoo Finance, Jul 31 close) vs $91.19 (StockAnalysis.com, intraday Aug 3), ~1.10% spread, PASSES (mild staleness caveat -- reads not simultaneous). Included in this run's BUY list (rank #2, 1 sh @ $90.70). Fundamentals unchanged: Q2 2026 revenue $16.1B (+25% YoY) vs $14.42-14.45B est, EPS $0.42 vs ~$0.21-0.22 est, Data Center & AI revenue +59% YoY. NEW CAUTION: EVP Naga Chandrasekaran sold ~21K sh (~9% of his stake); BofA cut its INTC stake 7.3% in Q1 2026 -- mild insider/institutional caution flag, not thesis-breaking."
+      "note": "Intel. Prior BUY recommendations (multiple runs, never executed by user). 2026-08-04 MORNING RUN: price $91.00 (Yahoo Finance, close 2026-08-03) vs $90.20 (StockAnalysis.com, close 2026-07-31, 3-day stale), ~0.9% spread -- technically passes but dates don't align. Ranked below this run's 4 picks (AXTI/IONS/ACI/CVBF) and excluded purely on budget -- no fresh catalyst since last run, insider caution (EVP Chandrasekaran sale, BofA Q1 trim) unchanged. Fundamentals unchanged: Q2 2026 revenue $16.1B (+25% YoY) vs $14.42-14.45B est, EPS $0.42 vs ~$0.21-0.22 est, Data Center & AI revenue +59% YoY."
     },
     {
       "ticker": "AXTI",
-      "note": "AXT Inc (semis, indium phosphide substrates for AI/data-center optics). Multiple prior BUY recommendations never executed. 2026-08-03 EVENING RUN: price cleared cross-reference for the first time with real confidence -- $68.68 (StockAnalysis/CNN cluster, 'closed Aug 3') vs $69.67 (Investing.com, 'today'), ~1.44% spread, PASSES. NOT included in this run's buy list despite passing: this ticker has failed cross-reference in nearly every prior run this challenge with wildly conflicting reads ($44-$108 range across runs), so today's convergence around ~$69 (a ~45-50% jump from the ~$46-47 level in the last recommendation two days ago) is treated with elevated skepticism. NEW NEGATIVE SIGNAL: persistent director-only insider SELLING with no buys in the past 12 months (~$71M net insider selling), a real bearish tell despite genuinely strong fundamentals (record Q2 revenue $47.6M/net income $11.1M, multi-year Lumentum supply deal through 2031, analyst PT hikes to $125). Reconsider only if pricing proves reliable across another run or two and insider-selling trend reverses."
+      "note": "AXT Inc (semis, indium phosphide substrates for AI/data-center optics). Multiple prior BUY recommendations never executed. 2026-08-04 MORNING RUN: price cleared cross-reference with the tightest confidence yet -- $68.67 (Google Finance, close 2026-08-03) vs $68.69 (Investing.com, 2026-08-03), ~0.03% spread. Fresh sell-side upgrades tied to the post-earnings re-rating: Needham upgraded to Buy (PT $90) and Wedbush reiterated Outperform (PT $93) on 2026-08-03 -- both well above the ~$68.68 price, implying ~31-35% headroom. INCLUDED in this run's BUY list (rank #1, 1 sh @ $68.68) -- first buy of this ticker after many prior runs of conflicting/excluded prices. Caution carried forward: persistent director-only insider SELLING over the trailing 12 months (~$71M net), but those sales predate this rally and the fresh analyst upgrades are a more current signal."
     },
     {
       "ticker": "IRWD",
-      "note": "Ironwood Pharmaceuticals. 2026-08-03 morning run bought/recommended 15 sh @ $4.20 (never executed). 2026-08-03 EVENING RUN: price REVERSED to a narrow cross-reference FAIL -- $4.23 (Yahoo Finance) vs $4.32 (WallStreetZen/Robinhood cluster, dated Aug 2), ~2.13% spread, just over tolerance. NEW NEGATIVE SIGNALS found: director Julie McHugh sold shares 6/16; another insider sold ~$578K on 7/7; a CFO-adjacent management transition; a reported 14.5% May 2026 decline attributed to insider selling; institutional outflows currently exceeding inflows. EXCLUDED from this run's buy list on both price-tolerance and thesis grounds. Q2 2026 earnings call still scheduled 2026-08-06."
+      "note": "Ironwood Pharmaceuticals. 2026-08-03 morning run bought/recommended 15 sh @ $4.20 (never executed). 2026-08-04 MORNING RUN: price failed cross-reference again -- $4.23 (CNN) vs $4.47 (Google Finance), ~5.7% spread (a third read of $4.15 added further noise). Insider-selling trend now clearer: PFO Ronald Silver sold 127,890 sh @ $4.52 (filed 7/9); ~$20.5M in insider sales over trailing 3 months with zero offsetting buys -- likely a pre-earnings blackout given no fresh Form 4s found. Q2 2026 earnings call is 2026-08-06 (2 days out) -- live near-term catalyst but EXCLUDED from buying given price unreliability and the insider-selling backdrop."
     },
     {
       "ticker": "REPL",
-      "note": "Replimune Group (clinical-stage oncolytic immunotherapy). FDA PDUFA decision on the RP1+Opdivo BLA was due 2026-08-02 (Sunday). 2026-08-03 EVENING RUN: extensive re-search (STAT News, BioSpace, OncLive, CancerNetwork, PharmExec, StockTitan, Replimune's own IR page, SEC EDGAR) STILL could not confirm the actual decision outcome -- a low-quality 'approved under TUDRIQEV' claim remains uncorroborated by any primary/reputable source and is treated as unreliable/likely hallucinated. Price itself cleared cross-reference this run ($11.21 vs $11.43, ~1.96% spread) but that's irrelevant while the binary outcome is genuinely unknown. EXCLUDED again -- this is REPL's third submission after two prior CRLs (2025-07-22, 2026-04-10) on this exact indication, so buying blind into an unresolved decision would be pure speculation. Re-verify the decision status urgently on the next run; check FDA.gov and Replimune IR directly."
+      "note": "Replimune Group (clinical-stage oncolytic immunotherapy). FDA PDUFA decision on the RP1+Opdivo BLA was due 2026-08-02 (Sunday). 2026-08-04 MORNING RUN: STILL no confirmed final decision -- one research pass found REPL closed Monday 2026-08-03 at $11.91 (+6.34%) with only the 2026-07-30 10-3 favorable adcomm vote confirmed (no final decision), while a separate same-day pricing pass found much lower reads (~$7.50 Google Finance, ~$6.98 Stocktwits) implying a ~35-40% drop from Monday's close. SERIOUS UNRESOLVED DISCREPANCY -- could be stale/bad scrapes, or could mean the market has learned of a negative outcome (a third CRL, consistent with two prior rejections on this exact indication: 2025-07-22, 2026-04-10) not yet picked up by news search. EXCLUDED again, now flagged URGENT -- do not size until both the actual current price and FDA outcome are directly confirmed via Replimune's IR page or SEC EDGAR."
     },
     {
       "ticker": "RDDT",
@@ -35,7 +35,7 @@
     },
     {
       "ticker": "MRNA",
-      "note": "Moderna. FDA PDUFA decision on mRNA-1010 (mFLUSIVA flu vaccine) due 2026-08-05 -- now just 2 DAYS OUT as of this run, a live near-term catalyst worth close monitoring. 2026-08-03 EVENING RUN: price failed cross-reference again -- $54.82 (Yahoo, 'closed today') vs $56.78 (CNBC/Investing.com cluster), ~3.57% spread. Excluded from sizing; re-check tomorrow, this is close to the decision date and worth a priority re-check next run."
+      "note": "Moderna. FDA PDUFA decision on mRNA-1010 (mFLUSIVA flu vaccine) due 2026-08-05 -- now due TOMORROW, an imminent binary catalyst. 2026-08-04 MORNING RUN: price still unreliable -- best cross-reference read ~2.6% spread (Google Finance $58.25 vs an unclear-source $56.78), but other snippets ranged wildly $56-82 plus a clearly stale $120.38 figure. EXCLUDED -- too close to an imminent binary decision with too little pricing confidence to size responsibly. TOP PRIORITY re-check next run once the decision (and a clean price) is confirmed."
     },
     {
       "ticker": "CVX",
@@ -63,7 +63,7 @@
     },
     {
       "ticker": "OKLO",
-      "note": "Oklo Inc (nuclear/SMR, AI-power-demand theme). DOE authorized startup operations for the Groves isotope test reactor on 2026-07-23 (regulatory de-risking event). Reports Q2 2026 earnings 2026-08-07 (near-term catalyst). 2026-08-03 EVENING RUN: price cleared cross-reference -- $41.91 (Yahoo Finance) vs $41.17 (CNN/Robinhood/Morningstar cluster, 'closed Aug 3'), ~1.80% spread, PASSES. Included in this run's BUY list (rank #1, 1 sh @ $41.54) -- highest-ranked pick given the stacked near-term catalyst (earnings) plus already-derisked regulatory tailwind in a secular AI-power-demand theme."
+      "note": "Oklo Inc (nuclear/SMR, AI-power-demand theme). DOE authorized startup operations for the Groves isotope test reactor on 2026-07-23 (regulatory de-risking event). Reports Q2 2026 earnings 2026-08-07 (near-term catalyst). Bought/recommended in the 2026-08-03 evening run (1 sh @ $41.54). 2026-08-04 MORNING RUN: price data badly conflicting -- two same-day reads diverged ~54% ($38.83 vs $59.80), clearly reflecting different time periods/stale caching rather than a real spread; no usable price established. No fresh insider activity found (last cluster was $22.1M in sales 7/1-7/2, likely a pre-earnings blackout). EXCLUDED this run on pricing grounds -- priority re-check needed given earnings are 3 days out."
     },
     {
       "ticker": "APLD",
@@ -99,15 +99,15 @@
     },
     {
       "ticker": "CAG",
-      "note": "Conagra Brands. CEO John P. Brase made an open-market buy of 35,000 shares (~$510,632) on 2026-07-17. 2026-08-03 EVENING RUN: price cleared cross-reference exactly -- $14.51 (CNN) vs $14.51 (TradingView), 0% spread (an Investing.com range and a stale $18.47 snippet were excluded as outliers). Included in this run's BUY list (rank #4, 1 sh @ $14.51) -- cheap, defensive, insider-backed name included primarily for diversification."
+      "note": "Conagra Brands. CEO John P. Brase made an open-market buy of 35,000 shares (~$510,632) on 2026-07-17 -- now over 2.5 weeks old and comparatively stale. Bought/recommended in the 2026-08-03 evening run (1 sh @ $14.51). 2026-08-04 MORNING RUN: price FAILED cross-reference -- $14.91 (CNN) vs $13.60 (Yahoo), ~9.6% spread, a reversal from the prior run's exact match. EXCLUDED this run on price-tolerance grounds; re-check for a cleaner quote next run."
     },
     {
       "ticker": "ACI",
-      "note": "Albertsons Companies. CEO/Director Susan Morris made an open-market buy of 39,409 Class A shares (~$449,937) on 2026-07-28 -- the freshest insider-buy signal in this run's research. 2026-08-03 EVENING RUN: price cleared cross-reference -- $11.58 (CNN, close) vs $11.47 (TradingView), ~0.96% spread, PASSES (a StockAnalysis.com read of $11.06/-24.2% was excluded as a stale cache of the Jul 23 earnings-crash day). Included in this run's BUY list (rank #3, 2 sh @ $11.53)."
+      "note": "Albertsons Companies. CEO/Director Susan Morris made an open-market buy of 39,409 Class A shares (~$449,937) on 2026-07-28. Bought/recommended in the 2026-08-03 evening run (2 sh @ $11.53). 2026-08-04 MORNING RUN: price cleared cross-reference again -- $11.58 (CNN, close) vs $11.60 (Google Finance, intraday), ~0.17% spread, PASSES. Included again in this run's BUY list (rank #3, 2 sh @ $11.59) -- insider signal now ~1 week old but reinforced by a tight, repeatable price cross-reference."
     },
     {
       "ticker": "AAOI",
-      "note": "New 2026-08-03 (evening run): Applied Optoelectronics. AI-networking optical transceiver demand driver; +4.7-15% intraday today per market-movers research. Reports earnings 2026-08-06 (near-term catalyst). Approx. price ~$109/share (not independently cross-referenced yet) -- needs a priced check on a future run before any sizing."
+      "note": "Applied Optoelectronics. AI-networking optical transceiver demand driver. Reports earnings 2026-08-06 (near-term catalyst). 2026-08-04 MORNING RUN: price failed cross-reference -- $109.53 (TradingView, +4.67% intraday) vs $102.07 (StockAnalysis.com, -8.9%), ~7.1% spread; the two reads likely capture different intraday moments given how volatile this name is right now. EXCLUDED, needs a cleaner quote before earnings on 8/6."
     },
     {
       "ticker": "EZRA",
@@ -115,31 +115,55 @@
     },
     {
       "ticker": "CVBF",
-      "note": "New 2026-08-03 (evening run), surfaced via insider-activity research: CVB Financial Corp. Director Raymond O'Brien III bought 20,000 sh (~$455K) on 2026-07-28 @ ~$22.77. No independently cross-referenced current price yet -- needs a priced check on a future run before any sizing."
+      "note": "CVB Financial Corp. Director Raymond O'Brien III bought 20,000 sh (~$455K) on 2026-07-28 @ ~$22.77. 2026-08-04 MORNING RUN: price cleared cross-reference -- $22.80 (Investing.com, current session) vs $22.37 (stockinvest.us, close 2026-07-31), ~1.9% spread, narrowly PASSES (a $18.17 read excluded as a stale outlier). INCLUDED in this run's BUY list (rank #4, 1 sh @ $22.58)."
     },
     {
       "ticker": "FSBC",
-      "note": "New 2026-08-03 (evening run), surfaced via insider-activity research: Director Robert Perry-Smith bought ~31,363 sh (~$1.4M, indirect) on 2026-07-22 @ $44.00. No independently cross-referenced current price yet -- needs a priced check on a future run before any sizing."
+      "note": "Five Star Bancorp. Director Robert Perry-Smith bought ~31,363 sh (~$1.4M, indirect) on 2026-07-22 @ $44.00. 2026-08-04 MORNING RUN: price FAILED cross-reference -- $39.10 (aggregate, likely stale) vs $48.22 (TradingView, -2.25%, consistent with a $50.26 ATH set 7/16), ~20.9% spread. EXCLUDED, needs a cleaner quote."
     },
     {
       "ticker": "RBKB",
-      "note": "New 2026-08-03 (evening run), surfaced via insider-activity research: Rhinebeck Bancorp. CEO Matthew Smith bought 12,425 sh (~$149K) on 2026-07-22 @ ~$12 -- cheap entry point. No independently cross-referenced current price yet -- needs a priced check on a future run before any sizing."
+      "note": "Rhinebeck Bancorp. CEO Matthew Smith bought 12,425 sh (~$149K) on 2026-07-22 @ ~$12. 2026-08-04 MORNING RUN: price inconclusive -- $12.06 (Yahoo Finance, 1:40pm ET, -3.37%) vs a $12.50 open/$12.14-12.62 day-range read, ~3.7% spread vs open (a conflicting $16.09 CNN close excluded as a likely outlier). Treated conservatively as a FAIL and EXCLUDED pending a cleaner check."
     },
     {
       "ticker": "MPLT",
-      "note": "New 2026-08-03 (evening run), surfaced via insider-activity research: Director Troy Cox bought 15,620 sh (~$148,702) on 2026-07-28 @ $9.52 -- cheap entry point. No independently cross-referenced current price yet -- needs a priced check on a future run before any sizing."
+      "note": "Confirmed as MapLight Therapeutics, Inc. (clinical-stage CNS biopharma, IPO'd Oct 2025). Director Troy Cox bought 15,620 sh (~$148,702) on 2026-07-28 @ $9.52. Stock has since re-rated sharply on positive Phase 2 ZEPHYR trial data announced 2026-07-27 (analyst targets jumped to $43-52). 2026-08-04 MORNING RUN: price FAILED cross-reference -- $30.89 vs $35.23 (~13.1% spread) -- both plausible post-catalyst levels but too noisy to size; a stale pre-catalyst $16.77 (Jan 2026) figure excluded. EXCLUDED, needs a cleaner quote; event-driven/volatile right now."
     },
     {
       "ticker": "IONS",
-      "note": "New 2026-08-03 (evening run), surfaced via insider-activity research: Ionis Pharmaceuticals. Director Michael Hayden (notable scientific figure) bought 20,000 sh (~$1.1M) around 2026-07-30 @ $52.94 avg -- a meaningful biotech insider-conviction signal. No independently cross-referenced current price yet -- needs a priced check on a future run before any sizing."
+      "note": "Ionis Pharmaceuticals. Director Michael Hayden (notable scientific figure) bought 20,000 sh (~$1.1M) around 2026-07-30 @ $52.94 avg -- a meaningful biotech insider-conviction signal. 2026-08-04 MORNING RUN: price cleared cross-reference -- $54.93 (Yahoo-sourced) vs an implied ~$54.90 prior close, ~0.05% spread, PASSES; stock also reacted +4.77% to Q2 2026 earnings (7/29). INCLUDED in this run's BUY list (rank #2, 1 sh @ $54.93)."
     },
     {
       "ticker": "ARTV",
-      "note": "New 2026-08-03 (evening run), surfaced via institutional-activity research: RA Capital Management (10% owner) bought 41,319 sh (~$9.99/sh) on 2026-07-24 -- notable specialist biotech institutional investor. Cheap entry point. No independently cross-referenced current price yet -- needs a priced check on a future run before any sizing."
+      "note": "Artiva Biotherapeutics. RA Capital Management (10% owner) bought 41,319 sh (~$9.99/sh) on 2026-07-24 -- notable specialist biotech institutional investor. 2026-08-04 MORNING RUN: price FAILED cross-reference (marginal) -- $10.32 (CNN, last close, +2.89% pre-market) vs $10.77 (dated 'as of 8/4'), ~4.3% spread; a third read of $9.78 underscores high volatility (52-wk range $1.47-$14.53, next earnings 8/27). EXCLUDED, needs a cleaner quote."
     },
     {
       "ticker": "PKBK",
-      "note": "New 2026-08-03 (evening run), surfaced via insider-activity research: Parke Bancorp. CEO Vito Pantilione bought 1,300 sh ($43,784) on 2026-07-29 @ $33.68 -- a smaller-magnitude insider signal than the others found this run. No independently cross-referenced current price yet -- needs a priced check on a future run before any sizing."
+      "note": "Parke Bancorp. CEO Vito Pantilione bought 1,300 sh ($43,784) on 2026-07-29 @ $33.68 -- a smaller-magnitude insider signal. 2026-08-04 MORNING RUN: price FAILED cross-reference -- $21.17 (Nasdaq.com, 12:45pm ET) vs $22.42 (aggregate), ~5.7% spread (a stale $30.71 6/1 read excluded). EXCLUDED, needs a cleaner quote."
+    },
+    {
+      "ticker": "PLTR",
+      "note": "New 2026-08-04 (morning run): Palantir Technologies. Reported Q2 2026 after close 2026-08-03 -- revenue $1.94B (+93% YoY), net income $1.07B (vs ~$329M a year ago), raised FY2026 US commercial revenue guidance to >$3.42B (from $3.22B). Shares closed 8/3 at $125.65, jumped as much as ~15% after-hours, and extended to ~$146.03 (Bloomberg/Yahoo market roundup) / $146.51 (StockMarketWatch, premarket 8/4) by 8/4 morning trading -- ~0.3% spread between the two most current reads, high pricing confidence. NOT included in this run's buy list: at ~$146/share, 1 share would consume ~73% of the $200 cash balance, crowding out diversification, and the stock has already moved sharply (+16% in ~18hrs) before this recommendation. Kept as 'priced and ready, highest-conviction pending catalyst' for a future run."
+    },
+    {
+      "ticker": "SMR",
+      "note": "New 2026-08-04 (morning run): NuScale Power. Up ~6.95% on 2026-08-03 on optimism around its ENTRA1/TVA 6GW deployment and a Romania RoPower project; Q2 2026 earnings call scheduled 2026-08-05 (near-term catalyst). Nuclear/SMR AI-power-demand theme, same as OKLO. Price not independently cross-referenced yet (context suggests roughly $10s-$20s/share) -- needs a priced check on a future run before any sizing."
+    },
+    {
+      "ticker": "AMD",
+      "note": "New 2026-08-04 (morning run): Advanced Micro Devices. Reporting Q2 2026 earnings after market close TODAY (2026-08-04) amid a broader AI/semiconductor sentiment recovery (ON Semiconductor upbeat results, Broadcom Q2 non-GAAP EPS +54% YoY, global semiconductor sales hit a record $120.6B in May 2026/+104% YoY). Not priced this run -- re-check the earnings reaction first thing next run."
+    },
+    {
+      "ticker": "CAPR",
+      "note": "New 2026-08-04 (morning run): Capricor Therapeutics. Flagged by Stocktwits as an 'in focus' name amid a cluster of August 2026 biotech PDUFA/catalyst dates (Duchenne muscular dystrophy cell therapy). Not yet researched in depth or priced -- needs a fuller catalyst/price check on a future run."
+    },
+    {
+      "ticker": "RARE",
+      "note": "New 2026-08-04 (morning run): Ultragenyx Pharmaceutical. DTX401 PDUFA decision expected by 2026-08-23 -- a real near-term catalyst window this month. Not yet priced or researched in depth -- needs a fuller catalyst/price check on a future run."
+    },
+    {
+      "ticker": "MOVE",
+      "note": "New 2026-08-04 (morning run), flagged LOW QUALITY like HYFM/EZRA: Corvex, Inc. Up an extraordinary ~75.8% on unusual heavy volume 2026-08-04 with no clear, verified catalyst identified in initial search. Kept on watchlist for visibility only -- needs a verified catalyst before being treated as a genuine candidate."
     }
   ],
   "note": "This is a GROWING candidate universe, not overwritten each run: new high-growth names are added over time and existing entries get their notes/prices refreshed, per RULES.md. Not user-curated. Every open holding must always appear here too."
