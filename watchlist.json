@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-08-11T09:52:00-04:00",
+  "last_updated": "2026-08-11T16:21:00-04:00",
   "candidates": [
     {
       "ticker": "ABCL",
-      "note": "2026-08-11 MORNING RUN, BOUGHT again. AbCellera Biologics: momentum continuing from Monday's ABCL635 Phase 2 hot-flash data (58-83% symptom-severity reduction vs placebo depending on source, described as 'off the chart'); NEW this run -- a fresh Vertex antibody-discovery collaboration ($28M upfront) announced, and Cantor Fitzgerald raised its PT to $12 from $11. Net insider buying over the trailing 90 days (not a warning). Price cross-referenced: $9.34 prior-close-implied vs $9.20 composite (range $8.42-$10.01), ~1.5% spread, PASS; a $5.15 Yahoo read excluded as a clear outlier inconsistent with the rally. INCLUDED in this run's buy list (5 sh @ $9.25), ranked #3 -- real incremental news (new partnership) on top of already-strong clinical data, cheap entry."
+      "note": "2026-08-11 EVENING RUN, BOUGHT again (smaller). AbCellera: Phase 2 hot-flash data + fresh Vertex collaboration ($28M upfront) continue to support the move; today added another leg (intraday range $8.42-$10.01, after-hours +33.98% since last close per Bloomberg-linked coverage, MarketBeat framed it as '+8.7% today'). ~5% spread across the coherent cluster (wider than ideal but internally consistent); a $6.04 Pluang read and $6.93 Kraken 'prev close' figure both excluded as outliers inconsistent with every other source. INCLUDED (3 sh @ $9.50), ranked #3 -- stock is now up roughly 2x combined over two sessions, so sized down versus the morning run to reflect diminishing risk/reward."
     },
     {
       "ticker": "ACHR",
@@ -39,11 +39,11 @@
     },
     {
       "ticker": "CRDO",
-      "note": "Credo Technology. FQ4 2026 non-GAAP EPS $1.16; FY2027 consensus implies ~73% YoY EPS growth; FY2026 revenue $1.34B, +205.68% YoY. 2026-08-03 EVENING RUN: sources diverged sharply again -- $159.68 (Yahoo, intraday) vs $217.49 (StockAnalysis/CNN cluster, 'Aug 3') -- ~36% spread, and the $217 figure exceeds a separately-reported 52-week high of $168.42, suggesting a bad scrape. FAILS again, excluded, needs a materially cleaner cross-reference before any sizing."
+      "note": "2026-08-11 EVENING RUN: single-source read only ($243.87, +1.64%, per a networking-semis roundup) -- not independently cross-referenced this run, and still too expensive for the $200 budget regardless. Sector-momentum context: called out alongside MRVL/AVGO/ALAB as an AI-data-center-networking name to watch amid record semiconductor sales growth (Philadelphia Semiconductor Index +70% in two months)."
     },
     {
       "ticker": "ALAB",
-      "note": "Astera Labs. AI fabric/PCIe 6 signal-conditioning connectivity play. 2026-08-03 morning run: price cleared cross-reference exactly at $311.23. 2026-08-03 EVENING RUN: price REVERSED to a FAIL -- $311.23 (Investing.com/stockanalysis cluster, dated Aug 1) vs $350.62 (Yahoo Finance, 'settled', date unclear), ~12.66% spread; ALAB has an extremely wide 52-week range ($97.89-$499.48) so both reads may be real but on different days. Excluded this run. Also remains unaffordable for a meaningful $200-budget position regardless of which price is correct."
+      "note": "2026-08-11 EVENING RUN: single-source read only ($310.74, -2.05%) -- not independently cross-referenced this run. Still unaffordable for a meaningful $200-budget position regardless of which price is correct. Sector-momentum context same as CRDO."
     },
     {
       "ticker": "MRNA",
@@ -115,7 +115,7 @@
     },
     {
       "ticker": "ACI",
-      "note": "2026-08-11 MORNING RUN, BOUGHT again. Albertsons Companies: insider-buying cluster now confirmed as a DOUBLE buy -- CEO/Director Susan Morris ($449,938, 39,409 sh, 7/28) plus CFO/President Sharon McCollam ($103,000, 9,000 sh @ $11.48, 7/31), two C-suite insiders buying within days of each other, a meaningfully bullish cluster signal. Caveat: some commentary this week describes Albertsons as having 'slashed its outlook' -- a mixed signal against the insider buying. Price cross-referenced: $11.85 (CNN, Mon close) vs $11.86 (Investing.com composite), ~0.1% spread, tight PASS; a $14.41 Yahoo read excluded as a stale/wrong outlier. INCLUDED in this run's buy list (3 sh @ $11.86), ranked #4 -- reliable insider signal and tight pricing, but slower-moving defensive grocery sector and a guidance-cut headwind cap the expected magnitude versus this run's other three picks."
+      "note": "2026-08-11 EVENING RUN: EXCLUDED from this run's buy list despite the morning run's insider-buying-driven purchase (CEO Susan Morris + CFO Sharon McCollam both bought in late July). Fresh research today surfaced real headwinds -- a cut full-year EPS outlook (Q1 EPS $0.42 missed the $0.54 estimate by 22%), active shareholder investigations, and leadership uncertainty, with 30-day/90-day/1-year returns of -17.8%/-23.8%/-34.7%. The insider-buying signal is now competing with a materially weaker fundamental picture; watch for resolution before buying again."
     },
     {
       "ticker": "AAOI",
@@ -303,11 +303,11 @@
     },
     {
       "ticker": "LUMN",
-      "note": "2026-08-10 MORNING RUN: Lumen Technologies -- CEO Kathleen E. Johnson bought 100,000 shares (~$612,680) at $6.07-6.18 on 2026-08-06, a fresh and sizeable insider buy in a sub-$7 stock that would fit the $200 budget well. Strong candidate to price and evaluate next run. 2026-08-10 EVENING RUN: price conflicted badly ($9.30 vs $6.38, ~46% spread) -- excluded despite the fresh insider-buy thesis; needs a materially cleaner quote next run."
+      "note": "2026-08-11 EVENING RUN, BOUGHT (first time priced successfully -- prior evening run's price conflicted 46% and was excluded). CEO Kathleen Johnson's $612,680 insider buy (8/6, $6.07-6.18) is now backed by fundamental follow-through: Q2 2026 EPS -$0.07 beat the -$0.13 estimate, revenue $2.8B beat $2.74B consensus, FCF guidance raised, stock +6.4% to $6.64 today (CNN, cited twice consistently; a conflicting $7.03 MarketBeat read excluded as a likely stale/mistimed scrape given it points the wrong direction vs. every other source). INCLUDED (8 sh @ $6.64), ranked #2 -- steadier, more fundamentally-grounded move than today's other picks, cheap entry."
     },
     {
       "ticker": "SITE",
-      "note": "2026-08-10 MORNING RUN: SiteOne Landscape Supply -- CEO/Director Doug Black made a ~$816K insider purchase via family trust on 2026-08-04. New candidate, not yet priced."
+      "note": "2026-08-11 EVENING RUN: still not cleanly priced (no fresh, cross-referenced quote surfaced this run). CEO Doug Black's ~$816K insider purchase (8/4) remains the standing thesis. Re-check next run."
     },
     {
       "ticker": "TSM",
@@ -315,11 +315,11 @@
     },
     {
       "ticker": "RIOT",
-      "note": "NEW 2026-08-11 MORNING RUN, BOUGHT. Riot Platforms: announced a $9.1B, 20-year AI/HPC data-center lease deal with Anthropic (191MW initial capacity, potential renewal terms pushing total contract value to $16.1B through 2048) -- a major crypto-miner-to-AI-infrastructure pivot with long-duration contracted revenue, breaking today, reversing Monday's post-earnings (Q2 miss) selloff. Shares +18% premarket. Price cross-referenced: $19.40 consistent across two independent search passes (CNN/CNBC- and Investing.com/Coingape-derived reads), day range $19.12-$20.46; a single $18.26 heygotrade read (~6% off) treated as a less-reliable outlier and excluded. Analyst sentiment: 19 buy / 0 sell, avg PT $30. INCLUDED in this run's buy list (3 sh @ $19.40), ranked #1 -- freshest and largest-magnitude fundamental catalyst of the run (real signed contract, not speculation), though execution/financing risk on the buildout and Riot's crypto-mining-cost-structure legacy are real longer-term risks."
+      "note": "2026-08-11 EVENING RUN, BOUGHT again. Riot Platforms: the $9.1B/20-year Anthropic deal continued driving the tape a full day later -- Cantor Fitzgerald raised its PT on the news and one analyst floated a 55% further-rally scenario; intraday price ranged wildly $19.40-$24.40 across sources as the market digested the size of the deal. Avg analyst PT ~$30 vs today's ~$22 used price still implies ~36% headroom. INCLUDED again (3 sh @ $22.00), ranked #1 -- still the freshest/largest-magnitude catalyst, though extreme intraday volatility means price-source spread is wider than ideal."
     },
     {
       "ticker": "NIQ",
-      "note": "NEW 2026-08-11 MORNING RUN, BOUGHT. NIQ Global Intelligence: Q2 2026 beat on both lines (EPS $0.27 vs $0.21 est; revenue $1.12B vs $1.11B est), 10th straight quarter of >5% organic growth, adjusted EBITDA +21.9% (margin +270bps), FY EPS guidance raised ~12% above prior consensus, reported 2026-08-10. Price cross-referenced: $11.68 (Aug 11 same-day read) vs $11.94 (Aug 10 close, day range $11.63-$11.96) -- ~2.2% spread, borderline but both readings fall inside the same shared trading range so treated as coherent, not conflicting; price used $11.80 (midpoint). 14 analysts avg Buy, PT $15.15. INCLUDED in this run's buy list (3 sh @ $11.80), ranked #2 -- solid, unglamorous beat-and- raise with a real guidance upgrade, cheap entry allows a decent share count."
+      "note": "2026-08-11 EVENING RUN, BOUGHT again (smaller). NIQ Global Intelligence: the Q2 beat-and-raise kept driving the stock a full day later -- up 37-41% intraday per Motley Fool and Investing.com/stockanalysis.com (both agreeing tightly on $16.45, <1% spread, off yesterday's $11.68 close). Caution flag: $16.45 is now ABOVE the 14-analyst average PT of $15.15, so most of the fundamental good news looks priced in and then some. INCLUDED but downgraded to #4/smallest size (1 sh @ $16.45) -- continuation-momentum only, not a value entry anymore."
     },
     {
       "ticker": "SLN",
@@ -339,7 +339,7 @@
     },
     {
       "ticker": "DDOG",
-      "note": "NEW 2026-08-11 MORNING RUN, context only. Datadog: Q2 revenue +36% YoY (5th straight quarter of accelerating growth), 750+ AI-native customers including all 10 largest AI companies; six sell-side firms hiked PTs into the $280-327 range after the print; shares +6.8% Mon 2026-08-10 to ~$249.79. Not priced/sized this run -- too expensive for a meaningfully diversified position on the $200 budget (would consume essentially the whole balance for 1 share)."
+      "note": "2026-08-11 EVENING RUN: Datadog closed +11.48% to $260.78 (CNN) on continued strength from Monday's Q2 print (750+ AI-native customers, revenue +36% YoY) and a fresh wave of analyst PT hikes. Still too expensive for a meaningfully diversified $200-budget position (1 share would consume >100% of remaining cash after today's other buys) -- context/momentum-signal only."
     },
     {
       "ticker": "MRVL",
@@ -360,6 +360,18 @@
     {
       "ticker": "WXM",
       "note": "NEW 2026-08-11 MORNING RUN, FLAGGED LOW-QUALITY -- do not treat as a genuine candidate. WF International: +140% premarket (from a $4.00 close to ~$9.60) with NO identifiable company-specific news or catalyst; classic ultra-low-float micro-cap pump pattern, high probability of a sharp reversal. Kept on watchlist only as a flagged non-candidate, consistent with prior HYFM/EZRA/MOVE flags."
+    },
+    {
+      "ticker": "TER",
+      "note": "NEW 2026-08-11 EVENING RUN. Teradyne: entered a new 5-year, $1B senior secured revolving credit facility (announced 8/7, PNC-led bank syndicate, undrawn) to boost liquidity/flexibility; shares +6% on the announcement. Single-source price read ~$375.47 (-3.75% on a different day/session per the same search, so treat cautiously) -- far too expensive for a meaningful $200-budget position regardless. Context/sector-momentum only (semiconductor test equipment, benefiting from the broader AI capex supercycle)."
+    },
+    {
+      "ticker": "KLAC",
+      "note": "NEW 2026-08-11 EVENING RUN. KLA Corp: gained as part of a broad semiconductor-equipment rally (+4.6% on one session per market-movers coverage). Price reads conflicted: $198.11 (dated Aug 7) vs $192.74 (date unclear) -- not cleanly cross-referenced. Too expensive for the $200 budget regardless (~$190-200/sh). Context/sector-momentum only."
+    },
+    {
+      "ticker": "NXTC",
+      "note": "NEW 2026-08-11 EVENING RUN. NextCure: ADAR1 Capital Management (a 10%-owner/director) bought $1.6M / 329,153 shares at $4.80-5.00 on 7/30-7/31, plus smaller follow-on insider buys reported into early August -- a real, sizeable institutional-insider accumulation signal in a micro-cap biotech ($27.5M market cap). NOT priced this run: sources conflicted by >100% ($4.40, 'down ~19% over past week' vs $8.58-$10.29 intraday with a $7.91-$10.70 range, possibly a stale scrape or a data mismatch) -- excluded from any sizing per the hard price-verification rule. High-priority re-check next run once a cleaner quote is available; genuinely interesting insider-conviction story if the lower price range is real (entry well below ADAR1's own cost basis)."
     }
   ],
   "note": "This is a GROWING candidate universe, not overwritten each run: new high-growth names are added over time and existing entries get their notes/prices refreshed, per RULES.md. Not user-curated. Every open holding must always appear here too."
