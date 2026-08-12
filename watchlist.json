@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-11T16:21:00-04:00",
+  "last_updated": "2026-08-12T09:53:00-04:00",
   "candidates": [
     {
       "ticker": "ABCL",
@@ -11,7 +11,7 @@
     },
     {
       "ticker": "GOOGL",
-      "note": "New 2026-08-10 EVENING RUN: Alphabet (Class A: GOOGL, Class C: GOOG). Berkshire Hathaway (under new CEO Greg Abel) now holds $29B combined across both share classes -- tripled the stake in Q1 2026, then added $10B via a private placement in Q2 2026 (GOOGL @ $351.81/sh, GOOG @ $348.20/sh), making it Berkshire's #5 holding. Confirmed via Berkshire's own Q2 earnings release/8-K, not yet via the pending Q2 13F (due 2026-08-14). Berkshire's other major Q2 move was a separate $4.5B buyback of its own shares (largest in 5 years), not a new equity stake. Far too expensive (~$350+/sh) for the $200 budget -- kept as institutional-signal/sector context only. 2026-08-11 MORNING RUN: price PASSES cross-reference (~$356 CNN-implied vs ~$356.90 composite, <1% spread) but no fresh Aug 10-11 catalyst found; still far too expensive for the $200 budget. Berkshire's Q2 2026 13F (due 2026-08-14) STILL not filed as of today -- expect it Thu/Fri this week, high-priority re-check then."
+      "note": "2026-08-12 MORNING RUN: Alphabet. Berkshire Hathaway increased its GOOGL stake 225% and tripled its Class A position to ~$15B in the Q1 2026 13F (filed 5/15/26) -- one of Buffett's largest recent moves. Contrast: Bill Ackman/Pershing Square slashed his Alphabet position ~95% in the same period. Mixed institutional signal; not priced/bought this run."
     },
     {
       "ticker": "AMZN",
@@ -75,7 +75,7 @@
     },
     {
       "ticker": "OKLO",
-      "note": "Oklo Inc (nuclear/SMR, AI-power-demand theme). DOE authorized startup operations for the Groves isotope test reactor on 2026-07-23 (regulatory de-risking event); DOE also selected Oklo for advanced negotiations on the Surplus Plutonium Utilization Program. Reports Q2 2026 earnings before open Friday 2026-08-07 (near-term catalyst, 2 days out). Bought/recommended in the 2026-08-03, 2026-08-04 evening, and 2026-08-05 morning runs (never executed). 2026-08-05 EVENING RUN: price cluster ($43.33 aggregator vs $43.45 Investing.com, ~0.28% spread) PASSES and is coherent with the recent drift from ~$41.22; a Yahoo Finance intraday read of $72.91 (+9.00%) was discarded as an uncorroborated outlier with no supporting news. Insider-selling overhang confirmed with more detail: Form 144 filed 2026-08-03 (up to 400,000 Class A shares via co-founder-linked trusts) follows a documented pattern of CEO Jacob DeWitte/COO Caroline Cochran (and their Grantor Annuity Trusts) each selling 60,000 shares on 6/1/2026 (~$4.10M) and again on 7/1/2026 (~$3.18M) under 10b5-1 plans. INCLUDED again in this run's BUY list (1 sh @ $43.40), ranked #2 behind IONS given the near-term earnings catalyst and cleared price, tempered by the insider-selling overhang. 2026-08-06 MORNING RUN: reports Q2 2026 earnings before market open TOMORROW (2026-08-07). Barclays trimmed its price target to $76 from $82 (still Overweight) ahead of the print; consensus expects a Q2 loss of $0.16/sh. Price still PASSES cross-reference ($43.47 vs $42.99, ~1.1% spread). EXCLUDED this run specifically because entering within ~18 hours of a binary earnings event, with no fresh bullish catalyst today (only a PT trim) and the persistent co-founder-linked-trust insider-selling overhang, is inconsistent with this project's practice of not buying blind immediately ahead of a print -- re-check post-earnings. 2026-08-06 EVENING RUN: Groves Isotope Test Reactor achieved first criticality today -- a genuine operational/regulatory milestone -- but the market shrugged (an early ~4% premarket pop faded to close roughly flat, ~-0.8% to $42.64 per Benzinga). Reports Q2 2026 earnings BEFORE MARKET OPEN TOMORROW (2026-08-07, consensus a $0.16/sh loss) -- still EXCLUDED, now for the most acute reason yet: buying tonight would mean holding directly into tomorrow's pre-open binary earnings print with no way to react, squarely against this project's standing practice of not buying blind immediately ahead of a print. Re-check first thing post-earnings next run. 2026-08-07 MORNING RUN: Reported Q2 2026 before today's open as scheduled -- revenue beat ($1.21M vs ~$0.1M est.) but EPS missed (-$0.28 vs -$0.16 est.), net loss widened to $48.5M from $24.7M YoY on rising R&D spend; cash position remains very strong ($3.0B, boosted by $1.9B YTD ATM raises). Market reaction muted-to-mixed (~-0.7% per one same-day tracker) rather than a clear positive or negative signal. Persistent co-founder-linked-trust insider-selling overhang unchanged. EXCLUDED again -- no fresh bullish catalyst to justify entering post-print. 2026-08-07 EVENING RUN: price still unsettled post-earnings -- four reads spanned $42.20 (prev close) to $52.36 intraday (>15% spread). Groves Isotope Test Reactor criticality milestone (8/6) and the mixed Q2 print (revenue beat, EPS miss) are both confirmed, but no stable cross-referenced quote is available tonight. EXCLUDED again on pricing grounds. 2026-08-10 MORNING RUN: Reported Q2 2026 on 2026-08-07: revenue beat ($1.21M vs ~$0.1M est.) but EPS missed (-$0.28 vs -$0.16 est.), net loss widened to $48.5M; cash position very strong ($3.0B). Stock jumped ~15% post-earnings anyway. Price PASSES cross-reference this run ($48.42 aggregate cluster vs $48.52 market-cap-implied read, ~0.2% spread). INCLUDED in this run's buy list (1 sh @ $48.42), ranked #3 -- persistent co-founder-trust insider-selling overhang (Form 144, recurring 10b5-1 sales) remains a background caution. 2026-08-10 EVENING RUN: price reconfirmed essentially unchanged -- $48.42 vs $48.52, ~0.2% spread, PASS, matching the morning run to the cent. No fresh catalyst since this morning. INCLUDED again in this run's buy list (1 sh @ $48.47), ranked #2 -- cleanest, most consistently reconfirmed price of any candidate tonight; insider-selling overhang unchanged. 2026-08-11 MORNING RUN: NEW NEGATIVE CATALYST -- Q2 2026 results missed (wider net loss, though revenue beat), and Citi cut its price target to $57.50 from $76.00 on 2026-08-11; shares fell ~8%. Confirmed persistent insider-selling pattern: co-founders CEO Jacob DeWitte and COO Caroline Cochran have each sold ~$62.4M in stock with zero insider purchases vs 103 sales in the past 6 months, plus a fresh Rule 144 filing for 400,000 shares (~$15.5M) that cleared around 2026-08-03. Price cross- referenced: $44.49 (CNN, Mon close) vs $44.51 (Investing.com composite), ~0.2% spread, PASS -- priced and technically buyable, but EXCLUDED this run on the combination of an earnings miss, a fresh analyst downgrade, and a longstanding heavy insider-selling pattern; needs a real positive catalyst before reconsidering."
+      "note": "2026-08-12 MORNING RUN: Oklo Inc. No fresh price re-check this run -- last read ~$47.42 (Groves Isotope Test Reactor first-criticality milestone, first-ever quarterly revenue of $1.21M but still deeply unprofitable, down ~40% YTD from its $193 peak). Watching, not re-priced today."
     },
     {
       "ticker": "APLD",
@@ -155,7 +155,7 @@
     },
     {
       "ticker": "SMR",
-      "note": "NuScale Power. Nuclear/SMR AI-power-demand theme, same category as OKLO. Q2 2026 earnings conference call was TODAY, 2026-08-05 at 5:00pm ET (release after market close) -- consensus ~$1.0M revenue, EPS -$0.13; CEO John Hopkins has publicly said he expects a TVA power-purchase-agreement to be finalized by end of 2026, investors want a timeline update on the call. Truist initiated coverage at Hold, $10 PT. 2026-08-05 MORNING RUN: price data still unreconciled ($8.915 fresh single-source read vs the $8.42-9.29 range from the prior run). 2026-08-05 EVENING RUN: the 5pm ET call was still ahead of this run's research window, so no post-call TVA-timeline commentary was available; price remains unreconciled ($8.90-9.49 across reads). EXCLUDED again -- TOP PRIORITY to re-check post-earnings next run. 2026-08-06 MORNING RUN: results confirmed -- revenue collapsed to ~$75-100K (-99% YoY) as the RoPower FEED contract wound down, EPS -$0.13 (in line), cash position rose to $1.9B (+$900M QoQ). Critically, the TVA PPA did NOT get finalized -- management reiterated the 'by end of 2026' target rather than announcing a deal. Price sources disagreed on direction, not just magnitude (some show an after-hours decline to ~$9.03, others describe an intraday double-digit gain, likely conflating sessions/tickers). EXCLUDED -- the specific catalyst being watched did not resolve favorably. 2026-08-06 EVENING RUN: price $9.38 (Aug 5 close, post-earnings -6.1%) vs $8.905 (current), ~5.3% spread, still earnings-driven volatility. No fresh news since Tuesday's report. EXCLUDED again -- unresolved TVA-PPA catalyst plus unreliable pricing, stock down ~50% YTD. 2026-08-07 MORNING RUN: nuclear/SMR momentum continuing -- shares up from $7.72 (7/17) to >$9.30 (8/5) on an AI-driven-power-demand narrative (BofA sees a '$10T' nuclear opportunity); Truist initiated Hold ($10 PT), but Citi reiterated Sell despite raising its PT to $7.50 -- still down ~41% YTD and analyst-skepticism on execution remains. Not re-priced/sized this run. 2026-08-10 MORNING RUN: NEGATIVE fundamental update: Q2 2026 revenue collapsed to $75K from $8.1M YoY (-99%) as FEED-phase engineering work wound down; multiple analysts cut price targets post-print (Northland to $16 from $19, Canaccord to $15 from $25), though both kept Buy ratings; Truist initiated Hold/$10 PT. Cash position remains strong ($1.9B, +$900M sequential). Price also conflicted this run ($8.905 vs $9.82, ~10.3% spread). Excluded from sizing on both fundamental-deterioration and pricing grounds."
+      "note": "2026-08-12 MORNING RUN: NuScale Power. No fresh price re-check this run (last read ~$9.01, Aug 3) -- part of the ongoing 'nuclear renaissance' AI-power-demand narrative alongside OKLO; Barclays/Truist have trimmed targets pending execution proof. Watching, not re-priced today."
     },
     {
       "ticker": "AMD",
@@ -251,7 +251,7 @@
     },
     {
       "ticker": "IONQ",
-      "note": "New 2026-08-06 (evening run): IonQ Inc. Quantum-computing/AI-infrastructure name. Reported Q2 2026 revenue $80.1M vs ~$66.4M consensus (+132% YoY organic growth), raised FY2026 revenue guidance to $280-290M from $260-270M, and closed its $1.8B SkyWater Technology acquisition. Shares rallied on the print but pulled back modestly the following session (-4.29% on 8/5 to $39.93), suggesting some 'sell the news' profit-taking despite genuinely strong fundamentals. Price cross-referenced this run: $40.13 (Benzinga-sourced quote, day range $39.74-42.30) vs an implied ~$39.93-41.85 range from a second pass, ~4% spread -- borderline/usable but not tight. EXCLUDED from this run's buy list on borderline-pricing-confidence and budget-prioritization grounds (real, fresh, high-magnitude growth catalyst; affordable at ~5 sh for $200) -- HIGH PRIORITY re-check next run for a cleaner two-source price. 2026-08-07 MORNING RUN: momentum continuing post-Q2 beat (revenue $80.1M vs $66.4M est., FY26 guide raised to $280-290M) plus a new $28M DARPA contract extension; next milestone is 256-qubit chip integration testing in H2 2026. Price readings still inconsistent ($41.16 vs $43.46, working range ~$41-43) -- not cleanly cross-referenced this run. Genuinely affordable (~5 sh fit $200) with a strong, fresh fundamental catalyst -- HIGH PRIORITY re-check next run for a clean two-source price. 2026-08-07 EVENING RUN: still too volatile to price confidently -- four reads spanned $39.72-$44.17 (~11% spread) despite a genuine catalyst (Q2 revenue +287% YoY to $80.1M beat, EPS miss -$0.33). EXCLUDED again on pricing-reliability grounds -- HIGH PRIORITY re-check once volatility settles."
+      "note": "2026-08-12 MORNING RUN: BOUGHT (1 sh @ $43.00). Q2 2026 revenue $80.1M (+287% YoY), FY guidance raised to $280-290M, new $28M DARPA HARQ contract extension (Aug 6). Price ~$43.00 (investing.com-sourced read: prev close $42.53, day range $42.18-44.02), cross-referenced against Barchart/Jefferies coverage (PT trimmed to $75 from $85 on 8/6, still ~74% above spot) and a stale Yahoo cache read of $39.72 excluded as an outlier (inconsistent timestamp). Ranked #2 -- best fundamentally-validated growth story of today's set (hard revenue growth + raised guidance, not just a single deal announcement). Only 1 share fits given the higher per-share price on a $200 budget."
     },
     {
       "ticker": "CRL",
@@ -303,11 +303,11 @@
     },
     {
       "ticker": "LUMN",
-      "note": "2026-08-11 EVENING RUN, BOUGHT (first time priced successfully -- prior evening run's price conflicted 46% and was excluded). CEO Kathleen Johnson's $612,680 insider buy (8/6, $6.07-6.18) is now backed by fundamental follow-through: Q2 2026 EPS -$0.07 beat the -$0.13 estimate, revenue $2.8B beat $2.74B consensus, FCF guidance raised, stock +6.4% to $6.64 today (CNN, cited twice consistently; a conflicting $7.03 MarketBeat read excluded as a likely stale/mistimed scrape given it points the wrong direction vs. every other source). INCLUDED (8 sh @ $6.64), ranked #2 -- steadier, more fundamentally-grounded move than today's other picks, cheap entry."
+      "note": "2026-08-12 MORNING RUN: BOUGHT again (smaller, 2 sh @ $6.45). CEO Kathleen Johnson's $612,680 insider purchase (Aug 6, $6.07-6.18/sh) remains backed by the Q2 beat (EPS -$0.07 vs -$0.13 est., revenue $2.8B beat) disclosed 8/4 -- but the initial pop has partly faded: $6.64 close 8/10 -> $6.38 close 8/11 -> $6.45 premarket today (public.com), cross-referenced against the macrotrends $6.64 anchor showing the multi-day pattern. Citi trimmed its PT to $8.25 from $10 on 8/10 but that's still ~28% above today's entry. Ranked #5 -- more modest, turnaround-paced upside than today's higher-beta names."
     },
     {
       "ticker": "SITE",
-      "note": "2026-08-11 EVENING RUN: still not cleanly priced (no fresh, cross-referenced quote surfaced this run). CEO Doug Black's ~$816K insider purchase (8/4) remains the standing thesis. Re-check next run."
+      "note": "NEW 2026-08-12 MORNING RUN: SiteOne Landscape Supply. CEO Doug Black (via family trust) bought $816,280 of stock on 8/4 -- notable insider-buying signal. Not priced this run (likely $100+/share) -- watching only, too expensive for a meaningful $200-budget position."
     },
     {
       "ticker": "TSM",
@@ -315,7 +315,7 @@
     },
     {
       "ticker": "RIOT",
-      "note": "2026-08-11 EVENING RUN, BOUGHT again. Riot Platforms: the $9.1B/20-year Anthropic deal continued driving the tape a full day later -- Cantor Fitzgerald raised its PT on the news and one analyst floated a 55% further-rally scenario; intraday price ranged wildly $19.40-$24.40 across sources as the market digested the size of the deal. Avg analyst PT ~$30 vs today's ~$22 used price still implies ~36% headroom. INCLUDED again (3 sh @ $22.00), ranked #1 -- still the freshest/largest-magnitude catalyst, though extreme intraday volatility means price-source spread is wider than ideal."
+      "note": "2026-08-12 MORNING RUN: BOUGHT again (smaller, 2 sh @ $23.46). Anthropic $9.1B/20-yr AI data-center lease story continues to develop -- stock +8.79% today per TradersUnion (~$23.46), cross-referenced against CNBC and 24/7 Wall St coverage of fresh analyst PT raises (Cantor Fitzgerald, Citi to $30-35, one analyst flagging $40+). Ranked #1 this run -- largest, most concrete single catalyst (signed 20-yr contract) of any candidate today, still not fully priced in per the PT gap. Sized down vs. the two prior buys this week (3 sh, 3 sh) to manage concentration as the position has already run ~20% since Monday."
     },
     {
       "ticker": "NIQ",
@@ -323,7 +323,7 @@
     },
     {
       "ticker": "SLN",
-      "note": "NEW 2026-08-11 MORNING RUN. Silence Therapeutics: positive topline Phase 2 SANRECO data for siRNA candidate divesiran in polycythemia vera (rare blood cancer), company called it a 'best-case outcome', shares +36.8% Mon 2026-08-10 to a new 52-week high (~$16.35 per initial movers scan). NOT priced reliably this run -- a same-day search returned a confusing/inconsistent $6.35 intraday vs $11.13 after-hours read, likely a USD/GBp (dual NASDAQ/LSE listing) mixup; genuinely unreliable, needs a clean single-currency quote before any sizing. Kept on watchlist as a real clinical catalyst pending better pricing data."
+      "note": "2026-08-12 MORNING RUN: EXCLUDED from sizing again -- pricing remains too unreliable to establish a trustworthy entry. Search reads spanned $6.97 (looks stale/mistimed), $14.67 (as of 8/11), and ~$17.58 (a 52-wk-high read) -- a >100% spread, well outside normal cross-reference tolerance, likely reflecting a stale cache or a NASDAQ/LSE (535p) mixup somewhere in the pipeline. Underlying catalyst remains strong (Phase 2 SANRECO topline data 8/10: 88% clinical response rate vs. 19% placebo in polycythemia vera, Morgan Stanley PT raised to $32). HIGH PRIORITY re-check once a clean, dated quote is available -- do not lose track of this one, the fundamental story is one of the strongest in the whole watchlist."
     },
     {
       "ticker": "BW",
@@ -363,15 +363,87 @@
     },
     {
       "ticker": "TER",
-      "note": "NEW 2026-08-11 EVENING RUN. Teradyne: entered a new 5-year, $1B senior secured revolving credit facility (announced 8/7, PNC-led bank syndicate, undrawn) to boost liquidity/flexibility; shares +6% on the announcement. Single-source price read ~$375.47 (-3.75% on a different day/session per the same search, so treat cautiously) -- far too expensive for a meaningful $200-budget position regardless. Context/sector-momentum only (semiconductor test equipment, benefiting from the broader AI capex supercycle)."
+      "note": "2026-08-12 MORNING RUN: Teradyne. Secured a $1B credit line to boost financial flexibility; shares +6% (week of 8/10-11) as part of a broader semiconductor-equipment rotation alongside KLAC. Still flagged as too expensive (likely $80-100s/share) for a meaningful $200-budget position -- watching only."
     },
     {
       "ticker": "KLAC",
-      "note": "NEW 2026-08-11 EVENING RUN. KLA Corp: gained as part of a broad semiconductor-equipment rally (+4.6% on one session per market-movers coverage). Price reads conflicted: $198.11 (dated Aug 7) vs $192.74 (date unclear) -- not cleanly cross-referenced. Too expensive for the $200 budget regardless (~$190-200/sh). Context/sector-momentum only."
+      "note": "2026-08-12 MORNING RUN: KLA Corp. +4.6% on broad semiconductor-equipment-sector optimism (week of 8/10-11), alongside Teradyne's credit-line news. Still flagged as too expensive (>$800/share) for this budget -- watching only."
     },
     {
       "ticker": "NXTC",
       "note": "NEW 2026-08-11 EVENING RUN. NextCure: ADAR1 Capital Management (a 10%-owner/director) bought $1.6M / 329,153 shares at $4.80-5.00 on 7/30-7/31, plus smaller follow-on insider buys reported into early August -- a real, sizeable institutional-insider accumulation signal in a micro-cap biotech ($27.5M market cap). NOT priced this run: sources conflicted by >100% ($4.40, 'down ~19% over past week' vs $8.58-$10.29 intraday with a $7.91-$10.70 range, possibly a stale scrape or a data mismatch) -- excluded from any sizing per the hard price-verification rule. High-priority re-check next run once a cleaner quote is available; genuinely interesting insider-conviction story if the lower price range is real (entry well below ADAR1's own cost basis)."
+    },
+    {
+      "ticker": "QBTS",
+      "note": "NEW 2026-08-12 MORNING RUN: D-Wave Quantum. Commercial deal with AT&T (early Aug 2026) plus a Nasdaq Verafin financial-crime-detection partnership (Aug 3, +11% that session) driving continued quantum-sector momentum; Benchmark initiated Buy, Street avg PT ~$35.25 (investing.com). Price ~$23.16 (investing.com opening read, day range $22.46-24.26), cross-referenced against the Aug 10 anchor of $20.76 (same source, confirming continued uptrend) and Benzinga/FXLeaders/24-7 Wall St catalyst coverage of the AT&T-deal rally. BOUGHT (2 sh @ $23.16), ranked #3."
+    },
+    {
+      "ticker": "RGTI",
+      "note": "NEW 2026-08-12 MORNING RUN: Rigetti Computing. Same AT&T-deal-driven quantum sector rally (+10.3% that session, Aug 3) plus a Wedbush upgrade to Outperform ($40 PT) same day. Not priced/bought this run (concentration risk alongside QBTS, same catalyst) -- watching as a smaller-lot alternative if QBTS's move extends further. Source: TipRanks/24-7 Wall St coverage of the Aug 3 quantum-sector pop."
+    },
+    {
+      "ticker": "OWLT",
+      "note": "NEW 2026-08-12 MORNING RUN: Owlet, Inc. Record Q2 2026 results reported after close Aug 11 -- subscription growth, FDA momentum, new 'Owlet for Orgs' employer program; stock up 82% over 6 months per Yahoo Finance. Price ~$5.74 (current read, +0.17% today), cross-referenced against an earlier-session Yahoo Finance read of ~$5.34 (same cheap-cluster, some intraday variance noted -- both well within the sub-$6 range). Cheapest name on today's list, meaningful share count for a small budget. BOUGHT (5 sh @ $5.74), ranked #4."
+    },
+    {
+      "ticker": "SMCI",
+      "note": "NEW 2026-08-12 MORNING RUN: Super Micro Computer. Q4 FY2026 earnings (Aug 11) beat with record backlog and FY2027 revenue guidance of $65-72B vs. $52.5B Street estimate on AI-server demand; shares +9% premarket Wednesday per Benzinga. Not priced/bought this run (~$34/share, only one source pinned down so far) -- high-priority re-check next run for a second price source before sizing."
+    },
+    {
+      "ticker": "TRAX",
+      "note": "NEW 2026-08-12 MORNING RUN: First Tracks Biotherapeutics. Shares up ~130% over 30 days (from ~$20.04 on 7/6 to ~$46.01 by 8/4) on clinical validation of its CD122 pathway approach after a competitor's positive trial data. Not priced/bought this run -- near the top of the $200 budget range per share and only one source (Tickeron) found so far; watching, not chasing a name already up 130% without a second price source."
+    },
+    {
+      "ticker": "NBIS",
+      "note": "NEW 2026-08-12 MORNING RUN: Nebius Group. AI infrastructure name +12.5%+ (week of 8/10-11) on better-than-expected EBITDA/revenue ahead of full Q2 report (due after close 8/12), backed by a $2B Nvidia investment. EXCLUDED from sizing -- likely $180-270/share, too expensive for meaningful exposure on a $200 budget, and Michael Burry has disclosed a short position creating two-sided sentiment. Watching only."
+    },
+    {
+      "ticker": "CAVA",
+      "note": "NEW 2026-08-12 MORNING RUN: Cava Group. Q2 2026 earnings (8/11): revenue $365.4M beat $360.1M est., EPS $0.19 in-line; shares +12-16% on strong same-store sales, unchanged FY guidance. EXCLUDED from sizing -- ~$60-68/share, expensive relative to today's higher-conviction cheaper names; watching only."
+    },
+    {
+      "ticker": "HRB",
+      "note": "NEW 2026-08-12 MORNING RUN: H&R Block. Beat Q4 FY2026 estimates -- EPS $2.38 vs. $2.21 est. (+7.7%), revenue $1.14B (+3% YoY); shares +12.2% on the 8/11 report. Not priced this run (historically $50-60/share, no fresh quote pinned down) -- watching only, likely too expensive for a meaningful $200-budget position."
+    },
+    {
+      "ticker": "LEN",
+      "note": "NEW 2026-08-12 MORNING RUN: Lennar. Berkshire Hathaway increased its stake 43% in the Q1 2026 13F (filed 5/15/26, reported 8/6) -- a contrarian housing bet against majority-bearish sell-side sentiment, reinforced by 8 Lennar directors making synchronized open-market insider purchases. Not priced this run (likely $120+/share) -- watching only, too expensive for a meaningful $200-budget position; strong institutional-conviction signal worth tracking."
+    },
+    {
+      "ticker": "DAL",
+      "note": "NEW 2026-08-12 MORNING RUN: Delta Air Lines. Berkshire Hathaway's boldest new Q1 2026 13F position (~$2.6B new stake, filed 5/15/26), paired with a 96% bullish analyst consensus (25 buy vs. 1 sell per 24/7 Wall St). Price ~$90.77 (Aug 11 close), cross-referenced against an intraday range of $89.51-91.91 and a $91.44 after-hours read (same cluster; an earlier stray $81.33 read was excluded as inconsistent with every other source). NOT bought this run -- at ~$91/share it would consume nearly half the $200 budget for a lower-beta, lower-expected-return name relative to today's other candidates. Watching for a pullback or smaller-lot opportunity."
+    },
+    {
+      "ticker": "MSFT",
+      "note": "NEW 2026-08-12 MORNING RUN: Microsoft. Bill Ackman/Pershing Square built a new ~$2.1-2.4B stake (~15% of book) since Feb 2026, confirmed publicly 7/28/26. Not priced this run -- likely $400-500+/share, far too expensive for this budget; noted purely as an institutional-conviction signal."
+    },
+    {
+      "ticker": "AAPL",
+      "note": "NEW 2026-08-12 MORNING RUN: Apple. Renaissance Technologies opened a new $780.6M stake in the Q1 2026 13F (filed 5/15/26). Not priced this run -- likely $200+/share, too expensive for a meaningful $200-budget position; noted as an institutional-conviction signal only."
+    },
+    {
+      "ticker": "V",
+      "note": "NEW 2026-08-12 MORNING RUN: Visa. Seth Klarman/Baupost Group opened a new ~$212M stake in the Q1 2026 13F (filed 5/15/26). Not priced this run -- likely $300+/share, too expensive for this budget; noted as an institutional-conviction signal only."
+    },
+    {
+      "ticker": "PDX",
+      "note": "NEW 2026-08-12 MORNING RUN: PIMCO Dynamic Income Strategy Fund. Executive Committee member Thibault Stracke bought 25,000 shares (~$540,467, $21.62/sh) on 8/6 -- notable insider buy in a closed-end income fund. Not priced/bought this run; flagged for awareness given the insider-buying signal, but a closed-end fund is a lower-growth profile than today's higher-conviction picks."
+    },
+    {
+      "ticker": "ET",
+      "note": "NEW 2026-08-12 MORNING RUN: Energy Transfer LP. Director James Richard Perry made an open-market insider purchase per an 8/10 Form 4. Not priced this run -- flagged for a future re-check."
+    },
+    {
+      "ticker": "CRCL",
+      "note": "NEW 2026-08-12 MORNING RUN: Circle Internet Group. ARK Invest/Cathie Wood bought ~$17.3M of shares on 8/5/26. Not priced this run -- flagged for a future re-check given the active ARK accumulation signal."
+    },
+    {
+      "ticker": "XYZ",
+      "note": "NEW 2026-08-12 MORNING RUN: Block, Inc. ARK Invest/Cathie Wood bought 267,676 shares (~$21M) on 8/6/26. Not priced this run -- flagged for a future re-check given the active ARK accumulation signal."
+    },
+    {
+      "ticker": "NATR",
+      "note": "NEW 2026-08-12 MORNING RUN: Nature's Sunshine Products. EXCLUDED from sizing -- pricing too unreliable to establish a trustworthy entry (reads of $25.85, a $17.49 premarket figure, and a $16.38 last-close figure spanned >50%, well outside normal cross-reference tolerance). Catalyst: Prescott Group Capital Management (10% owner/director) bought 141,389 shares (~$2.3M, $15.64-16.75/sh) 8/6-8/10 after the stock fell 23% on the week -- a notable contrarian insider-buying signal. HIGH PRIORITY re-check once a clean quote is available."
     }
   ],
   "note": "This is a GROWING candidate universe, not overwritten each run: new high-growth names are added over time and existing entries get their notes/prices refreshed, per RULES.md. Not user-curated. Every open holding must always appear here too."

@@ -617,6 +617,52 @@
       ],
       "sells": [],
       "notes": "No open holdings exist yet (cash=$200, holdings=[]), so the sell list is necessarily empty this run -- every open position check is moot until the user reports an executed buy. ACI, bought in this morning's run's recommendation, is deliberately EXCLUDED from this run's buy list despite no same-day-round-trip conflict: fresh research today surfaced a cut EPS outlook, shareholder investigations, and leadership uncertainty (30-day return -17.8%, 90-day -23.8%, 1-year -34.7%) that meaningfully weakens the thesis versus this morning's insider-buying-driven pitch; see watchlist note. NXTC (NextCure) was investigated as a promising insider-buying candidate (ADAR1 Capital, a 10% owner, bought $1.6M/329,153 sh at $4.80-5.00 in late July) but price sources conflicted by >100% ($4.40 vs $8.58-$10.29 across different searches, a likely stale-scrape/split-adjustment mismatch) -- excluded from sizing per the hard price-verification rule, added to watchlist for a cleaner look next run. Total this run: $164.07 of $200.00 cash (82%), leaving a $35.93 (18%) buffer given the wider-than-usual price-source spreads across today's names."
+    },
+    {
+      "timestamp": "2026-08-12T09:53:00-04:00",
+      "buys": [
+        {
+          "ticker": "RIOT",
+          "qty": 2,
+          "price": 23.46,
+          "price_source": "web-search-fallback (TradersUnion: $23.46, +8.79% intraday, 2026-08-12; cross-referenced against CNBC and 24/7 Wall St coverage of fresh analyst PT raises -- Cantor Fitzgerald and Citi to $30-35, one analyst flagging $40+ -- all consistent with a continuing up-day off the Anthropic deal. Web-search-sourced, not exchange-API-verified.)",
+          "estimated_cost": 46.92,
+          "reasoning": "Riot Platforms: the $9.1B/20-year Anthropic AI data-center lease (191MW, potential $16.1B through 2048) remains the single largest, most concrete catalyst across today's research -- a signed, long-duration contracted-revenue deal, not just a rumor or earnings beat. Ranked #1: multiple fresh analyst PT raises to $30-40 vs. today's ~$23.46 entry imply 28-70% headroom, the largest magnitude catalyst of any name this run even three sessions in. Risk: already up roughly 20% since Monday across two prior buy recommendations this week, so sized down (2 sh vs. 3 sh previously) to manage concentration; extreme intraday volatility and Riot's legacy crypto-mining cost structure remain risks."
+        },
+        {
+          "ticker": "IONQ",
+          "qty": 1,
+          "price": 43.0,
+          "price_source": "web-search-fallback (investing.com-sourced aggregation: prev close $42.53, day range $42.18-44.02, 2026-08-12; cross-referenced against Barchart/Jefferies coverage of the $75 PT (trimmed from $85 on 8/6) and CNN's active quote page confirming liquidity. A stale-looking $39.72 Yahoo cache read was excluded as an outlier/inconsistent timestamp. Web-search-sourced, not exchange-API-verified.)",
+          "estimated_cost": 43.0,
+          "reasoning": "IonQ: Q2 2026 revenue of $80.1M (+287% YoY) with FY guidance raised to $280-290M, plus a new $28M DARPA HARQ contract extension (Aug 6) -- the best fundamentally-validated growth story of today's candidates (hard, realized revenue growth and raised guidance, not just a single deal announcement or trial readout). Ranked #2: analyst PT of $67.68-75 vs. today's ~$43 entry implies 57-74% upside. Risk: higher per-share price limits share count on a $200 budget to a single share, and quantum-computing names remain high-beta/speculative as a sector."
+        },
+        {
+          "ticker": "QBTS",
+          "qty": 2,
+          "price": 23.16,
+          "price_source": "web-search-fallback (investing.com: opening read $23.165, day range $22.46-24.26, 2026-08-12; cross-referenced against the same source's Aug 10 anchor of $20.76 confirming a continuing uptrend, and Benzinga/FXLeaders/24-7 Wall St coverage of the AT&T commercial-deal catalyst. Web-search-sourced, not exchange-API-verified.)",
+          "estimated_cost": 46.32,
+          "reasoning": "D-Wave Quantum: a new commercial deal with AT&T plus an earlier Nasdaq Verafin financial-crime-detection partnership (Aug 3, +11% that session) are driving continued quantum-sector momentum; Benchmark initiated coverage at Buy with a Street average PT near $35.25 (~52% above today's entry). Ranked #3: two distinct, dated commercial catalysts within the past two weeks give more conviction than a single-event pop. Risk: quantum-computing sector is highly speculative and correlated with RGTI/IONQ moves, so this adds some sector concentration alongside IONQ."
+        },
+        {
+          "ticker": "OWLT",
+          "qty": 5,
+          "price": 5.74,
+          "price_source": "web-search-fallback (current-session read $5.74, +0.17% on the day, 2026-08-12; cross-referenced against an earlier-session Yahoo Finance read of ~$5.34, same cheap sub-$6 cluster with normal intraday variance for a low-priced, thin-float name. Web-search-sourced, not exchange-API-verified.)",
+          "estimated_cost": 28.7,
+          "reasoning": "Owlet: record Q2 2026 results reported after close 8/11 -- subscription growth, FDA momentum, and a new 'Owlet for Orgs' employer program -- with the stock up 82% over 6 months per Yahoo Finance. Ranked #4: cheapest name on today's list, giving the most shares per dollar and letting a modest allocation still register a diversification benefit. Risk: small-cap consumer-hardware name, more speculative and less analyst-covered than the other picks; no clear consensus PT found to size an expected-return estimate against."
+        },
+        {
+          "ticker": "LUMN",
+          "qty": 2,
+          "price": 6.45,
+          "price_source": "web-search-fallback (public.com premarket read: $6.45, +1.10% vs. prior close $6.38, 2026-08-12; cross-referenced against the macrotrends-sourced $6.64 close from 8/10, showing the multi-day pattern of an initial spike partially fading before stabilizing. Web-search-sourced, not exchange-API-verified.)",
+          "estimated_cost": 12.9,
+          "reasoning": "Lumen Technologies: CEO Kathleen Johnson's $612,680 insider purchase (Aug 6, $6.07-6.18/sh) remains backed by the Q2 2026 earnings beat (EPS -$0.07 vs. -$0.13 est., revenue $2.8B beat) disclosed 8/4. Ranked #5 (lowest conviction of the buys): the initial pop has partly faded over the past two sessions and Citi trimmed its PT to $8.25 from $10 on 8/10 -- still ~28% upside from today's entry, but a more modest, turnaround-paced thesis than the higher-beta names above it. Sized small given this is the third buy recommendation on this name in a week."
+        }
+      ],
+      "sells": []
     }
   ]
 }
