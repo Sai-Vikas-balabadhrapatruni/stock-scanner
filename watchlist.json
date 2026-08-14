@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-13T16:15:00-04:00",
+  "last_updated": "2026-08-14T09:50:00-04:00",
   "candidates": [
     {
       "ticker": "ABCL",
@@ -7,7 +7,7 @@
     },
     {
       "ticker": "ACHR",
-      "note": "New 2026-08-10 EVENING RUN: Archer Aviation. Agreed to acquire Boeing's Wisk Aero, SkyGrid and Insitu units in exchange for a 20% Boeing ownership stake in Archer -- adds a profitable ~$200M-revenue defense/UAS business across 35 countries. Also reported Q2 2026 earnings same day. Price WILDLY UNSTABLE intraday ($5.26-$6.87, >25% range) reflecting the stock digesting both the M&A news and an earnings print simultaneously. EXCLUDED on pricing-instability/same-day-earnings grounds -- high-priority re-check once the reaction settles, genuine catalyst underneath. 2026-08-11 MORNING RUN: STILL EXCLUDED, still unstable -- confirmed the Boeing deal (Boeing selling Wisk Aero, Insitu and SkyGrid to Archer in an all-stock deal lifting Boeing's stake to ~19.75-20%) and an in-line Q2 print (EPS -$0.34), but price reads spanned ~$5.59-$8.39 across sources (~35% range) -- still digesting two simultaneous catalysts. High-priority re-check once settled."
+      "note": "2026-08-14 MORNING RUN: noted but not priced/bought. Rallying (~$6.93, +11% one day) on a Boeing tie-up (Boeing acquiring Wisk Aero/Insitu/SkyGrid, taking a strategic stake in Archer). Sector caution: eVTOL names collectively down ~50% in 2026; ACHR itself still down ~31% YTD -- real catalyst but a beaten-down, high-risk sector. || PRIOR: New 2026-08-10 EVENING RUN: Archer Aviation. Agreed to acquire Boeing's Wisk Aero, SkyGrid and Insitu units in exchange for a 20% Boeing ownership stake in Archer -- adds a profitable ~$200M-revenue defense/UAS business across 35 countries. Also reported Q2 2026 earnings same day. Price WILDLY UNSTABLE intraday ($5.26-$6.87, >25% range) reflecting the stock digesting both the M&A news and an earnings print simultaneously. EXCLUDED on pricing-instability/same-day-earnings grounds -- high-priority re-check once the reaction settles, genuine catalyst underneath. 2026-08-11 MORNING RUN: STILL EXCLUDED, still unstable -- confirmed the Boeing deal (Boeing selling Wisk Aero, Insitu and SkyGrid to Archer in an all-stock deal lifting Boeing's stake to ~19.75-20%) and an in-line Q2 print (EPS -$0.34), but price reads spanned ~$5.59-$8.39 across sources (~35% range) -- still digesting two simultaneous catalysts. High-priority re-check once settled."
     },
     {
       "ticker": "GOOGL",
@@ -47,7 +47,7 @@
     },
     {
       "ticker": "MRNA",
-      "note": "2026-08-13 EVENING RUN: catalyst CONFIRMED RESOLVED -- FDA approved mFLUSIVA (mRNA-1010) on 2026-08-05, the first-ever approved mRNA flu vaccine. Not priced/sized this run; re-check price and post-approval commercial trajectory next run. || PRIOR: Moderna. FDA PDUFA decision on mRNA-1010 (mFLUSIVA flu vaccine) was due TODAY, 2026-08-05. 2026-08-05 MORNING RUN: extensive searching found NO confirmed outcome yet -- backdrop remains favorable (VRBPAC voted unanimously 9-0 on 6/18/26 that benefits outweigh risks for adults 50+). 2026-08-05 EVENING RUN: still NO confirmed approval or CRL found (NPR, BioPharma Dive, TechTimes all describe the decision as still pending/imminent as of tonight) -- the FDA is not legally required to act by midnight, so this remains genuinely live. Price also failed cross-reference tonight ($56.17 vs $57.70, ~2.7% spread). If approved, would be the first licensed mRNA seasonal flu vaccine in the US in time for 2026-27 flu season. EXCLUDED again -- TOP PRIORITY re-check first thing next run once the decision (and a fresh price) is confirmed. 2026-08-06 MORNING RUN: RESOLVED -- the FDA APPROVED mFlusiva (mRNA-1010) on 2026-08-05, full approval for adults 50-64 (Phase 3 FLUENT trial) and accelerated approval for 65+ (pending a confirmatory post-marketing trial) -- the first mRNA-based flu vaccine ever licensed in the US, Moderna's 4th approved product. Price cleared cross-reference cleanly (~$56.26 vs ~$56.40, ~0.3% spread, PASS) but the stock only moved -1.29% today, suggesting the approval was already priced into yesterday's reaction. EXCLUDED this run on muted-reaction/budget-prioritization grounds -- kept as 'resolved positively, priced and ready' for a future run. 2026-08-06 EVENING RUN: price $56.25/$56.26 vs $57.54, ~2.3% spread, borderline. No fresh follow-through catalyst since the approval. EXCLUDED again on budget-prioritization grounds -- this run's five picks (CSGP/IONS/TSCO/ACI/CAG) offer fresher, more precisely-timed signals; MRNA remains 'resolved positively, priced and ready' if cash frees up. 2026-08-10 MORNING RUN: RESOLVED -- FDA approved mFLUSIVA (mRNA-1010) on 2026-08-05, the first mRNA flu vaccine approved in the US (full approval ages 50-64, accelerated approval 65+; availability targeted for 2026-27 flu season). Price FAILED cross-reference this run ($54.79 vs $57.54, ~5.0% spread, a third read showed $56.25) -- excluded from sizing despite the resolved catalyst; re-check next run."
+      "note": "2026-08-14 MORNING RUN: noted but not priced/bought this run. FDA approved mFLUSIVA (mRNA-1010), Moderna's first mRNA flu vaccine and 4th approved product, on 8/5 for adults 50+ (accelerated approval for 65+ pending a postmarketing study). ~$63.65 close 8/13 -- catalyst is now ~9 days old and largely absorbed into the price already; less fresh than this run's top picks. || PRIOR: 2026-08-13 EVENING RUN: catalyst CONFIRMED RESOLVED -- FDA approved mFLUSIVA (mRNA-1010) on 2026-08-05, the first-ever approved mRNA flu vaccine. Not priced/sized this run; re-check price and post-approval commercial trajectory next run. || PRIOR: Moderna. FDA PDUFA decision on mRNA-1010 (mFLUSIVA flu vaccine) was due TODAY, 2026-08-05. 2026-08-05 MORNING RUN: extensive searching found NO confirmed outcome yet -- backdrop remains favorable (VRBPAC voted unanimously 9-0 on 6/18/26 that benefits outweigh risks for adults 50+). 2026-08-05 EVENING RUN: still NO confirmed approval or CRL found (NPR, BioPharma Dive, TechTimes all describe the decision as still pending/imminent as of tonight) -- the FDA is not legally required to act by midnight, so this remains genuinely live. Price also failed cross-reference tonight ($56.17 vs $57.70, ~2.7% spread). If approved, would be the first licensed mRNA seasonal flu vaccine in the US in time for 2026-27 flu season. EXCLUDED again -- TOP PRIORITY re-check first thing next run once the decision (and a fresh price) is confirmed. 2026-08-06 MORNING RUN: RESOLVED -- the FDA APPROVED mFlusiva (mRNA-1010) on 2026-08-05, full approval for adults 50-64 (Phase 3 FLUENT trial) and accelerated approval for 65+ (pending a confirmatory post-marketing trial) -- the first mRNA-based flu vaccine ever licensed in the US, Moderna's 4th approved product. Price cleared cross-reference cleanly (~$56.26 vs ~$56.40, ~0.3% spread, PASS) but the stock only moved -1.29% today, suggesting the approval was already priced into yesterday's reaction. EXCLUDED this run on muted-reaction/budget-prioritization grounds -- kept as 'resolved positively, priced and ready' for a future run. 2026-08-06 EVENING RUN: price $56.25/$56.26 vs $57.54, ~2.3% spread, borderline. No fresh follow-through catalyst since the approval. EXCLUDED again on budget-prioritization grounds -- this run's five picks (CSGP/IONS/TSCO/ACI/CAG) offer fresher, more precisely-timed signals; MRNA remains 'resolved positively, priced and ready' if cash frees up. 2026-08-10 MORNING RUN: RESOLVED -- FDA approved mFLUSIVA (mRNA-1010) on 2026-08-05, the first mRNA flu vaccine approved in the US (full approval ages 50-64, accelerated approval 65+; availability targeted for 2026-27 flu season). Price FAILED cross-reference this run ($54.79 vs $57.54, ~5.0% spread, a third read showed $56.25) -- excluded from sizing despite the resolved catalyst; re-check next run."
     },
     {
       "ticker": "CVX",
@@ -71,11 +71,11 @@
     },
     {
       "ticker": "SOFI",
-      "note": "2026-08-13 EVENING RUN: not re-priced -- no fresh catalyst since this morning's buy call; deprioritized in favor of five fresher, earnings-day-driven picks this run. || PRIOR: 2026-08-13 MORNING RUN: BOUGHT (1 sh, last/lowest-ranked pick this run). Q2 2026 net revenue +42.5% YoY to $1.22B, FY26 adjusted net revenue guidance raised to $4.75-4.85B. Price ~$18.10 (two-source spread ~1.7%). Analyst sentiment the most cautious of any name bought this run: only 7 of 21 rate it Buy (11 Hold, 3 Sell) despite a $22.4-22.8 PT (+24-26%); shares still ~50% off 52-week highs. || PRIOR: SoFi Technologies. CEO Anthony Noto has made five separate open-market insider buys across 2026 (~$2.25M cumulative, most recently 2026-06-16, mid-teens pricing) -- a notable conviction signal. 2026-08-03 EVENING RUN: first attempt at a cross-referenced price FAILED -- $17.88 (Yahoo) vs $16.31 (StockAnalysis.com), ~9.63% spread; SOFI dropped >10% around its late-July earnings, so date-alignment between reads likely explains much of the gap. Excluded from sizing this run, needs a cleaner cross-reference."
+      "note": "2026-08-14 MORNING RUN: noted but not priced/bought. Beat Q2 EPS ($0.12 vs $0.11) and raised FY revenue guidance, but stock declined anyway on the print (~$18.40) -- a mixed/negative market reaction despite the beat, worth monitoring rather than chasing. || PRIOR: 2026-08-13 EVENING RUN: not re-priced -- no fresh catalyst since this morning's buy call; deprioritized in favor of five fresher, earnings-day-driven picks this run. || PRIOR: 2026-08-13 MORNING RUN: BOUGHT (1 sh, last/lowest-ranked pick this run). Q2 2026 net revenue +42.5% YoY to $1.22B, FY26 adjusted net revenue guidance raised to $4.75-4.85B. Price ~$18.10 (two-source spread ~1.7%). Analyst sentiment the most cautious of any name bought this run: only 7 of 21 rate it Buy (11 Hold, 3 Sell) despite a $22.4-22.8 PT (+24-26%); shares still ~50% off 52-week highs. || PRIOR: SoFi Technologies. CEO Anthony Noto has made five separate open-market insider buys across 2026 (~$2.25M cumulative, most recently 2026-06-16, mid-teens pricing) -- a notable conviction signal. 2026-08-03 EVENING RUN: first attempt at a cross-referenced price FAILED -- $17.88 (Yahoo) vs $16.31 (StockAnalysis.com), ~9.63% spread; SOFI dropped >10% around its late-July earnings, so date-alignment between reads likely explains much of the gap. Excluded from sizing this run, needs a cleaner cross-reference."
     },
     {
       "ticker": "OKLO",
-      "note": "2026-08-13 EVENING RUN: reported Q2 2026 on 8/7 -- revenue beat ($1.21M vs $0.10M est.) but EPS missed (-$0.28 vs -$0.16 est.); stock +7.6% to ~$45.41 on the Groves Isotope Test Reactor reaching 'first criticality,' though still down ~40% YTD with fresh analyst PT cuts (Truist to $51, Canaccord to $100, Citi to $57.50) on execution/commercialization-timeline concerns. Not priced/bought this run -- too expensive relative to the remaining budget after five other picks. || PRIOR: 2026-08-13 MORNING RUN: NOT priced/bought this run -- included for context only. Continues sliding: ~$45.13-47.42 range (two-source spread ~4%, wider than ideal), down from a $193 peak and down nearly 40% YTD. Multiple analyst PT cuts this week (Truist to $51 from $55, Canaccord to $100 from $125, Citi to $57.50 from $76) despite the Groves Isotope Test Reactor hitting first criticality -- commercialization concerns outweighing the technical milestone for now. || PRIOR: 2026-08-12 MORNING RUN: Oklo Inc. No fresh price re-check this run -- last read ~$47.42 (Groves Isotope Test Reactor first-criticality milestone, first-ever quarterly revenue of $1.21M but still deeply unprofitable, down ~40% YTD from its $193 peak). Watching, not re-priced today."
+      "note": "2026-08-14 MORNING RUN: priced and ready but excluded purely on budget after this run's 4 picks. Fresh same-day catalysts: DOE $200M initiative to speed AI-data-center reactor development, plus a newly approved 30-year US-Saudi Arabia civil nuclear program agreement (+3.6% intraday on the news). Caveat: still digesting a rough prior week -- Citi/Canaccord/Truist all cut price targets after an 8/7 wider-than-expected Q2 loss and raised cash-burn guidance. Price cross-referenced $46.74 vs $45.98 (~1.63% spread); a $72.91 Yahoo Finance read excluded as clearly stale/mis-cached (55%+ above every other source). || PRIOR: 2026-08-13 EVENING RUN: reported Q2 2026 on 8/7 -- revenue beat ($1.21M vs $0.10M est.) but EPS missed (-$0.28 vs -$0.16 est.); stock +7.6% to ~$45.41 on the Groves Isotope Test Reactor reaching 'first criticality,' though still down ~40% YTD with fresh analyst PT cuts (Truist to $51, Canaccord to $100, Citi to $57.50) on execution/commercialization-timeline concerns. Not priced/bought this run -- too expensive relative to the remaining budget after five other picks. || PRIOR: 2026-08-13 MORNING RUN: NOT priced/bought this run -- included for context only. Continues sliding: ~$45.13-47.42 range (two-source spread ~4%, wider than ideal), down from a $193 peak and down nearly 40% YTD. Multiple analyst PT cuts this week (Truist to $51 from $55, Canaccord to $100 from $125, Citi to $57.50 from $76) despite the Groves Isotope Test Reactor hitting first criticality -- commercialization concerns outweighing the technical milestone for now. || PRIOR: 2026-08-12 MORNING RUN: Oklo Inc. No fresh price re-check this run -- last read ~$47.42 (Groves Isotope Test Reactor first-criticality milestone, first-ever quarterly revenue of $1.21M but still deeply unprofitable, down ~40% YTD from its $193 peak). Watching, not re-priced today."
     },
     {
       "ticker": "APLD",
@@ -155,7 +155,7 @@
     },
     {
       "ticker": "SMR",
-      "note": "2026-08-12 MORNING RUN: NuScale Power. No fresh price re-check this run (last read ~$9.01, Aug 3) -- part of the ongoing 'nuclear renaissance' AI-power-demand narrative alongside OKLO; Barclays/Truist have trimmed targets pending execution proof. Watching, not re-priced today."
+      "note": "2026-08-14 MORNING RUN: noted but not priced/bought. Nuclear/AI-power-demand theme (BofA: '$10T market opportunity'), new MOU with Curio/Framatome on fuel supply, ~$10.03. NEGATIVE FLAGS: fully tapped its ATM facility (dilutive), Northland cut PT $19->$16, Barclays cut $15->$11 on TVA project delays. Pre-commercial, ~$47.5M Q2 net loss -- excluded pending a cleaner risk/reward setup. || PRIOR: 2026-08-12 MORNING RUN: NuScale Power. No fresh price re-check this run (last read ~$9.01, Aug 3) -- part of the ongoing 'nuclear renaissance' AI-power-demand narrative alongside OKLO; Barclays/Truist have trimmed targets pending execution proof. Watching, not re-priced today."
     },
     {
       "ticker": "AMD",
@@ -163,7 +163,7 @@
     },
     {
       "ticker": "CAPR",
-      "note": "New 2026-08-04 (morning run): Capricor Therapeutics. Flagged by Stocktwits as an 'in focus' name amid a cluster of August 2026 biotech PDUFA/catalyst dates (Duchenne muscular dystrophy cell therapy). Not yet researched in depth or priced -- needs a fuller catalyst/price check on a future run."
+      "note": "2026-08-14 MORNING RUN: noted but not priced/bought, high-risk/high-reward. The Lancet published pivotal Phase 3 HOPE-3 Duchenne data for deramiocel (54% slower upper-limb decline vs placebo); Cantor Fitzgerald upgraded to Overweight, PT $28 (stock ~$13, implied ~2x). FDA PDUFA decision due 2026-08-22. Real regulatory risk: an FDA advisory panel voted negatively on the cardiomyopathy claim component; stock crashed from ~$19.70 to $6.57 in late July before this rebound -- extremely volatile, re-check pricing before any future sizing. || PRIOR: New 2026-08-04 (morning run): Capricor Therapeutics. Flagged by Stocktwits as an 'in focus' name amid a cluster of August 2026 biotech PDUFA/catalyst dates (Duchenne muscular dystrophy cell therapy). Not yet researched in depth or priced -- needs a fuller catalyst/price check on a future run."
     },
     {
       "ticker": "RARE",
@@ -251,7 +251,7 @@
     },
     {
       "ticker": "IONQ",
-      "note": "2026-08-13 EVENING RUN: EXCLUDED on price-reliability grounds despite being bought this morning -- the two most-agreeing sources actually converged on Aug 12's close ($45.20 both), not a confirmed Aug 13 price; today's reads ranged $45.32-$47.64 without independent same-day confirmation. Thesis unchanged: Q2 revenue +287% YoY, raised FY26 guidance to $280-290M, $28M DARPA HARQ extension (8/6). || PRIOR: 2026-08-13 MORNING RUN: BOUGHT again (1 sh). Q2 2026 revenue $80.1M (+287% YoY), FY26 guidance raised to $280-290M, Aug 6 $28M DARPA HARQ extension. Price ~$44.59 premarket (-1.35% vs $45.20 prior close). 13-analyst avg 'Strong Buy', $67.68 PT (+52%), the largest analyst-target gap of any name priced this run. || PRIOR: 2026-08-12 EVENING RUN, BOUGHT again (1 sh, 2nd buy call today). Q2 2026 revenue $80.1M (+287% YoY), FY26 guidance raised to $280-290M, new $28M DARPA HARQ contract extension (Aug 6), closed SkyWater acquisition. Price ~$43.00 cross-referenced (two reads, ~2.1% spread, both inside confirmed $42.18-44.02 day range -- likely different intraday timestamps not a genuine conflict). Analyst PT $67.68-75 implies 57-74% upside from entry."
+      "note": "2026-08-14 MORNING RUN: BOUGHT (1 sh @ $45.42, ranked #2). Q2 2026 revenue +287% YoY to $80.1M, FY26 guidance raised to $280-290M, new $28M DARPA contract, closed $1.8B SkyWater acquisition, Wedbush initiated Outperform PT $75 (~65% upside from today's price). Price tightly cross-referenced ($45.20 vs $45.63, ~0.95% spread). || PRIOR: 2026-08-13 EVENING RUN: EXCLUDED on price-reliability grounds despite being bought this morning -- the two most-agreeing sources actually converged on Aug 12's close ($45.20 both), not a confirmed Aug 13 price; today's reads ranged $45.32-$47.64 without independent same-day confirmation. Thesis unchanged: Q2 revenue +287% YoY, raised FY26 guidance to $280-290M, $28M DARPA HARQ extension (8/6). || PRIOR: 2026-08-13 MORNING RUN: BOUGHT again (1 sh). Q2 2026 revenue $80.1M (+287% YoY), FY26 guidance raised to $280-290M, Aug 6 $28M DARPA HARQ extension. Price ~$44.59 premarket (-1.35% vs $45.20 prior close). 13-analyst avg 'Strong Buy', $67.68 PT (+52%), the largest analyst-target gap of any name priced this run. || PRIOR: 2026-08-12 EVENING RUN, BOUGHT again (1 sh, 2nd buy call today). Q2 2026 revenue $80.1M (+287% YoY), FY26 guidance raised to $280-290M, new $28M DARPA HARQ contract extension (Aug 6), closed SkyWater acquisition. Price ~$43.00 cross-referenced (two reads, ~2.1% spread, both inside confirmed $42.18-44.02 day range -- likely different intraday timestamps not a genuine conflict). Analyst PT $67.68-75 implies 57-74% upside from entry."
     },
     {
       "ticker": "CRL",
@@ -315,7 +315,7 @@
     },
     {
       "ticker": "RIOT",
-      "note": "2026-08-13 EVENING RUN: EXCLUDED on price-reliability grounds despite being bought this morning -- two separate pricing sub-agent passes could not produce a trustworthy same-day cross-reference; cached search reads for 'RIOT today' ranged from $14.93 to $27.38, an incoherent >30% spread pointing to stale/blended search-index snapshots rather than a genuine price. Thesis unchanged: the Anthropic $9.1B/20yr AI-datacenter lease remains the single largest signed catalyst on the whole watchlist. Recommend verifying via a live quote feed before further sizing. || PRIOR: 2026-08-13 MORNING RUN: BOUGHT again (4th consecutive run, 2 sh). Anthropic $9.1B/20yr AI-datacenter deal still the largest signed catalyst on the whole watchlist; Piper Sandler, Bernstein, Citi, H.C. Wainwright, Cantor Fitzgerald all at $30-40 PTs. Stock pulled back to ~$20.41 (day range $19.75-20.51), a better entry than the last three buy calls. Caution flag persists: SVP/CAO Ryan Werner sold ~$1.06M on Aug 5 just before the mega-deal broke. || PRIOR: 2026-08-12 EVENING RUN, BOUGHT again (3rd time this week, sized down to 2 sh). Anthropic $9.1B/20yr AI-datacenter deal still driving fresh analyst PT raises (Piper Sandler, Bernstein, Citi, H.C. Wainwright, Cantor Fitzgerald, targets $30-40). Price cross-referenced ~$21.00 (two same-day reads, ~0.8% spread) -- notably PULLED BACK from this morning's $23.46 buy price despite no negative news; caution flag: SVP Ryan Werner sold ~$1.06M (47,733 sh) on Aug 5, just before the mega-deal broke. Watch for continued follow-through vs. fading momentum next run."
+      "note": "2026-08-14 MORNING RUN: BOUGHT (3 sh @ $20.60, ranked #1 this run). Anthropic signed a 20-year AI data-center compute lease (191MW, Rockdale TX; $9.1B base, up to $16.1B with extensions) ~8/11-12; Q2 revenue beat ($174.2M vs ~$148.7M est.); 5 sell-side firms (Piper Sandler, Bernstein, Citi, HC Wainwright, Cantor Fitzgerald) raised price targets. Reframes RIOT as an AI/power-infra landlord, not just a bitcoin miner. Price cross-referenced $20.41/$20.81 (~1.9% spread, borderline-pass) against a confirmed $19.21 prior close; several stale outlier reads ($26.61, $18.26, $22.40) excluded. || PRIOR: 2026-08-13 EVENING RUN: EXCLUDED on price-reliability grounds despite being bought this morning -- two separate pricing sub-agent passes could not produce a trustworthy same-day cross-reference; cached search reads for 'RIOT today' ranged from $14.93 to $27.38, an incoherent >30% spread pointing to stale/blended search-index snapshots rather than a genuine price. Thesis unchanged: the Anthropic $9.1B/20yr AI-datacenter lease remains the single largest signed catalyst on the whole watchlist. Recommend verifying via a live quote feed before further sizing. || PRIOR: 2026-08-13 MORNING RUN: BOUGHT again (4th consecutive run, 2 sh). Anthropic $9.1B/20yr AI-datacenter deal still the largest signed catalyst on the whole watchlist; Piper Sandler, Bernstein, Citi, H.C. Wainwright, Cantor Fitzgerald all at $30-40 PTs. Stock pulled back to ~$20.41 (day range $19.75-20.51), a better entry than the last three buy calls. Caution flag persists: SVP/CAO Ryan Werner sold ~$1.06M on Aug 5 just before the mega-deal broke. || PRIOR: 2026-08-12 EVENING RUN, BOUGHT again (3rd time this week, sized down to 2 sh). Anthropic $9.1B/20yr AI-datacenter deal still driving fresh analyst PT raises (Piper Sandler, Bernstein, Citi, H.C. Wainwright, Cantor Fitzgerald, targets $30-40). Price cross-referenced ~$21.00 (two same-day reads, ~0.8% spread) -- notably PULLED BACK from this morning's $23.46 buy price despite no negative news; caution flag: SVP Ryan Werner sold ~$1.06M (47,733 sh) on Aug 5, just before the mega-deal broke. Watch for continued follow-through vs. fading momentum next run."
     },
     {
       "ticker": "NIQ",
@@ -375,7 +375,7 @@
     },
     {
       "ticker": "QBTS",
-      "note": "2026-08-13 EVENING RUN: EXCLUDED on price-reliability grounds despite being bought this morning -- Aug 13 reads directly contradicted each other (~$20.67 vs a $22.46-24.26 range, both tagged 'today'), no reliable price established across two pricing passes. Thesis unchanged: Q2 bookings +1,120% YoY, new Nasdaq Verafin financial-crime-detection deal layers onto the earlier AT&T commercial deal. || PRIOR: 2026-08-13 MORNING RUN: BOUGHT (1 sh). New Nasdaq Verafin financial-crime-detection collaboration layers onto the earlier AT&T deal; Q2 2026 bookings +1,120% YoY though headline revenue flat YoY. Price ~$20.65 (two-source cross-ref, <1% spread). || PRIOR: 2026-08-12 EVENING RUN: EXCLUDED on price-reliability grounds despite the real AT&T commercial-deal catalyst and being bought this morning -- five searches today returned $20.00-20.27 (CNN Business), $20.75 (stockanalysis-cluster), and one clearly erroneous $26.15-27.49 (Yahoo-sourced, contradicts every other source, discarded as a data error). Too noisy to size responsibly; do not buy again until a clean, consistent quote is found."
+      "note": "2026-08-14 MORNING RUN: BOUGHT (1 sh @ $20.88, ranked #4). New Nasdaq Verafin quantum-computing partnership (8/13); consensus 13 Buy/1 Hold/0 Sell, ~$37 avg target (~77% upside). Caveat: Q2 earnings mixed (flat revenue, wider EBITDA loss, though bookings +1,120%), still digesting a post-earnings pullback. Price tightly cross-referenced ($20.90 vs $20.85, ~0.24% spread). || PRIOR: 2026-08-13 EVENING RUN: EXCLUDED on price-reliability grounds despite being bought this morning -- Aug 13 reads directly contradicted each other (~$20.67 vs a $22.46-24.26 range, both tagged 'today'), no reliable price established across two pricing passes. Thesis unchanged: Q2 bookings +1,120% YoY, new Nasdaq Verafin financial-crime-detection deal layers onto the earlier AT&T commercial deal. || PRIOR: 2026-08-13 MORNING RUN: BOUGHT (1 sh). New Nasdaq Verafin financial-crime-detection collaboration layers onto the earlier AT&T deal; Q2 2026 bookings +1,120% YoY though headline revenue flat YoY. Price ~$20.65 (two-source cross-ref, <1% spread). || PRIOR: 2026-08-12 EVENING RUN: EXCLUDED on price-reliability grounds despite the real AT&T commercial-deal catalyst and being bought this morning -- five searches today returned $20.00-20.27 (CNN Business), $20.75 (stockanalysis-cluster), and one clearly erroneous $26.15-27.49 (Yahoo-sourced, contradicts every other source, discarded as a data error). Too noisy to size responsibly; do not buy again until a clean, consistent quote is found."
     },
     {
       "ticker": "RGTI",
@@ -387,7 +387,7 @@
     },
     {
       "ticker": "SMCI",
-      "note": "2026-08-13 EVENING RUN: BOUGHT again (1 sh, rank #2). Extended gains for a third straight session (+5-6% intraday today) to ~$39.78 (cross-referenced: $39.56 Benzinga vs $40.00 Yahoo Finance, ~1.11% spread) on top of the FY2027 revenue guidance beat ($65-72B vs ~$52.5B consensus) from the 8/11 print. Sized to 1 share given genuine chasing risk after three consecutive up days. || PRIOR: 2026-08-13 MORNING RUN: BOUGHT again (1 sh). Fiscal Q4 2026 earnings (after close 8/11): FY2027 revenue guidance $65-72B vs ~$52.5B consensus, a ~30% guidance beat. Continued higher today (+10.6% intraday) to ~$37.73 on top of Tuesday's pop -- now a two-day momentum move, chasing risk noted. || PRIOR: 2026-08-12 EVENING RUN, BOUGHT (1 sh, new buy this run). Blockbuster fiscal Q4 2026 earnings (after close 8/11): FY2027 revenue guidance $65-72B vs ~$52.5B consensus (~30% beat), new SpaceX AI-datacenter contract mentioned in coverage. Price ~$35.50 (prior close $31.60, day range $33.94-37.17) but the two distinct-sourced reads ($35.96 vs $34.94) spread ~2.9%, at/slightly past normal tolerance though both sit inside the confirmed day range -- flagged as this run's least-certain price, re-verify next run with a cleaner cross-reference."
+      "note": "2026-08-14 MORNING RUN: BOUGHT (1 sh @ $39.55, ranked #3), extending prior runs' thesis. Q4 FY26 EPS $1.70 vs $0.71 est.; FY2027 revenue guidance $65-72B vs Street ~$50B; $60B in new quarterly orders. Price cross-referenced $39.56 vs $39.53, ~0.08% spread, tightest of the run. || PRIOR: 2026-08-13 EVENING RUN: BOUGHT again (1 sh, rank #2). Extended gains for a third straight session (+5-6% intraday today) to ~$39.78 (cross-referenced: $39.56 Benzinga vs $40.00 Yahoo Finance, ~1.11% spread) on top of the FY2027 revenue guidance beat ($65-72B vs ~$52.5B consensus) from the 8/11 print. Sized to 1 share given genuine chasing risk after three consecutive up days. || PRIOR: 2026-08-13 MORNING RUN: BOUGHT again (1 sh). Fiscal Q4 2026 earnings (after close 8/11): FY2027 revenue guidance $65-72B vs ~$52.5B consensus, a ~30% guidance beat. Continued higher today (+10.6% intraday) to ~$37.73 on top of Tuesday's pop -- now a two-day momentum move, chasing risk noted. || PRIOR: 2026-08-12 EVENING RUN, BOUGHT (1 sh, new buy this run). Blockbuster fiscal Q4 2026 earnings (after close 8/11): FY2027 revenue guidance $65-72B vs ~$52.5B consensus (~30% beat), new SpaceX AI-datacenter contract mentioned in coverage. Price ~$35.50 (prior close $31.60, day range $33.94-37.17) but the two distinct-sourced reads ($35.96 vs $34.94) spread ~2.9%, at/slightly past normal tolerance though both sit inside the confirmed day range -- flagged as this run's least-certain price, re-verify next run with a cleaner cross-reference."
     },
     {
       "ticker": "TRAX",
@@ -431,7 +431,7 @@
     },
     {
       "ticker": "ET",
-      "note": "2026-08-13 MORNING RUN: No fresher price found this run; still not priced/bought. Director James Richard Perry's $250K open-market purchase (12,359.372 units @ $20.2276, 8/7) remains the notable insider signal. || PRIOR: NEW 2026-08-12 MORNING RUN: Energy Transfer LP. Director James Richard Perry made an open-market insider purchase per an 8/10 Form 4. Not priced this run -- flagged for a future re-check."
+      "note": "2026-08-14 MORNING RUN: insider signal noted -- director Rick Perry bought 12,359 units (~$250K @ $20.23) on 8/7. Not priced/bought this run; a single-director buy is a modest, not overwhelming, signal on its own. || PRIOR: 2026-08-13 MORNING RUN: No fresher price found this run; still not priced/bought. Director James Richard Perry's $250K open-market purchase (12,359.372 units @ $20.2276, 8/7) remains the notable insider signal. || PRIOR: NEW 2026-08-12 MORNING RUN: Energy Transfer LP. Director James Richard Perry made an open-market insider purchase per an 8/10 Form 4. Not priced this run -- flagged for a future re-check."
     },
     {
       "ticker": "CRCL",
@@ -520,6 +520,90 @@
     {
       "ticker": "CSCO",
       "note": "2026-08-13 EVENING RUN: New candidate, flagged AVOID, NOT bought. Cisco Systems -5.6% premarket today despite beating headline estimates -- market reaction reads as a guidance/valuation concern. Kept on watchlist for context/monitoring only."
+    },
+    {
+      "ticker": "IREN",
+      "note": "2026-08-14 MORNING RUN: new candidate, priced but not bought (budget). Delivered first AI Cloud compute to Microsoft (Horizon 1, 50MW of a 5-year, $9.7B contract) on 8/13, pushing shares to a breakout close near $48; pulling back today (~$44.32) on apparent profit-taking, not new negative news. Price cross-referenced $43.87 (Yahoo, 3:31pm ET) vs $44.76 (Investing.com/StockAnalysis cluster), ~1.99% spread -- right at the tolerance edge. A $18.73 CNBC-derived read excluded as an apparent wrong-instrument mixup (likely Iren S.p.A., the Italian utility)."
+    },
+    {
+      "ticker": "WULF",
+      "note": "2026-08-14 MORNING RUN: new candidate, not priced this run. TeraWulf, leads the bitcoin-miner-to-AI-pivot group, ~$16.31, up ~85% YTD -- best performer among the big miner names per AMBCrypto/CoinTelegraph roundups. Same AI-power-demand theme as RIOT/IREN; worth a pricing pass next run."
+    },
+    {
+      "ticker": "QUBT",
+      "note": "2026-08-14 MORNING RUN: new candidate, not priced this run. Quantum Computing Inc, ~$8.92, reported earnings 8/10; Zacks/TradingView coverage flags 75%+ analyst-target upside post-print. Smallest/most speculative of the quantum-computing group (QBTS/RGTI/IONQ/QUBT)."
+    },
+    {
+      "ticker": "BIVI",
+      "note": "2026-08-14 MORNING RUN: new candidate flagged LOW-QUALITY/speculative, not bought. BioVie Inc, ~$1.56 close 8/12, spiked intraday to $3.79 on Phase 2 SUNRISE-PD Parkinson's data hitting its primary endpoint, then faded same day. Sourced mainly from trading-blog aggregators (Timothy Sykes/StocksToTrade) rather than reputable outlets -- treat as a thinly-sourced penny biotech pending better coverage."
+    },
+    {
+      "ticker": "HLIT",
+      "note": "2026-08-14 MORNING RUN: new candidate, EXCLUDED on pricing grounds -- FAILED cross-reference (~7% spread: $14.07 Investing.com vs $13.08 StockAnalysis/CNBC, both labeled '2026-08-14', plus a rising staircase of other reads from $12.00-$14.07 across the week). Genuine catalyst though: Q2 FY26 EPS $0.24 vs $0.12 est., revenue $173M vs $112.9M est., broadband revenue +54% YoY, record backlog, Rosenblatt raised PT to $20 from $16. Re-check with a live/cleaner quote next run given the strength of the underlying beat."
+    },
+    {
+      "ticker": "PLUG",
+      "note": "2026-08-14 MORNING RUN: new candidate, not priced this run. Plug Power, ~$2.29, Q2 revenue beat ($178.3M vs $168.8M est.), raised FY26 growth outlook to 15-16%, adjusted loss narrowed from $0.18 to $0.07/sh. Very cheap/speculative, heavy share count, history of dilutive asset-sale moves -- worth a cleaner look next run given the real beat."
+    },
+    {
+      "ticker": "JOBY",
+      "note": "2026-08-14 MORNING RUN: new candidate, not priced this run. Joby Aviation, ~$8.59, raised 2026 revenue guidance to $115-125M (beat by 27%), record progress on FAA Stage-5 type certification, new Texas hub, a $500M defense-related deal."
+    },
+    {
+      "ticker": "RIVN",
+      "note": "2026-08-14 MORNING RUN: new candidate, not priced this run. Rivian, ~$15.82, Q2 earnings beat; R2 fleet launch, Uber robotaxi partnership, AT&T connectivity deal."
+    },
+    {
+      "ticker": "LCID",
+      "note": "2026-08-14 MORNING RUN: new candidate, not priced this run. Lucid Group, ~$6.44. Uber committed to buy up to 35,000 vehicles for its robotaxi unit plus a $500M Uber investment; Saudi Prince Alwaleed disclosed a 5% stake (~$129M). NEGATIVE FLAGS: shares still down ~30% YTD, market cap under $3B, recent full executive-team turnover, bankruptcy-rumor denials -- high-risk turnaround story."
+    },
+    {
+      "ticker": "IMXI",
+      "note": "2026-08-14 MORNING RUN: new candidate, merger-arb, not priced this run. International Money Express, ~$14.60. Western Union's $16/sh all-cash buyout ($500M deal); NY DFS approved the deal (+35% after-hours pop). NEGATIVE FLAG: on 8/13 California's DFPI suspended a prior approval extension, injecting fresh regulatory uncertainty into deal timing/completion -- treat as event-risk."
+    },
+    {
+      "ticker": "W",
+      "note": "2026-08-14 MORNING RUN: new candidate, not priced this run. Wayfair, ~$102.94, described as 'rocketing higher' in early-August coverage, trading near its 52-wk high ($119.90). At the upper edge of a $200-budget-friendly range."
+    },
+    {
+      "ticker": "XHG",
+      "note": "2026-08-14 MORNING RUN: new candidate flagged LOW-QUALITY/pump-risk, NOT a genuine candidate. XChange TEC, up 362-561% this week on a letter of intent to acquire AI firm 'First Cycle.' An independent analyst rating cited in coverage calls it Underperform for 'severe financial distress, declining revenue, negative cash flow.' Classic microcap-pump pattern (52-wk range $0.65-$2.23)."
+    },
+    {
+      "ticker": "FGI",
+      "note": "2026-08-14 MORNING RUN: new candidate, thin coverage, not priced this run. FGI Industries, up ~157% this week on real Q2 numbers (gross margin +530bps to 33.4%, revenue +2.9% YoY) -- less purely a pump than XHG, but an obscure micro-cap kitchen/bath supplier covered mainly by trading-blog sites rather than major outlets."
+    },
+    {
+      "ticker": "CVNA",
+      "note": "2026-08-14 MORNING RUN: new candidate flagged AVOID. Carvana, strong Q2 net income beat, but stock fell >20% post-earnings on cautious full-year guidance framing -- a 'good quarter, bad reaction' name, not a buy right now."
+    },
+    {
+      "ticker": "OPEN",
+      "note": "2026-08-14 MORNING RUN: new candidate flagged AVOID. Opendoor, Q2 revenue -43.7% YoY, stock -15.7% post-earnings -- weak housing-market exposure."
+    },
+    {
+      "ticker": "ORGO",
+      "note": "2026-08-14 MORNING RUN: new candidate flagged AVOID. Organogenesis, -21.5% after slashing 2026 guidance and launching a $75M ATM equity raise -- dilution + guidance cut combo."
+    },
+    {
+      "ticker": "BSX",
+      "note": "2026-08-14 MORNING RUN: new candidate, priced and ready but excluded purely on budget after this run's 4 picks. CEO Mike Mahoney + 2 directors bought ~$10M combined (186,240 sh @ $48.34, 8/3, no pre-set 10b5-1 plan) -- a genuine, non-scheduled cluster-buy conviction signal after a 54% stock decline. Board also authorized a $5B buyback and confirmed a ~$14.5B Penumbra acquisition (largest BSX deal in two decades). Price cross-referenced $51.42 vs $51.42, exact match. Strong candidate for next run."
+    },
+    {
+      "ticker": "MODV",
+      "note": "2026-08-14 MORNING RUN: new candidate, not priced this run. ModivCare, Chairman Christopher Shackelton bought 435,893 sh (~$15.58M @ $35.74) week of 8/7-11 -- a large, fresh insider-conviction signal worth a pricing pass next run."
+    },
+    {
+      "ticker": "CPF",
+      "note": "2026-08-14 MORNING RUN: new candidate, not priced this run. Coastal Financial, CEO Eric Sprink bought 10,000 sh (~$444,500 @ $44.45) on 8/6, near a 52-wk low."
+    },
+    {
+      "ticker": "GPOR",
+      "note": "2026-08-14 MORNING RUN: new candidate, not priced this run (likely too expensive for budget, ~$160/sh). Gulfport Energy, CEO Domenic Dell'Osso bought 1,600 sh (~$256,976 @ $160.61) on 8/7."
+    },
+    {
+      "ticker": "FUN",
+      "note": "2026-08-14 MORNING RUN: new candidate, lower-signal, not priced this run. Six Flags, CEO John Reilly bought 15,713 sh (~$248,000 @ $15.80) on 8/12 -- but under a pre-scheduled 10b5-1 plan (established 5/12/26), a weaker signal than the BSX/MODV/CPF non-scheduled buys."
     }
   ],
   "note": "This is a GROWING candidate universe, not overwritten each run: new high-growth names are added over time and existing entries get their notes/prices refreshed, per RULES.md. Not user-curated. Every open holding must always appear here too."
