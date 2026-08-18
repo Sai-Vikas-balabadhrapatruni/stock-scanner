@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-18T10:30:00-04:00",
+  "last_updated": "2026-08-18T16:15:00-04:00",
   "candidates": [
     {
       "ticker": "ABCL",
@@ -7,7 +7,7 @@
     },
     {
       "ticker": "ACHR",
-      "note": "2026-08-18 MORNING RUN: price $6.39 (last close referenced) to $6.72 (+20.2%/+$1.13 on news) -- these two figures represent before/after the same news event (single aggregation), not two independent sources. Major catalyst: Boeing selling Wisk Aero, SkyGrid, and Insitu to Archer in a combined autonomous-aircraft/drone/airspace-tech/AI deal. Q2 EPS matched consensus (34c); Q3 adj. EBITDA guide -$170M to -$200M (still burning cash). Not bought this run -- price move is real but not yet cleanly two-source cross-referenced; revisit next run once the post-deal price settles."
+      "note": "2026-08-18 EVENING RUN: still excluded -- price sources diverged too much to establish a reliable cross-referenced print this evening (one set of sources ~$6.96-$7.03, another ~$5.345 -- more than 30% apart, far outside the ~1-2% tolerance). Per RULES.md, excluding from sizing until a clean two-source read is available. Boeing (Wisk/SkyGrid/Insitu) deal thesis from this morning stands; revisit next run."
     },
     {
       "ticker": "GOOGL",
@@ -163,7 +163,7 @@
     },
     {
       "ticker": "CAPR",
-      "note": "2026-08-18 MORNING RUN: BOUGHT 3 shares @ $7.74 (premarket, Yahoo Finance, +$3.53 on the day) -- see recommendations_log for full reasoning. FDA agreed to review amended deramiocel BLA; PDUFA-style date ~Aug 22 (4 days out). Cantor Fitzgerald upgraded to Overweight, PT raised $3.50->$28 (278% implied upside, drove today's premarket pop). Counter-signal: B. Riley cut PT to $5 (below current price) -- Street genuinely split, binary regulatory risk into 8/22 remains live. || PRIOR 2026-08-17 MORNING RUN: price $6.90 (Kraken/aggregated), close time-series $4.21 (8/13) -> $6.65 (8/14) -> $7.40 (8/17)."
+      "note": "2026-08-18 EVENING RUN: EXCLUDED from evening buy list (was bought this morning at $7.74 premarket). EOD price faded hard to ~$6.92 (range $6.76-$8.29) -- most of the premarket pop on the Cantor 278%-upside note evaporated by the close. Also a fresh Hagens Berman press release today reminding investors of the ongoing securities-fraud class action (filed after July's 78.7% two-day collapse on the FDA/SAP data dispute) -- not new fraud allegations, but a reminder the litigation overhang is still live into the ~Aug 22 PDUFA-style date. Net: still speculative/binary, and today's reversal argues for waiting rather than adding at the evening print."
     },
     {
       "ticker": "RARE",
@@ -315,7 +315,7 @@
     },
     {
       "ticker": "RIOT",
-      "note": "2026-08-18 MORNING RUN: BOUGHT 4 shares @ $19.02 -- see recommendations_log for full reasoning. $9.1B/20-year Anthropic AI compute lease (191MW, 241MW total contracted AI capacity, 84% gross margins cited), pivoting from pure bitcoin-miner to AI/power infra. Bernstein PT $35 (80% upside flagged), Citi $32, Cantor $30, Wainwright $40; 21 analysts avg Strong Buy, consensus PT $31.97. Price $19.02 confirmed by two independent sources (CNBC last-close quote + separate Zacks/TradingView aggregation), 0% spread."
+      "note": "2026-08-18 EVENING RUN: RECOMMENDED BUY (ranked #1) 5 sh @ ~$19.20. EOD price cross-check: $19.11 (intraday quote, day range $18.95-$19.95, -4.8%) and $19.23 (24/7 Wall St, 'Riot Platforms sinks 4%' citing rising-rates pressure on miner valuations, not a bitcoin-price move) -- two independent sources converge in the $19.02-$19.23 band all session; one outlier aggregator claiming a $18.24/-14.12% close was inconsistent with every other source and discarded. Thesis unchanged from this morning (Anthropic AI-compute lease, multiple sell-side PT raises). Sector context: bitcoin-miner cohort (RIOT/MARA/CLSK/CIFR/WULF) broadly down 4-9% today on rising 10-year yields pressuring long-duration data-center capex names, not miner-specific bad news -- treating today's dip as sector-wide multiple compression, not thesis-breaking."
     },
     {
       "ticker": "NIQ",
@@ -627,7 +627,7 @@
     },
     {
       "ticker": "RCAT",
-      "note": "2026-08-18 MORNING RUN: BOUGHT 5 shares @ $10.06 -- see recommendations_log for full reasoning. Q2 revenue +5x YoY to $20.19M (missed estimate but EPS loss beat), new drone-import tariffs a tailwind, new maritime defense partnership (Blue Ops + Havoc). Two independent WebSearch passes converged on $10.06 same-session."
+      "note": "2026-08-18 EVENING RUN: RECOMMENDED BUY (ranked #2) 7 sh @ $10.06. Price re-confirmed twice today (two separate WebSearch pulls both returned $10.06); one pull's stated intraday range ($10.24-$11.11) is inconsistent with the $10.06 print itself (likely a stale-range data artifact) so sized using the repeatedly-confirmed $10.06 figure. Fresh catalyst since this morning: Teal Drones (Red Cat subsidiary) awarded a $2.49M USAF Security Forces Center contract for Black Widow drones (delivery due Aug 24) -- second government catalyst this week, reinforcing the defense-demand thesis alongside the maritime Blue Ops/Havoc partnership noted this morning."
     },
     {
       "ticker": "FOXA",
@@ -655,7 +655,7 @@
     },
     {
       "ticker": "SERV",
-      "note": "2026-08-18 MORNING RUN: BOUGHT 5 shares @ $4.96 -- see recommendations_log for full reasoning. Q2 revenue +404% YoY but guidance cut Aug 6 (red flag); stabilizing on new DoorDash/Grubhub delivery partnerships replacing lost Uber Eats relationship. Analyst consensus PT $10.92 (7 analysts, >100% implied upside)."
+      "note": "2026-08-18 EVENING RUN: EXCLUDED from evening buy list (was bought this morning at $4.96). Stronger negative institutional signal found this evening: Uber's Form 13F (signed Aug 7, holdings as of 6/30) shows it sold its ENTIRE Serve Robotics stake (was 2M+ shares / $17.5M) -- confirmed via Bloomberg/TechCrunch/Benzinga, described as catching Serve 'off guard.' Serve's own Aug 6 earnings call: Uber Eats delivery volume declined for the first time in 17 quarters, FY26 revenue guidance cut to $9-10M, and CEO Kashani said he does NOT expect the Uber partnership (expires early 2027) to renew. This is materially worse than the 'DoorDash/Grubhub replacing lost Uber Eats relationship' framing used this morning -- the equity exit plus explicit no-renewal comment is a real institutional warning sign per RULES.md guidance. Price ~$4.53-4.55 today (down from $4.96 this morning), roughly consistent across two sources. Downgrading conviction; will re-evaluate once DoorDash/Grubhub volumes are proven out."
     },
     {
       "ticker": "GILD",
@@ -664,6 +664,14 @@
     {
       "ticker": "BMY",
       "note": "2026-08-18 MORNING RUN: NEW lead, not priced this run. Bristol Myers Squibb -- PDUFA date Aug 17, 2026 for an iberdomide combination therapy; that date has likely already passed by the time this note is read. Worth a same-day news check for the outcome next run rather than pricing today."
+    },
+    {
+      "ticker": "XOS",
+      "note": "2026-08-18 EVENING RUN: NEW candidate, watch-only (not bought). Xos Inc (electric truck maker) up ~104-127% intraday/125% per various pulls, +54% further after-hours, after securing its first U.S. Air Force prototype OTA contract (mobile Xos Hub charging/energy-storage system) -- a genuine defense-market entry catalyst, not rumor. Excluded from buy sizing this run: extreme intraday volatility (100%+ moves) makes any single WebSearch price unreliable/stale within minutes, and no clean two-source same-timestamp cross-reference was achievable. Revisit once the move stabilizes and a defensible price can be established."
+    },
+    {
+      "ticker": "PFSA",
+      "note": "2026-08-18 EVENING RUN: NEW candidate, watch-only (not bought). Profusa Inc (biosensor/diagnostics) -- conflicting signals found: one source described shares up ~94% intraday, another headlined shares 'sinking' on diagnostics-deal news the same day. Too contradictory to size a position or trust a price this run. Revisit once the news and price direction are unambiguous."
     }
   ],
   "note": "This is a GROWING candidate universe, not overwritten each run: new high-growth names are added over time and existing entries get their notes/prices refreshed, per RULES.md. Not user-curated. Every open holding must always appear here too."

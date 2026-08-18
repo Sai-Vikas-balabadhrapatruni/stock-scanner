@@ -935,6 +935,28 @@
         }
       ],
       "sells": []
+    },
+    {
+      "timestamp": "2026-08-18T16:15:00-04:00",
+      "buys": [
+        {
+          "ticker": "RIOT",
+          "qty": 5,
+          "price": 19.2,
+          "estimated_cost": 96.0,
+          "price_source": "Web-search-sourced, not exchange-API-verified. Two independent EOD sources converge in the $19.02-$19.23 band today: (1) an aggregated quote service showing $19.11, day range $18.95-$19.95, -4.8%; (2) 24/7 Wall St ('Riot Platforms sinks 4%', citing rising 10Y yields pressuring miner valuations, dated Aug 18 2026), ~$19.23. Sized using a conservative $19.20. One outlier source claiming an -14.12%/$18.24 close was discarded as inconsistent with every other read.",
+          "reasoning": "Ranked #1 for expected profit potential, unchanged from this morning's run and reaffirmed this evening: real, signed $9.1B/20-year, 191MW Anthropic AI-compute lease (241MW total contracted AI capacity, 84% gross margins cited) pivoting RIOT from pure bitcoin miner to AI/power infrastructure. Institutional backing: Bernstein PT $35 (80% upside flagged), Citi $32, Cantor Fitzgerald $30, Wainwright $40; 21 analysts average Strong Buy, consensus PT $31.97 (+65% vs tonight's price). Today's ~4-5% dip is sector-wide (bitcoin miners RIOT/MARA/CLSK/CIFR/WULF all down 4-9% on rising-rate pressure on long-duration data-center capex, not miner-specific bad news or bitcoin-price weakness) -- treated as a better entry, not a broken thesis. Risk: already popped materially around the Aug 10-11 deal announcement; confirm live price before executing given the wide range of web-sourced quotes tonight."
+        },
+        {
+          "ticker": "RCAT",
+          "qty": 7,
+          "price": 10.06,
+          "estimated_cost": 70.42,
+          "price_source": "Web-search-sourced, not exchange-API-verified. $10.06 independently re-confirmed by two separate WebSearch pulls this evening (same figure both times), matching this morning's price exactly -- treated as a stable, well-corroborated print despite one pull's stated intraday range ($10.24-$11.11) looking like a stale-data artifact inconsistent with the $10.06 print itself.",
+          "reasoning": "Ranked #2: fresh catalyst since this morning -- Teal Drones (Red Cat subsidiary) awarded a $2.49M USAF Security Forces Center contract for Black Widow drones (delivery due Aug 24 2026), the second government/defense catalyst this week on top of the maritime Blue Ops/Havoc partnership and the Q2 revenue +5x YoY beat noted this morning. Tariff tailwinds on imported drones remain supportive. Smaller/more speculative micro-cap than RIOT (no comparable sell-side institutional coverage found), hence ranked below it despite the concrete near-term contract catalyst."
+        }
+      ],
+      "sells": []
     }
   ]
 }
