@@ -957,6 +957,48 @@
         }
       ],
       "sells": []
+    },
+    {
+      "timestamp": "2026-08-19T09:45:00-04:00",
+      "buys": [
+        {
+          "ticker": "RGTI",
+          "qty": 4,
+          "price": 17.85,
+          "cost": 71.4,
+          "reasoning": "Rigetti Computing. Price cross-referenced $17.87 (stockanalysis/Robinhood-aggregated) vs $17.83 (CNBC-aggregated), ~0.2% spread -- web-search-sourced, not exchange-API-verified. Quantum-sector snapback rally continuing (RGTI/IONQ/QBTS all +20%+ off early-Aug lows). $569M cash, zero debt (Q1 2026); Q1 revenue nearly tripled YoY to $4.4M; H1 2026 bookings surged to $35.5M from $2.9M YoY. Analyst consensus 'Buy' (13 analysts), 12-month PT $28.81 (+53% from current). Institutional context: Q2 13F season shows 36% of institutional filers were net buyers of AI-infrastructure names, a supportive sector tailwind. Highest-conviction pick this run on fundamentals + sector momentum + analyst-target upside."
+        },
+        {
+          "ticker": "OPEN",
+          "qty": 12,
+          "price": 3.48,
+          "cost": 41.76,
+          "reasoning": "Opendoor Technologies. Price $3.48, consistent across three independent WebSearch passes today (0% spread on current print) -- web-search-sourced, not exchange-API-verified. Institutional: Q2 2026 13F filings show Sixth Street Partners adding a ~$47.5M stake, Morgan Stanley Investment Management +528.88%, plus JPMorgan and BlackRock additions -- 217 institutions added vs 193 reduced last quarter. Insider: CEO Kasra Nejatian bought ~$100K (27,625 sh @ ~$3.62-3.65) on 8/14 -- current price is now below his buy level. Company closed a $440M growth-capital package with a 5% buyback-driven share reduction, settling 8/19, easing the dilution overhang. Cheap entry point gives meaningful share count for the $200 account."
+        },
+        {
+          "ticker": "CAPR",
+          "qty": 4,
+          "price": 6.9,
+          "cost": 27.6,
+          "reasoning": "Capricor Therapeutics. Price $6.90 current vs $6.65 previous close, consistent across sources (today's +3.8% move, not a source disagreement) -- web-search-sourced, not exchange-API-verified. Recurring speculative biotech name across prior runs with continuing DMD/exosome pipeline momentum. Litigation overhang (securities-fraud class action tied to July's FDA/SAP data dispute) is still live -- sized modestly given binary/event risk."
+        },
+        {
+          "ticker": "QUBT",
+          "qty": 2,
+          "price": 8.55,
+          "cost": 17.1,
+          "reasoning": "Quantum Computing Inc. Price cross-referenced $8.61 vs $8.52, ~1.0% spread -- web-search-sourced, not exchange-API-verified. Rides the same quantum-sector snapback rally as RGTI; Q2 2026 revenue +9000% YoY off a very small base (self-reported, still speculative). Smallest/most speculative name in the group -- sized to 2 shares only."
+        },
+        {
+          "ticker": "RIOT",
+          "qty": 1,
+          "price": 19.0,
+          "cost": 19.0,
+          "reasoning": "Riot Platforms. Price cross-referenced $19.11 vs $18.94, ~0.9% spread, both within the $18.95-$19.95 day range -- web-search-sourced, not exchange-API-verified. Core catalyst: $9.1B AI-compute deal with Anthropic, part of RIOT's pivot from pure bitcoin mining to AI infrastructure -- aligned with the broader institutional AI-infra buying trend seen in Q2 13Fs. Ranked last of this run's five buys given the steep Q2 net loss (-$237M) and a rescheduled earnings call adding near-term uncertainty; sized to 1 share."
+        }
+      ],
+      "sells": [],
+      "notes": "No open holdings this run (portfolio currently all-cash), so the sell list is empty by definition -- nothing to evaluate for exit. Ranked buy list total cost if all five are bought: $176.86 of $200.00 cash available, leaving a $23.14 buffer (~11.6%) per RULES.md guidance to size conservatively against web-sourced pricing risk. RCAT, SERV, MRNA, and OPFI were researched but excluded this run -- RCAT/SERV/OPFI failed clean two-source price cross-referencing (spreads of ~9-12%, outside the ~1-2% tolerance), and MRNA (despite a major positive Phase 3 melanoma-vaccine catalyst with Merck) was excluded on position-sizing/chase-risk grounds after a same-day 58-95% spike left prices too high and too volatile for this account's cash. All five buys are new WebSearch-sourced prices, cross-referenced against at least two independent sources each as required."
     }
   ]
 }
