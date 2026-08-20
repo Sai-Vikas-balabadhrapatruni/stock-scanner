@@ -1076,6 +1076,47 @@
       ],
       "sells": [],
       "notes": "No open holdings exist (none of this challenge's 30+ prior buy recommendations across any run were ever reported executed by the user), so cash remains the full $200.00, nothing to mark-to-market, and the sell list is empty by definition -- no same-day round-trip risk either. Total buy cost this run: RIOT $39.30 + REPL $44.85 + OPEN $42.60 + CAPR $15.00 + RARE $26.50 = $168.25 against $200.00 cash, leaving a $31.75 (~15.9%) buffer -- deliberately more conservative than a typical run given two of the five picks (CAPR, RARE) carry imminent binary FDA decisions (8/22 and 8/23) that could move sharply against the position. All five prices were WebSearch-sourced and cross-referenced against at least two independent reads (or, for RARE, converged tightly across two separate WebSearch passes); this is a full ranked buy list respecting the hard cash-limit rule. HL (Hecla Mining) EXCLUDED this run on data-quality grounds -- one WebSearch pass returned $20.54 (current = prev close, a red flag for a stale/cached quote) while a separate pass found $17.95/$17.46 (GuruFocus-derived, dated 8/18-8/19), a ~14% spread that could not be reconciled; the silver/gold sector tailwind (GDX +23.75% MTD, gold >$4,400/oz) remains intact and HL stays on watchlist pending a genuinely clean same-day quote. CDE (Coeur Mining) EXCLUDED -- only a single source (GuruFocus-derived, $20.93, +13.1% on 8/19) could be found across two separate search attempts, with no independent second source to cross-reference against; the underlying thesis (same sector tailwind, +45.9% over the past month) is intact but unpriced per RULES.md's two-source requirement. MRNA (Moderna) EXCLUDED -- closed 8/19 at $174.38 (+176.97%) on Moderna+Merck's Phase 3 melanoma-vaccine data (first-ever successful late-stage mRNA cancer therapy) plus its recent mFLUSIVA flu-vaccine approval, but premarket 8/20 was down ~10.3% (~$156), an unstable, still-unwinding move; excluded on both chase-risk and pricing-stability grounds, re-check once the reaction settles. PLTR (Palantir) and RDDT (Reddit) EXCLUDED purely on affordability/concentration grounds -- both cleared price cross-reference cleanly (PLTR $175.83 vs $177.80, ~1.1% spread; RDDT ~$153-156, declining) but a single share of either would consume 75-90% of the entire $200 cash balance, crowding out all diversification; also note two PLTR insiders (a director and the CTO) sold under 10b5-1 plans in the past two weeks -- routine, not necessarily bearish, but a mild caution flag at these levels. GOOGL and AVGO remain far too expensive for this budget despite a genuinely strong institutional tailwind (Berkshire, Druckenmiller, Klarman, Tepper, and Loeb all added/opened GOOGL positions in Q2 2026 13Fs; Tiger Global notably cut its Alphabet stake 45% the same quarter and sold TSM, a real disagreement among large funds worth tracking). AAOI (Applied Optoelectronics) EXCLUDED -- record Q2 revenue (+85% YoY) drove a fresh +12.96% pop to $146.94 today, now too expensive for meaningful sizing on this budget; kept on watchlist for context. RGTI/QBTS/CIFR (quantum and bitcoin-miner-to-AI-infra names) EXCLUDED this run on data-quality grounds -- each returned only a single usable WebSearch source this morning (RGTI ~$17.5-18.7, QBTS ~$19.3, CIFR ~$17-19) with no independent second source found to cross-reference, despite genuinely live sector momentum (quantum snapback post White House 6/22 executive order; miner-to-AI-infra rotation via TeraWulf's own $19B Anthropic deal); re-check next run. OKLO: fresh negative insider signal found -- co-founder/founder-linked trusts filed a Rule 144 notice to sell 400,000 Class A shares (~$15.5M) on top of recurring monthly insider sales in June/July; not priced this run, flagged as a caution on the existing thesis. New candidate added to watchlist: ZYME (Zymeworks) -- zanidatamab (Ziihera) PDUFA 8/25/2026 for 1L HER2+ gastroesophageal cancer tied to a $250M approval milestone; last clean price found was stale (8/9, ~$23.54), needs a fresh quote next run before any sizing."
+    },
+    {
+      "timestamp": "2026-08-20T16:20:00-04:00",
+      "buys": [
+        {
+          "ticker": "RIOT",
+          "qty": 3,
+          "price": 20.31,
+          "cost": 60.93,
+          "reasoning": "Riot Platforms. Price $20.31, cross-referenced across two independent sources: Benzinga Pro (+4.80% intraday, 2026-08-20) and an Investing.com-sourced report of $20.38 (+5.1%) in the same session -- ~0.34% spread. Web-search-sourced, not exchange-API-verified; reflects 2026-08-20 intraday, not the official close. Catalyst is landed, not speculative: a 20-year Anthropic lease for 191MW at Rockdale, TX plus the existing AMD agreement gives 241MW under contract worth ~$9.8B of long-term contracted revenue. Bitcoin broke above $72,000 today on post-White-House-crypto-summit sentiment, adding a second live tailwind. Sell-side: JPMorgan PT $22 (raised 8/17), Morgan Stanley PT $43 (raised 8/16, ~112% above today's price). Ranked #1: the only candidate combining a confirmed mega-catalyst, a same-day sector tailwind, tight two-source pricing, and the widest analyst-target gap on the list."
+        },
+        {
+          "ticker": "QBTS",
+          "qty": 2,
+          "price": 19.31,
+          "cost": 38.62,
+          "reasoning": "D-Wave Quantum. Price $19.31, cross-referenced Robinhood/CNN (2026-08-20 session, range $19.30-$19.48) vs Investing.com ($19.330, prev close $19.530) -- ~0.1% spread, the tightest of any name this run. Web-search-sourced, not exchange-API-verified. Consensus Strong Buy: 15 buy / 0 sell, average 12-month PT $35.25 (+82%), high $43, low $22 -- i.e. even the most bearish target is above spot. Wedbush Outperform PT $37. Fundamentals: H1 bookings +~2,000% to $35.5M, RPO $40.7M (+668% YoY). Sector tailwind from the 6/22 White House quantum executive orders and $2B+ of CHIPS Act quantum funding announced 5/21. Ranked #2: largest analyst-implied upside of anything cleanly priced, and QBTS has already de-rated from its $46.75 52-week high, so the entry is not at a local top."
+        },
+        {
+          "ticker": "REPL",
+          "qty": 3,
+          "price": 14.95,
+          "cost": 44.85,
+          "reasoning": "Replimune Group. Price $14.95 (Kraken quote page: day range $14.87-$15.64, prev close $15.56), cross-referenced against this session's separate $15.24-$15.58 read -- ~2.0% spread, at the edge of tolerance and consistent with a genuine intraday pullback rather than source disagreement. Web-search-sourced, not exchange-API-verified; intraday, not confirmed close. Regulatory overhang is gone: FDA granted accelerated approval to TUDRIQEV (RP1) + nivolumab for advanced melanoma on 2026-08-06 after two prior CRLs, with commercial launch committed within 60 days -- so the launch lands inside this challenge window. Analyst consensus Buy, 12-month PT $19.33 (+29%). Ranked #3: a real, non-binary commercial catalyst with regulatory risk already retired, but the $150M equity raise and an active shareholder-suit solicitation are live overhangs that cap the ranking."
+        },
+        {
+          "ticker": "OPEN",
+          "qty": 12,
+          "price": 3.56,
+          "cost": 42.72,
+          "reasoning": "Opendoor Technologies. Price $3.56, cross-referenced Investing.com/Robinhood (2026-08-20 session, high $3.58 / low $3.56) vs a separate StocksToTrade-sourced $3.545-$3.56 read the same day -- <0.5% spread, prev close $3.36 (+6% on the day). Web-search-sourced, not exchange-API-verified. Insider signal: CEO Kasra Nejatian bought 27,625 shares in the open market on 8/14 at a ~$3.62 weighted average -- today's entry is at/below his own cost. Fresh catalyst: $650M zero-coupon convertible priced 8/19 with a ~$4.71 conversion price (~35% above the prior close), read as a liquidity-confidence signal rather than dilution. Ranked #4: the low share price buys a meaningful position on this budget and the insider/convert combination is a genuine signal, but consensus is Neutral (2 buy / 2 sell, avg PT $4.70) and the housing-dependent turnaround is the most speculative thesis on the list. This is where current cash runs out."
+        },
+        {
+          "ticker": "ETSY",
+          "qty": 1,
+          "price": 82.41,
+          "cost": 82.41,
+          "reasoning": "Etsy. Price $82.41, cross-referenced across two independent search passes returning the identical Robinhood/CNN-sourced figure for the 2026-08-20 session (high $83.51, low $81.20), with tradingpedia independently corroborating a +3.9% premarket move on the upgrade. Web-search-sourced, not exchange-API-verified. Today-dated catalyst: BofA Securities upgraded to Buy from Neutral and raised its PT to $105 from $88 (+27% from spot). This follows JPMorgan's 8/7 upgrade and Rosenblatt initiating at Buy PT $95. Fundamentals support it: Q2 adjusted EPS $0.98 vs $0.73 consensus, revenue $668.3M, a new $2B buyback, and a 12% workforce reduction. Ranked #5: highest-quality business on the list with the most recent sell-side conviction, but ranked below the four above on raw expected-return potential -- a $82 mega-cap-adjacent name moves less in a 10-day window than the high-beta names above it. NOT AFFORDABLE with current cash after the top four ($187.12 of $200 committed); listed so the user can substitute it top-down if they prefer quality over beta."
+        }
+      ],
+      "sells": []
     }
   ]
 }
