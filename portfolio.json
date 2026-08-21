@@ -1117,6 +1117,33 @@
         }
       ],
       "sells": []
+    },
+    {
+      "timestamp": "2026-08-21T09:45:00-04:00",
+      "buys": [
+        {
+          "ticker": "RIOT",
+          "qty": 3,
+          "price": 20.0,
+          "cost": 60.0,
+          "reasoning": "Riot Platforms. Price ~$20.00, averaged across two same-morning reads that diverged more than usual: $19.65 (+1.39%, CNBC/Kraken-aggregated, prev close $19.38) vs $20.38 (+5.1%, Investing.com) -- ~3.6% spread, wider than the ~1-2% target tolerance, likely reflecting different intraday snapshots on an actively gapping stock; web-search-sourced, not exchange-API-verified, sized to only 3 shares partly because of that wider spread. Thesis: 241MW AI-datacenter capacity under contract (191MW 20-year Anthropic lease + AMD) = ~$9.8B long-term contracted revenue, a confirmed non-binary catalyst. RIOT is one of the few green names today even as the Russell 2000 fell 1.34% on renewed bond-market pressure -- read as the AI-infra re-rating decoupling it from pure bitcoin-miner beta (unlike MARA, see below). Sell-side: JPMorgan PT $22, Morgan Stanley PT $43 (~115% upside from spot). Ranked #1: only name combining a landed mega-catalyst, relative-strength on a red tape day, and the largest analyst-target gap on the list."
+        },
+        {
+          "ticker": "ABCL",
+          "qty": 5,
+          "price": 11.69,
+          "cost": 58.45,
+          "reasoning": "AbCellera Biologics. Price $11.69, averaged from Robinhood ($11.55) and Kraken ($11.83, -1.42% intraday, prev close $12.00) -- ~2.4% spread, at the edge of tolerance but consistent given normal bid/ask noise on a stock trading actively today. Web-search-sourced, not exchange-API-verified, intraday. Major reversal from this project's own 2026-08-13 EXCLUDED call (thesis broken, stock at $5.14 after a $200M dilutive offering): ABCL has since more than doubled on two T-cell-engager collaboration deals with Jazz and Vertex worth $100M+ upfront combined, plus positive Phase 2 ABCL635 (vasomotor symptoms) data. Institutional/insider signal driving today's re-inclusion: a director insider-buy reported 2026-08-18, plus fresh sell-side conviction (Stifel and Cantor Fitzgerald price-target raises, BMO Capital initiated Buy 8/17). Note of caution: a second $200M secondary priced 8/16 at $9.75 (dilutive) -- but the stock has held well above that print, suggesting the offering has been absorbed rather than overhanging the name. Ranked #2: the freshest, most concrete institutional-accumulation signal (named insider buyer, three analyst actions in a week) of anything sourced today."
+        },
+        {
+          "ticker": "QBTS",
+          "qty": 2,
+          "price": 19.32,
+          "cost": 38.64,
+          "reasoning": "D-Wave Quantum. Price $19.32, averaged from Investing.com ($19.33) and Robinhood/CNN ($19.31, 8/20 range $19.30-$19.48) -- ~0.1% spread, the tightest read of any name this run. Web-search-sourced, not exchange-API-verified. Consensus Strong Buy: 15 buy / 0 sell, average 12-month PT $35.25 (+82%), with even the low estimate ($22) above today's spot. H1 bookings +~2,000% to $35.5M, RPO $40.7M (+668% YoY). Headwind acknowledged: quantum-computing names are broadly weaker today as rising Treasury yields pressure long-duration growth stocks, which is why this is sized to only 2 shares despite carrying the single largest analyst-implied upside on the list -- a valuation call, not a fresh catalyst, so ranked behind RIOT and ABCL which both have concrete news this week."
+        }
+      ],
+      "sells": []
     }
   ]
 }
