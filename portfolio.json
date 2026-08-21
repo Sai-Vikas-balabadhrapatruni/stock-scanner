@@ -1144,6 +1144,40 @@
         }
       ],
       "sells": []
+    },
+    {
+      "timestamp": "2026-08-21T16:15:00-04:00",
+      "buys": [
+        {
+          "ticker": "ABCL",
+          "qty": 6,
+          "price": 11.83,
+          "cost": 70.98,
+          "reasoning": "AbCellera Biologics. Price $11.83, cross-referenced: an aggregated real-time quote (day range $11.68-$12.08, prev close $12.00, -1.42% intraday) vs this morning's independent Robinhood read of $11.55 -- ~2.4% spread, within normal bid/ask noise for an actively-traded name. Web-search-sourced, not exchange-API-verified, intraday as of this evening's run (2026-08-21 ~16:15 ET). Thesis unchanged and still the strongest institutional signal on the list: a director insider-buy reported 2026-08-18, plus Stifel/Cantor Fitzgerald price-target raises and a BMO Capital Buy initiation (8/17), all layered on two T-cell-engager collaboration deals (Jazz, Vertex; $100M+ combined upfront) and positive Phase 2 ABCL635 data. The 8/16 $200M dilutive secondary priced at $9.75 continues to be absorbed -- shares have held well above that print into this evening. Ranked #1: only name combining a named insider buyer, multiple analyst actions, and concrete deal-based revenue catalysts in the same week."
+        },
+        {
+          "ticker": "ATTO",
+          "qty": 2,
+          "price": 20.21,
+          "cost": 40.42,
+          "reasoning": "Attovia Therapeutics. Price $20.21, cross-referenced across two independent search reads (an Investing.com-style quote and a separate StockTitan/Robinhood-style quote page), both citing an identical $20.21-$22.87 intraday range as of 8/20 -- a tight, consistent read. Web-search-sourced, not exchange-API-verified; note this was the most recent clean two-source print available (searches did not surface a distinct 8/21 quote diverging from it). New addition to both the watchlist and buy list this run: priced its upsized IPO at $17/share on 8/5 (17M shares, ~$289M gross proceeds), popped 23.5% on debut, and is still holding ~19% above the IPO price two weeks later. Institutional signal: Redmile Group and venBio Global Strategic Fund IV -- established biotech-focused institutional investors -- both converted preferred shares AND bought additional common stock directly in the IPO at $17, a genuine skin-in-the-game accumulation signal rather than a passive legacy holding. Ranked #2: freshest institutional-buying catalyst sourced this run, tempered only by a short public trading history (16 days) which caps conviction relative to ABCL."
+        },
+        {
+          "ticker": "QBTS",
+          "qty": 2,
+          "price": 19.84,
+          "cost": 39.68,
+          "reasoning": "D-Wave Quantum. Price $19.84, averaged from Investing.com ($19.935) and a separate BMO-catalyst intraday read ($19.745, +5.0% on the day) -- ~1.0% spread, a tight read. Web-search-sourced, not exchange-API-verified. Consensus remains Strong Buy (16 analysts, avg 12-month PT $35.25, +~78% from this price), freshly reinforced by BMO Capital initiating Outperform at $35 on 8/21, and H1 bookings +~2,000% YoY with RPO +668% YoY underpinning real commercial traction. Caution, and the reason it's ranked #3 rather than higher: the whole quantum-computing group (QBTS, RGTI, IONQ) is down ~30% over the trailing month on a broader pre-profit/high-multiple de-rating, and Northland Securities cut QBTS to Hold in August -- so today's bounce reads as mean-reversion inside a still-negative monthly trend, not a confirmed breakout. Sized modestly to respect that."
+        },
+        {
+          "ticker": "RGTI",
+          "qty": 1,
+          "price": 17.85,
+          "cost": 17.85,
+          "reasoning": "Rigetti Computing. Price $17.85, cross-referenced: an aggregated real-time quote (day range $16.27-$17.87, +10.46% intraday) vs a separate Investing.com-style read implying ~$17.90 (open $16.34, +9.71% since prior close) -- both point to the same low-$17.85-$17.90 handle, a tight read. Web-search-sourced, not exchange-API-verified. New addition to the buy list today given the sharp intraday bounce and continued sell-side optimism (Benchmark and Wedbush Buy/Outperform, PTs up to $37, ~+107% from spot), plus Q2 commercial (non-government) revenue growth via Novera systems. Ranked last and sized to a single share because the signal is genuinely mixed: B. Riley downgraded RGTI to Neutral in August, the company announced a leadership restructuring on 8/20 that knocked shares down ~6% that same session, shares are down ~30% over the trailing month, and there are reports of insider selling -- today's pop reads more like a volatile relief bounce than a confirmed reversal. Smallest, most speculative position on this run's list."
+        }
+      ],
+      "sells": []
     }
   ]
 }
