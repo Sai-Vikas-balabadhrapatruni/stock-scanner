@@ -1178,6 +1178,33 @@
         }
       ],
       "sells": []
+    },
+    {
+      "timestamp": "2026-08-24T09:45:00-04:00",
+      "buys": [
+        {
+          "ticker": "QBTS",
+          "qty": 4,
+          "price": 19.84,
+          "cost": 79.36,
+          "reasoning": "D-Wave Quantum. Price $19.84, averaged from two independent reads ($19.745 intraday +5.0% and $19.930/$19.935) -- ~1.0% spread, tight and consistent with the 8/21 run's read. Web-search-sourced, not exchange-API-verified. Strong Buy consensus intact (16 analysts, avg 12-month PT $35.25, +78% from here), reinforced by BMO Capital's fresh Outperform initiation at $35 (8/21), H1 bookings +~2,000% YoY and RPO +668% YoY -- real commercial traction, not just sentiment. New caution surfaced today: a Motley Fool piece pegs ~$863M of net insider selling across the pure-play quantum group (IONQ/RGTI/QBTS) over the trailing three years -- a sector-wide overhang that tempers (but doesn't override) the bull case. Ranked #1: best combination of a tight price read, concrete revenue growth, and a very recent analyst catalyst."
+        },
+        {
+          "ticker": "ABCL",
+          "qty": 5,
+          "price": 11.31,
+          "cost": 56.55,
+          "reasoning": "AbCellera Biologics. Price $11.31, cross-referenced across two independent reads ($11.31 vs $11.32, Aug 23 close context, day range $11.16-$11.80) -- ~0.1% spread, the cleanest read of this run. Several other search snippets showed $3.53-$8.03, which look like stale cache echoes from before the Jazz/Vertex T-cell-engager deals and the Phase 2 ABCL635 rally (consistent with the pre-rally $5.14 level logged in the 8/13 EXCLUDED entry) -- discarded as outdated, not treated as current. Web-search-sourced, not exchange-API-verified. Thesis unchanged: Strong Buy consensus (9 analysts), avg PT $17.13 (+51%), Q3 2026 ABCL635 proof-of-concept readout is the next binary catalyst. Ranked #2 on data-quality confidence plus a still-live institutional/analyst-upgrade thesis, just below QBTS's stronger fundamentals."
+        },
+        {
+          "ticker": "RGTI",
+          "qty": 2,
+          "price": 17.85,
+          "cost": 35.7,
+          "reasoning": "Rigetti Computing. Price $17.85, averaged from a premarket read ($17.82, -4.55%) and a same-week close read ($17.91) -- ~0.5% spread, tight. Web-search-sourced, not exchange-API-verified. Bull case: a DoC letter of intent for up to $100M in potential CHIPS Act funding (LOI stage, not yet finalized), 69% bullish analyst sentiment, avg PT $28.81 (+61%). Ranked last (#3) despite the higher headline PT upside than ABCL: the sector-wide $863M net insider-selling overhang applies here too, layered on the prior B. Riley downgrade to Neutral and the 8/20 leadership-restructuring hit already on file -- conviction is lower than the raw analyst-target math suggests, so sized smallest."
+        }
+      ],
+      "sells": []
     }
   ]
 }
