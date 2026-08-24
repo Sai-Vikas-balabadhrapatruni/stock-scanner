@@ -1205,6 +1205,33 @@
         }
       ],
       "sells": []
+    },
+    {
+      "timestamp": "2026-08-24T16:15:00-04:00",
+      "buys": [
+        {
+          "ticker": "QBTS",
+          "qty": 4,
+          "price": 19.85,
+          "cost": 79.4,
+          "reasoning": "D-Wave Quantum. Price $19.85, cross-referenced across two independent same-day reads: an intraday range of $19.10-$20.13 (mid/high-$19s) and a separate day-range read of $19.72-$20.00 -- the two ranges overlap in the $19.72-$20.00 band, ~2% spread at the midpoints. Web-search-sourced, not exchange-API-verified; discarded a $18.08/$18.80 'previous close' style read as stale (context suggested several days old) and a flat +8.46% figure as likely echoing the 8/21 BMO-initiation pop rather than today. Fresh catalyst distinguishes QBTS from the rest of the quantum group today: a new Nasdaq Verafin collaboration exploring quantum tech for financial-crime detection, layered on the still-live BMO Capital Outperform initiation ($35 PT) and H1 bookings +~2,000%/RPO +668% YoY. Ranked #1: only quantum name with an actual new catalyst today, versus RGTI/IonQ which fell 6-7% today with no fresh news (a sentiment-rally unwind)."
+        },
+        {
+          "ticker": "ABCL",
+          "qty": 5,
+          "price": 11.83,
+          "cost": 59.15,
+          "reasoning": "AbCellera Biologics. Price $11.83, cross-referenced across two independent reads that both showed the same ~1.4-2.2% intraday decline off a ~$12.00-12.08 previous close -- the tightest, cleanest read of this run. Web-search-sourced, not exchange-API-verified. Thesis unchanged from the morning run: Strong Buy consensus (9 analysts), avg PT $17.13 (+45% from here), Q3 2026 ABCL635 Phase 2 proof-of-concept readout remains the next binary catalyst; no new negative news found today. Ranked #2 on the combination of highest price-read confidence this run and a still-intact, catalyst-backed thesis."
+        },
+        {
+          "ticker": "RGTI",
+          "qty": 2,
+          "price": 16.72,
+          "cost": 33.44,
+          "reasoning": "Rigetti Computing. Price $16.72, averaged from two closely-agreeing same-day reads ($16.555 and $16.88, ~2% spread); a $17.40 after-hours print and $17.91 prior close were consistent directionally but excluded from the average as less current, and a $42.76 'live' read was discarded outright as a clear stale/mismatched-ticker artifact (near the 52-week high with no supporting news). Web-search-sourced, not exchange-API-verified. Caution: RGTI (and IonQ) fell 6-7% today with no fresh negative catalyst -- coverage frames it as a reversal of last week's sentiment-driven rally (tied to a since-revised QUBT/Infleqtion revenue headline), not new fundamental news. Underlying catalysts (HPE/Pittsburgh Supercomputing Center TangleLab collaboration, DoC CHIPS Act LOI for up to $100M) remain in place, but combined with the pre-existing $863M sector insider-selling overhang, conviction stays lower than ABCL/QBTS -- ranked #3 and sized smallest, unchanged from the morning run's approach."
+        }
+      ],
+      "sells": []
     }
   ]
 }
