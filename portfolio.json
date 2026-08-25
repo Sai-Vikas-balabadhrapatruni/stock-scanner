@@ -1232,6 +1232,40 @@
         }
       ],
       "sells": []
+    },
+    {
+      "timestamp": "2026-08-25T09:45:00-04:00",
+      "buys": [
+        {
+          "ticker": "KURA",
+          "qty": 6,
+          "price": 10.85,
+          "cost": 65.1,
+          "reasoning": "Kura Oncology. Price $10.85, cross-referenced across two independent same-day reads (TradingView $10.79, heygotrade $10.89) -- ~1% spread, the tightest read of this run. Web-search-sourced, not exchange-API-verified. NEW candidate this run, and the strongest institutional/insider signal found today: CEO Troy Wilson bought 100,000 shares (~$1.1M) at a weighted-average $11.12, a large, high-conviction insider purchase, not a token buy. Institutional ownership is ~98% of the float. Fundamentals backing it: Q2 2026 revenue of $20.87M beat the $20.16M consensus and EPS loss of $0.77 beat the $0.88 estimate, driven by its newly launched cancer drug KOMZIFTI (FDA approved Nov 2025), whose first US commercial sale already triggered a $135M milestone payment from partner Kyowa Kirin. Citizens reiterated Market Outperform ($24 PT) and Jefferies reiterated Buy today, both citing KOMZIFTI's commercial momentum capturing the majority of new relapsed/refractory NPM1-mutant AML patient starts; shares pushed decisively above the prior 52-week high of $12.90 intraday. Ranked #1: freshest large insider buy plus a real, beating commercial launch, versus the quantum names' more sentiment-driven moves."
+        },
+        {
+          "ticker": "QBTS",
+          "qty": 2,
+          "price": 20.1,
+          "cost": 40.2,
+          "reasoning": "D-Wave Quantum. Price $20.10, averaged from two independent same-day reads ($20.39, +8.46% intraday) and yesterday's (8/24) close range ($19.72-$20.00) -- ~2-3% spread, consistent trajectory. Web-search-sourced, not exchange-API-verified; a $44.82 'live' read was discarded outright as a clear stale/mismatched-ticker artifact (more than double every other read with no supporting news of that magnitude). Catalyst: the Nasdaq Verafin quantum-tech financial-crime-detection collaboration (first reported 8/24) is still driving today's move, layered on the still-live BMO Capital Outperform initiation ($35 PT, +75% upside) and H1 bookings +~2,000% YoY / RPO +668% YoY. Ranked #2: real, dated catalyst plus strong fundamentals, tempered only by the sector-wide net-insider-selling overhang flagged in prior runs."
+        },
+        {
+          "ticker": "ABCL",
+          "qty": 3,
+          "price": 11.0,
+          "cost": 33.0,
+          "reasoning": "AbCellera Biologics. Price ~$11.00, averaged across a wider-than-usual spread of same-day reads (8/24 close $10.61 down -6.27%; 8/25 premarket $10.94 +3.11%; a same-day intraday read of $11.38 +3.74%; after-hours $11.32) -- roughly a 7% spread, noisier than ideal but all reads cluster in the $10.60-$11.40 band following yesterday's pullback, so treated as directionally reliable rather than a tight single print. Web-search-sourced, not exchange-API-verified; sized smaller than usual given the wider spread. Thesis intact: Strong Buy consensus (9 analysts), and a JonesResearch target raise to $25 (from $13, Buy) posted this week on top of the existing $17.13 average PT (+56% from here), with the Phase 2 ABCL635 vasomotor-symptom data (robust efficacy, high complete-resolution rates) and the Jazz/Vertex T-cell-engager deals still the core catalysts. Ranked #3: thesis and analyst momentum still positive, but yesterday's -6.27% drop and this run's noisier price read lower conviction versus KURA/QBTS."
+        },
+        {
+          "ticker": "RGTI",
+          "qty": 2,
+          "price": 17.0,
+          "cost": 34.0,
+          "reasoning": "Rigetti Computing. Price $17.00, averaged from today's intraday range ($16.31-$17.50, open $17.495) and yesterday's (8/24) range ($16.72-$17.57) -- consistent band across both sessions, ~4% spread. Web-search-sourced, not exchange-API-verified. Thesis unchanged: DoC letter of intent for up to $100M in potential CHIPS Act funding (LOI stage, not finalized), avg PT $28.81 (+69% from here). Ranked #4/last: the sector-wide ~$863M net insider-selling overhang (IONQ/RGTI/QBTS, trailing 3 years) applies most directly here alongside the prior B. Riley downgrade to Neutral and 8/20 leadership-restructuring news already on file, so conviction stays below the other three despite comparable headline upside."
+        }
+      ],
+      "sells": []
     }
   ]
 }

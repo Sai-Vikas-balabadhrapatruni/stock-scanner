@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-08-24T16:15:00-04:00",
+  "last_updated": "2026-08-25T09:45:00-04:00",
   "candidates": [
     {
       "ticker": "ABCL",
-      "note": "2026-08-24 EVENING RUN: RECOMMENDED BUY (ranked #2) 5 sh @ $11.83. Two independent reads converged tightly (~1.4-2.2% intraday decline off a ~$12.00-12.08 previous close) -- cleanest price read of this run. Web-search-sourced, not exchange-API-verified. Thesis unchanged: Strong Buy consensus (9 analysts), avg PT $17.13 (+45%), Q3 2026 ABCL635 Phase 2 proof-of-concept readout is the next binary catalyst. No new negative news found today.",
-      "last_seen_price": 11.31,
-      "last_updated": "2026-08-24T16:15:00-04:00"
+      "note": "2026-08-25 MORNING RUN: RECOMMENDED BUY (ranked #3) 3 sh @ ~$11.00. Reads noisier this run (8/24 close $10.61 down -6.27%; 8/25 premarket $10.94 +3.11%; intraday read $11.38 +3.74%) -- all cluster $10.60-$11.40 after yesterday's pullback. JonesResearch raised PT to $25 (from $13, Buy) this week; average consensus PT $17.13 (+56%) and Strong Buy rating intact. Phase 2 ABCL635 vasomotor-symptom data and Jazz/Vertex T-cell-engager deals remain the core catalysts.",
+      "last_seen_price": 11.0,
+      "last_updated": "2026-08-25T09:45:00-04:00"
     },
     {
       "ticker": "ACHR",
@@ -383,15 +383,15 @@
     },
     {
       "ticker": "QBTS",
-      "note": "2026-08-24 EVENING RUN: RECOMMENDED BUY (ranked #1) 4 sh @ $19.85. Cross-referenced two overlapping same-day ranges ($19.10-$20.13 and $19.72-$20.00), ~2% spread at midpoints. Web-search-sourced, not exchange-API-verified. Fresh catalyst: new Nasdaq Verafin collaboration on quantum tech for financial-crime detection -- the only quantum name in the group with genuine new news today, vs RGTI/IonQ's unexplained 6-7% pullback. BMO Capital's $35 Outperform PT and H1 bookings +~2,000%/RPO +668% YoY still stand. Sector-wide $863M net insider-selling overhang (IONQ/RGTI/QBTS trailing 3yr) remains a live caution.",
-      "last_seen_price": 19.84,
-      "last_updated": "2026-08-24T16:15:00-04:00"
+      "note": "2026-08-25 MORNING RUN: RECOMMENDED BUY (ranked #2) 2 sh @ ~$20.10. Averaged from a fresh $20.39 (+8.46%) read and yesterday's $19.72-$20.00 close range; a $44.82 read discarded as a stale/mismatched-ticker artifact. Nasdaq Verafin quantum financial-crime-detection collaboration (announced 8/24) is the live catalyst, layered on the BMO Capital Outperform initiation ($35 PT) and H1 bookings +~2,000% YoY / RPO +668% YoY. Sector-wide insider-selling overhang still noted as a caution.",
+      "last_seen_price": 20.1,
+      "last_updated": "2026-08-25T09:45:00-04:00"
     },
     {
       "ticker": "RGTI",
-      "note": "2026-08-24 EVENING RUN: RECOMMENDED BUY (ranked #3) 2 sh @ $16.72. Averaged two closely-agreeing same-day reads ($16.555, $16.88, ~2% spread); discarded a stale $42.76 'live' read as a clear mismatched-ticker artifact. Web-search-sourced, not exchange-API-verified. Caution: RGTI fell ~6-7% today alongside IonQ with no fresh negative catalyst -- framed by coverage as an unwind of last week's sentiment-driven rally (tied to a since-revised QUBT/Infleqtion revenue headline), not new fundamental news. HPE/Pittsburgh Supercomputing Center TangleLab collaboration and the DoC CHIPS Act LOI (up to $100M) remain in place. Combined with the sector-wide insider-selling overhang, conviction stays below QBTS/ABCL -- sized smallest again.",
-      "last_updated": "2026-08-24T16:15:00-04:00",
-      "last_seen_price": 17.85
+      "note": "2026-08-25 MORNING RUN: RECOMMENDED BUY (ranked #4) 2 sh @ ~$17.00. Consistent $16.3-$17.6 band across today and yesterday's sessions. DoC CHIPS Act LOI (up to $100M, not finalized) and avg PT $28.81 (+69%) still the bull case; sector insider-selling overhang plus prior B. Riley downgrade to Neutral keep conviction lowest of the four names bought this run.",
+      "last_updated": "2026-08-25T09:45:00-04:00",
+      "last_seen_price": 17.0
     },
     {
       "ticker": "OWLT",
@@ -833,6 +833,12 @@
       "ticker": "AFCG",
       "note": "2026-08-24 EVENING RUN: NEW candidate from today's insider-buying screen. Advanced Flower Capital Inc. -- director/10% owner Leonard M. Tannenbaum bought 12,841 sh on 8/19 for ~$44,686 ($3.48-$3.50/sh), a modest but recent insider purchase near multi-month lows in a cannabis-lending REIT. Small position size (~$45K) makes this a weaker signal than the larger cluster buys tracked elsewhere on this list -- flagged for informational tracking, not yet priced/sized. Needs a clean same-session two-source price read and a closer look at the underlying lending book before consideration.",
       "last_updated": "2026-08-24T16:15:00-04:00"
+    },
+    {
+      "ticker": "KURA",
+      "note": "2026-08-25 MORNING RUN: NEW candidate, RECOMMENDED BUY (ranked #1) 6 sh @ ~$10.85. Kura Oncology -- commercial-stage biotech, lead drug KOMZIFTI (menin inhibitor for relapsed/refractory NPM1-mutant AML) FDA-approved Nov 2025. Strongest insider signal found this run: CEO Troy Wilson bought 100,000 shares (~$1.1M) at a weighted-average $11.12 -- a large, high-conviction purchase, not a token buy. Institutional ownership ~98% of float. Q2 2026 revenue $20.87M beat $20.16M consensus; first US KOMZIFTI sale already triggered a $135M Kyowa Kirin milestone payment. Citizens reiterated Outperform ($24 PT) and Jefferies reiterated Buy today; shares broke above the prior 52-week high ($12.90) intraday. Two independent price reads (TradingView $10.79, heygotrade $10.89) were tight (~1% spread) -- cleanest read of this run.",
+      "last_seen_price": 10.85,
+      "last_updated": "2026-08-25T09:45:00-04:00"
     }
   ],
   "note": "This is a GROWING candidate universe, not overwritten each run: new high-growth names are added over time and existing entries get their notes/prices refreshed, per RULES.md. Not user-curated. Every open holding must always appear here too. All prices are WebSearch-sourced and cross-referenced across independent sources -- never exchange-API-verified; no TipRanks or Alpha Vantage is used in this project."
