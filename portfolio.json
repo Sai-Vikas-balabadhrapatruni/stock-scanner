@@ -1266,6 +1266,47 @@
         }
       ],
       "sells": []
+    },
+    {
+      "timestamp": "2026-08-25T16:15:00-04:00",
+      "buys": [
+        {
+          "ticker": "KURA",
+          "qty": 4,
+          "price": 13.38,
+          "cost": 53.52,
+          "reasoning": "Kura Oncology. Price $13.38, extending this morning's rally -- CNN's stock-quote aggregation and Investing.com's 'Why is Kura Oncology stock surging today?' article both reflect the stock hitting a new 52-week high, last trade $13.3770 / intraday high $13.50 (previous close $12.40) -- essentially 0% spread across the two outlets. Web-search-sourced, not exchange-API-verified. Catalyst is a continuation, not new: CEO Troy Wilson's $1.1M insider buy (100,000 sh @ $11.12 avg, disclosed 8/24) and a genuine commercial launch (KOMZIFTI menin inhibitor, Q2 revenue beat $20.87M vs $20.16M est., first US sale already triggered a $135M Kyowa Kirin milestone) drove this morning's buy; today the stock broke to a fresh 52-week high on heavy volume with Citizens (Outperform, $24 PT) and Jefferies (Buy) both reiterated today. Institutional ownership ~98% of float. Sized down to 4 sh (from this morning's 6) given the price is already up ~23% intraday since this morning's entry -- some chase risk, but the freshest, cleanest-priced, highest-conviction name on the list. Ranked #1."
+        },
+        {
+          "ticker": "RZLV",
+          "qty": 15,
+          "price": 2.87,
+          "cost": 43.05,
+          "reasoning": "Rezolve AI. Price $2.87, cross-referenced between an RTTNews report ('Rezolve AI Stock Rises 17% After Database Technology Selected By Google', $2.86) and a second, independently-sourced market-movers roundup (+18.1% to $2.87) -- <1% spread, PASS. Web-search-sourced, not exchange-API-verified. NEW candidate this run: Google Cloud selected Rezolve's proprietary distributed database technology after a formal technical evaluation and is deploying it at the infrastructure level to power indexing/data pipelines for Google Cloud Web3's blockchain datasets (~100TB of data across 10 chains) -- a genuine, dated commercial-validation catalyst (added ~$209M of market value on the news same-day), not just chatter. Confirmed as a real Nasdaq-listed operating company (~$1.04B market cap, 398.8M shares out, $46.8M TTM revenue), not a shell, though still unprofitable (-$101.4M TTM loss) and no Google-side spending commitment or executive quote was disclosed -- treat the revenue upside as thesis, not confirmed. Cheap enough to size a meaningful share count on this budget. Ranked #2."
+        },
+        {
+          "ticker": "QBTS",
+          "qty": 2,
+          "price": 19.0,
+          "cost": 38.0,
+          "reasoning": "D-Wave Quantum. Price ~$19.00, averaged from two independent same-day reads: $18.78 (day range $18.63-$19.17) and a later same-day print of $19.42 at 2:32pm EDT (+3.96%) -- ~3.4% spread, wider than ideal but the best available for a name this volatile today; a $22-24 range from an undated cache was discarded as stale. Web-search-sourced, not exchange-API-verified. Down modestly from this morning's $20.10 entry as the quantum-computing basket gives back some gains amid a 10-year Treasury yield near 4.71%, but the Nasdaq Verafin financial-crime-detection collaboration (announced 8/24) and BMO Capital's Outperform initiation ($35 PT, +84% from here) remain live, and analyst consensus is still Strong Buy (16 analysts). Sector-wide insider-selling overhang persists as a caution flag from prior runs. Ranked #3."
+        },
+        {
+          "ticker": "RGTI",
+          "qty": 2,
+          "price": 17.2,
+          "cost": 34.4,
+          "reasoning": "Rigetti Computing. Price ~$17.20, cross-referenced cleanly across two independent same-day reads ($17.14 and $17.24, day range $16.34-$17.24) -- <1% spread, the tightest read of this run; an earlier $42.76 figure was discarded as a clear stale/mismatched-ticker artifact after a follow-up search confirmed the real price is ~$17 (no news of that magnitude exists). Web-search-sourced, not exchange-API-verified. Fresh same-day catalyst: Rigetti + Hewlett Packard Enterprise + the Pittsburgh Supercomputing Center announced 'TangleLab,' an NSF-funded ($5M) hybrid quantum-classical supercomputing testbed built around Rigetti's 9-qubit Novera QPU, extending an existing HPE partnership. Consensus PT $28.81 (+~68% from here), Strong Buy (9 buy/strong-buy ratings). Essentially flat vs. this morning's $17.00 entry -- steady rather than accelerating, and the sector insider-selling overhang keeps this behind the fresher-catalyst names. Ranked #4."
+        },
+        {
+          "ticker": "ABCL",
+          "qty": 1,
+          "price": 11.32,
+          "cost": 11.32,
+          "reasoning": "AbCellera Biologics. Price $11.32 (session close, -2.16%), consistent with an intraday read of $11.83 (-1.42%, previous close $12.00) captured earlier in the same session -- a declining intraday trajectory rather than a source conflict, in line with this ticker's usual noisy-but-directional pattern. Web-search-sourced, not exchange-API-verified. No fresh catalyst since this morning's entry -- still backed by the JonesResearch PT raise to $25 and a Strong Buy consensus (avg PT $17.13, +51% from here) on ABCL635 vasomotor-symptom data and the Jazz/Vertex T-cell-engager deals, but today's session drifted negative (-2% to -6% depending on the read) rather than extending yesterday's bounce. Sized smallest of this run's picks given the softer price action. Ranked #5."
+        }
+      ],
+      "sells": []
     }
   ]
 }
