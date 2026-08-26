@@ -1334,6 +1334,47 @@
         }
       ],
       "sells": []
+    },
+    {
+      "timestamp": "2026-08-26T16:15:00-04:00",
+      "buys": [
+        {
+          "ticker": "KURA",
+          "qty": 5,
+          "price": 12.5,
+          "cost": 62.5,
+          "reasoning": "Kura Oncology. Price ~$12.50, cross-referenced: a direct same-day read at $12.80 (+7.61%) against CNN's independent 'up $0.50 (+4.21%) since last close' figure, which implies a print of roughly $12.38-$12.40 -- within a few percent of the $12.80 read and anchored right at the $12.39 weighted-average price of the CEO's own recent buy, so treating ~$12.50 as the best current estimate; two other stale/mismatched-date reads ($9.20, $10.89, $11.36) discarded as noise. Web-search-sourced, not exchange-API-verified. STRONG INSIDER SIGNAL: CEO Troy Wilson bought 100,000 shares on 8/24 at $12.39 (~$1.24M), his SECOND open-market purchase in nine days after a $1.11M buy on 8/17 -- back-to-back large CEO buys is one of the highest-conviction signals available and the strongest fresh catalyst of this run. Ranked #1."
+        },
+        {
+          "ticker": "QBTS",
+          "qty": 3,
+          "price": 19.35,
+          "cost": 58.05,
+          "reasoning": "D-Wave Quantum. Price $19.35, cross-referenced across two independent same-day reads both landing on $19.35 (+3.59% vs prior close) -- consistent, PASS. Web-search-sourced, not exchange-API-verified, reflects Aug 26 close/late session. News: CFO John Markovich is retiring effective 9/2, with SVP Finance Greg Golkov stepping in as acting CFO -- a mild governance-transition item, not a thesis-breaking one. Strong Buy consensus intact (15 buy/1 hold, $35.73 avg PT, +84.7% upside from here). Ranked #2 for the combination of clean price confirmation and large analyst upside gap."
+        },
+        {
+          "ticker": "TE",
+          "qty": 5,
+          "price": 4.5,
+          "cost": 22.5,
+          "reasoning": "T1 Energy. Price ~$4.50, cross-referenced: a named Nasdaq/Google-Finance-aggregated read at $4.32 (prior-close reference point, -2.26%) against a same-day StocksToTrade summary putting the session in the 'mid-$4s' (~$4.32-$4.64) after a +7.29% up day on 8/25 -- consistent band, using the midpoint. Web-search-sourced, not exchange-API-verified. Catalyst stands: Trump administration reportedly preparing a price floor + tariffs on imported polysilicon to protect US solar manufacturers, plus the standing institutional signal of Encompass Capital Advisors increasing its T1 stake by 21.5M shares. Momentum has cooled from the brief spike above $6 (8/7-8/8) back into the low-to-mid $4s, so sized moderately. Ranked #3."
+        },
+        {
+          "ticker": "RZLV",
+          "qty": 8,
+          "price": 2.65,
+          "cost": 21.2,
+          "reasoning": "Rezolve AI. Price ~$2.65, cross-referenced: 24/7 Wall St (named source) reported shares down 4% to $2.84 in Wednesday morning trading on profit-taking after Tuesday's 22% pop to $2.96 on the Google Cloud distributed-database win, and a separate after-hours read shows $2.58 (-0.77%) -- a declining intraday-to-after-hours drift consistent with profit-taking, not a source conflict, so using the ~$2.58-$2.84 band's midpoint. Web-search-sourced, not exchange-API-verified. Thesis (Google Cloud Web3 infra win, Strong Buy consensus, $10.50 avg PT / +296% upside from here) is intact; today's pullback is a better entry than yesterday's spike high. Ranked #4, sized for the dip."
+        },
+        {
+          "ticker": "RGTI",
+          "qty": 1,
+          "price": 15.95,
+          "cost": 15.95,
+          "reasoning": "Rigetti Computing. Price ~$15.95, cross-referenced: a dated same-day read (Aug 26, 2:38pm ET) showing shares down $0.99 (-5.86%) against a named prior-day close of $16.94 (up 3.48% on 8/25) -- consistent same-source trajectory ($16.94 -> $15.95); a separate undated '$16.59 up 1.32%' read discarded as likely stale/mismatched-date. Web-search-sourced, not exchange-API-verified. No fresh company-specific negative found; a Motley Fool piece noted quantum-computing names (IONQ/RGTI/QBTS) broadly down ~30% over the past month on sector derating, which explains today's red print without a stock-specific catalyst. Smallest position of the run given the unexplained-by-fundamentals decline. Ranked #5."
+        }
+      ],
+      "sells": []
     }
   ]
 }
