@@ -1416,6 +1416,40 @@
         }
       ],
       "sells": []
+    },
+    {
+      "timestamp": "2026-08-27T16:15:00-04:00",
+      "buys": [
+        {
+          "ticker": "QBTS",
+          "qty": 3,
+          "price": 18.0,
+          "cost": 54.0,
+          "reasoning": "D-Wave Quantum. Price ~$18.00, cross-referenced: one read pegged the last close at $18.05 with a separate intraday range of $17.71-$18.37 quoted the same day, and a third real-time aggregator showed $17.51 vs a prior close of $18.69 -- all clustering within roughly 2% of $18.00, a modest pullback from Tuesday's $19.35 evening-run price. Web-search-sourced, not exchange-API-verified, reflects Aug 27 intraday/close data (broad market session dominated by NVDA/CRM/CRWD earnings reactions, Nasdaq +1.5%). Fundamentals unchanged and still the strongest in the group: H1 2026 bookings $35.5M vs $2.9M YoY (+2,000%), remaining performance obligations up 668% YoY to $40.7M, Strong Buy consensus (16 buy/0 sell) with ~$35 avg PT (~94% implied upside from here). Ranked #1 -- best combination of real revenue growth and analyst-upside torque despite today's modest pullback. [Run summary: no open holdings this run, cash remains full $200.00 pending any user-executed trades; ranked buy list totals $170.50 of $200.00 available, leaving a $29.50 buffer for web-sourced price uncertainty, top-down order QBTS > RGTI > RZLV > TE. Excluded from sizing this run despite standing theses: KURA (CEO Troy Wilson's back-to-back insider buys remain the strongest signal in the universe, but today's reads spanned $10.89-$12.80, wider than the ~1-2% cross-reference tolerance), SMMT (positive HARMONi-GI1 Phase III biliary tract cancer data from partner Akeso, but price reads contradicted each other: $15.23 vs a -10.2%-to-$12.83 read, a ~19% spread), and BTDR (price reads spanned $8.93-$10.58, too wide to establish a reliable print). Only 3 days remain in the challenge (ends 2026-08-30), favoring decisive, higher-conviction names over passive holding per RULES.md. Not financial advice.]"
+        },
+        {
+          "ticker": "RGTI",
+          "qty": 4,
+          "price": 16.5,
+          "cost": 66.0,
+          "reasoning": "Rigetti Computing. Price ~$16.50, tightly cross-referenced: a real-time quote aggregator read $16.575 and a separate source read $16.49 as of 3:42pm ET (+3.42% on the day) -- within 0.5% of each other, a clean print, and consistent with this morning's $16.45 read. Web-search-sourced, not exchange-API-verified, reflects Aug 27 mid/late-afternoon session data. Catalysts: signed LOI with the US Dept. of Commerce for up to $100M in potential CHIPS Act funding over three years; sector-wide tailwind from the June 22 White House quantum executive order designating quantum computing/sensing/networking/cybersecurity as national priorities. Analyst PT ~$28.81 implies ~75% upside, 69% bullish sentiment, 9 buy/strong-buy ratings. Sized up slightly from this morning's smallest-size slot given the clean cross-reference. Ranked #2."
+        },
+        {
+          "ticker": "RZLV",
+          "qty": 10,
+          "price": 2.9,
+          "cost": 29.0,
+          "reasoning": "Rezolve AI. Price ~$2.90, cross-referenced: a Timothy Sykes/StocksToTrade recap put Thursday's close at $2.95 (intraday high $3.01), a separate current-quote read showed $2.89 (+21.8% past 24h), and Aug 26 range was $2.83-$3.04 -- all clustered within ~2% of $2.90. Web-search-sourced, not exchange-API-verified, reflects Aug 26-27 session data. Catalyst: Google reportedly selected Rezolve's proprietary distributed database technology after an extensive technical evaluation -- a notable enterprise-validation signal for a micro-cap. Strong Buy consensus (5 analysts), $10.50 avg PT implies ~262% upside, the largest theoretical torque in the group, but sized moderately given micro-cap/nano-float volatility. Ranked #3."
+        },
+        {
+          "ticker": "TE",
+          "qty": 5,
+          "price": 4.3,
+          "cost": 21.5,
+          "reasoning": "T1 Energy. Price ~$4.30, cross-referenced: a CNN quote showed a close of $4.32 (-2.26% on the day) and a separate previous-close/range read showed $4.27 (day range $4.03-$4.53) -- consistent within ~1%. Web-search-sourced, not exchange-API-verified, reflects Aug 27 session data. Standing catalyst: the Trump administration's planned polysilicon price floor + tariffs to protect US solar manufacturers, which would help T1's US-based module/cell cost position vs Chinese competitors; Encompass Capital Advisors' 21.5M-share stake increase remains the standing institutional signal. Momentum stays choppy (down from a brief spike above $6 in early August), so sized moderately. Ranked #4."
+        }
+      ],
+      "sells": []
     }
   ]
 }
