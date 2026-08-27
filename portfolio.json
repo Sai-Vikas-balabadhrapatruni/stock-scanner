@@ -1375,6 +1375,47 @@
         }
       ],
       "sells": []
+    },
+    {
+      "timestamp": "2026-08-27T09:45:00-04:00",
+      "buys": [
+        {
+          "ticker": "KURA",
+          "qty": 5,
+          "price": 12.5,
+          "cost": 62.5,
+          "reasoning": "Kura Oncology. Price ~$12.50, cross-referenced: The Motley Fool reported an Aug 24 close of $12.40, while Investing.com/Yahoo coverage of the Aug 24 CEO purchase places the weighted-average buy price at $12.39 and separately notes shares pushing to a new 52-week intraday high near $13.50 on the news -- these cluster within ~1% of each other, so treating $12.50 as the best current estimate. Web-search-sourced, not exchange-API-verified, reflects Aug 24-25 session data (Aug 27 premarket not yet posted at run time). STRONG INSIDER SIGNAL CONTINUES: CEO Troy Wilson's Aug 24 purchase of 100,000 shares at $12.39 (~$1.24M) was his SECOND large open-market buy in nine days, following a $1.11M purchase on Aug 17 at a weighted-average $11.12 -- back-to-back CEO buys lifting his stake ~9% is among the strongest conviction signals in the current universe. Ranked #1 again."
+        },
+        {
+          "ticker": "QBTS",
+          "qty": 3,
+          "price": 19.35,
+          "cost": 58.05,
+          "reasoning": "D-Wave Quantum. Price $19.35, cross-referenced across two independent same-day reads (an Investing.com/CNN quote aggregation and a separate StockTitan-sourced summary) both confirming the Aug 26 close of $19.35, +3.59% (+$0.67) vs prior close -- clean agreement. Web-search-sourced, not exchange-API-verified, reflects Aug 26 close (Aug 27 premarket not yet posted at run time). Fundamentals: H1 2026 bookings surged to $35.5M from $2.9M a year earlier (+2,000% YoY), remaining performance obligations up 668% YoY to $40.7M. Strong Buy consensus intact: 16 buy/0 sell ratings, ~$35.2 avg PT (+82% implied upside from here). Ranked #2 for the combination of a clean price print and a large, well-supported analyst upside gap."
+        },
+        {
+          "ticker": "TE",
+          "qty": 7,
+          "price": 4.35,
+          "cost": 30.45,
+          "reasoning": "T1 Energy. Price ~$4.35, cross-referenced: TradingView ($4.32) and a StocksToTrade recap both place the stock in the low-$4s after Tuesday 8/25's +7.29% surge on the Trump administration's planned polysilicon price floor + tariffs to protect US solar manufacturers -- consistent band, using the midpoint of the low-$4.30s. Web-search-sourced, not exchange-API-verified, reflects Aug 25-26 session data. Catalyst: a polysilicon price floor + tariffs would materially help T1's US-based solar module/cell manufacturing cost position vs Chinese competitors; the standing institutional signal of Encompass Capital Advisors' 21.5M-share stake increase remains in force. Momentum has been choppy (spiked briefly above $6 in early August, pulled back into the low-to-mid $4s), so sized moderately. Ranked #3."
+        },
+        {
+          "ticker": "RZLV",
+          "qty": 8,
+          "price": 2.35,
+          "cost": 18.8,
+          "reasoning": "Rezolve AI. Price ~$2.35, cross-referenced: a StocksToTrade Aug 25 recap puts the stock at a $2.43 close, while a same-window CNN/Google Finance-aggregated intraday read shows a $2.255-$2.390 range on an open of $2.34 and a prior close of $2.24 -- a consistent low-$2.30s-to-mid-$2.40s band, using the midpoint. Web-search-sourced, not exchange-API-verified, reflects Aug 25-26 session data. Fundamentals: company reaffirmed FY2026 revenue guidance of ~$360M after preliminary H1 revenue of ~$127M, a strong growth marker; the Google Cloud distributed-database partnership win from mid-August remains the standing catalyst. Ranked #4 -- smaller position given the still-thin, choppy tape."
+        },
+        {
+          "ticker": "RGTI",
+          "qty": 1,
+          "price": 16.45,
+          "cost": 16.45,
+          "reasoning": "Rigetti Computing. Price ~$16.45, cross-referenced: two independent Aug 24 reads land at $16.555 and $16.37 respectively -- within 1% of each other, using the midpoint. Web-search-sourced, not exchange-API-verified, reflects Aug 24 close (most recent reliable print located; Aug 25-26 closes not surfaced in search results at run time). Sector context: quantum names (Rigetti, Infleqtion, IonQ) gave back 6-7% on 8/24 in a post-earnings-headline unwind after strong 8/21 gains, so this entry is into recent softness; analyst consensus still points to ~81% upside from an average $28.81 PT (9 buy/strong-buy ratings), and the June 22 White House quantum executive order remains a standing sector tailwind. Ranked #5 -- smallest size given the less-fresh price read and recent sector pullback."
+        }
+      ],
+      "sells": []
     }
   ]
 }
