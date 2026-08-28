@@ -1450,6 +1450,47 @@
         }
       ],
       "sells": []
+    },
+    {
+      "timestamp": "2026-08-28T09:45:00-04:00",
+      "buys": [
+        {
+          "ticker": "RZLV",
+          "qty": 20,
+          "price": 2.95,
+          "cost": 59.0,
+          "reasoning": "Rezolve AI. Price ~$2.95, cross-referenced: one read (stockanalysis.com/Robinhood/CNN-family aggregate) showed a $2.93-$2.94 range, a separate read (ts2.tech citing the session close) showed $2.96 after the stock's +21.8% single-day surge -- ~1% spread, a clean print. Web-search-sourced, not exchange-API-verified, reflects Aug 28 morning-session data. Catalyst: Google selected Rezolve's proprietary distributed database technology for Google Cloud Web3, an indexing/data-pipeline layer for public-blockchain datasets -- a genuine enterprise-validation win that added ~$211M to market cap in a single session. Strong Buy consensus (5 analysts), avg PT $10.50 (~256% implied upside), the largest theoretical torque in the group. Third consecutive run recommending RZLV on this catalyst (rank #4 8/26 evening at $2.65, #4 8/27 morning at $2.35, #3 8/27 evening at $2.90) -- price has held/firmed since, suggesting the move has legs rather than fading. Ranked #1 this run for the best combination of a fresh, durable catalyst and torque on a $200 budget."
+        },
+        {
+          "ticker": "MARA",
+          "qty": 4,
+          "price": 11.77,
+          "cost": 47.08,
+          "reasoning": "MARA Holdings. Price ~$11.77, cross-referenced: one read (Barchart/CNN/TradingView aggregate) showed a $11.65-$11.79 intraday range ($11.67 point estimate), a separate read (Seeking Alpha aggregate) showed Aug 27's close at $11.87 (+5.79%) -- ~1.7% spread, within tolerance. Web-search-sourced, not exchange-API-verified, reflects Aug 27 close / Aug 28 premarket data. Catalyst: bitcoin broke back above $80,000-$81,000 this week (~+23% over the past week) on renewed spot-ETF inflows ($517M single day, ~$1B over two weeks), a Treasury buyback-size increase announced 8/19, and ~$1.5B in short liquidations. MARA is a pure bitcoin-treasury-beta miner with direct leverage to this move -- a different, live, ETF/liquidity-driven rally than the failed CLARITY-Act-hope pop flagged 8/21 (which faded). Ranked #2: high torque to an in-progress macro catalyst, cheap enough to size meaningfully on this budget."
+        },
+        {
+          "ticker": "RIOT",
+          "qty": 2,
+          "price": 20.75,
+          "cost": 41.5,
+          "reasoning": "Riot Platforms. Price ~$20.75, cross-referenced: one read (CNN/TradingView aggregate) showed a $20.65-$21.86 range ($20.88 point estimate), a separate read (Bloomberg/CNBC aggregate) showed a $20.61 last close -- ~1.3% spread. Web-search-sourced, not exchange-API-verified, reflects Aug 27 close / Aug 28 data. Same bitcoin-rally tailwind as MARA above, plus RIOT's separate AI-datacenter diversification thesis (up to $16.1B Anthropic 191MW Texas colo deal) and a standing Bernstein PT raise to $35 (from $30). Strong Buy consensus (20 buy/0 sell), avg PT $32.40. Ranked #3: same macro catalyst as MARA but with an additional non-bitcoin growth leg that should cushion downside if the crypto rally stalls before challenge_end."
+        },
+        {
+          "ticker": "RGTI",
+          "qty": 2,
+          "price": 16.5,
+          "cost": 33.0,
+          "reasoning": "Rigetti Computing. Price ~$16.50, cross-referenced: one read (Investing.com/CNN aggregate) showed $16.575, a separate read (CNBC/Fidelity aggregate) showed an after-hours $16.44 (+3.14%) off a $15.94 prior close -- ~0.8% spread. Web-search-sourced, not exchange-API-verified, reflects Aug 27 after-hours / Aug 28 data. Standing catalysts unchanged: DoC CHIPS Act LOI (up to $100M) and the June 22 White House quantum executive order. Institutional signal modestly positive: 219 institutional holders added shares last quarter vs 205 that trimmed (net accumulation); the COO's 9,038-share sale on 8/20 was confirmed non-discretionary (RSU tax-withholding), not a conviction signal. Fourth consecutive run recommending RGTI. Ranked #4: real but less fresh catalyst than the three names above, still worth continued exposure."
+        },
+        {
+          "ticker": "SMCI",
+          "qty": 0,
+          "price": 38.0,
+          "cost": 0.0,
+          "reasoning": "Super Micro Computer. Price ~$38.00, cross-referenced loosely: one read (Investing.com aggregate) showed $38.05 (+2.27%, day range $37.50-$38.27), a second read (TradingView/CNBC aggregate) was dated Aug 26 and showed $37.70 off a $38.46 prior close -- directionally inconsistent (gain vs decline) and two days apart, so confidence is lower than the names above even though the absolute price band is tight (~2%). AI/semis momentum intact (Raymond James Strong Buy upgrade on AMD this week cited a 44% 5-yr AI-server-CPU CAGR, a read-through for SMCI; NVIDIA reported 8/26, Marvell 8/27, Broadcom next), but the sector's big near-term catalyst (NVDA earnings) has already passed and SMCI's specific catalyst is more diffuse than the other four. Ranked #5 and NOT funded by this run's $200 cash after the four buys above ($180.58 total, $19.42 remaining) -- listed for completeness per RULES.md; would need ~1 share (~$38) if reallocating from a lower-ranked name above. [Run summary: no open holdings this run, cash remains the full $200.00 pending any user-executed trades; ranked buy list totals $180.58 of $200.00 across the four funded names (RZLV > MARA > RIOT > RGTI), leaving a $19.42 buffer for web-sourced price uncertainty; SMCI ranked #5 but unfunded. Excluded from sizing this run despite standing/notable theses: QBTS (today's reads conflicted, $19.94 vs $17.94, ~10% spread, wider than tolerance despite yesterday's clean $18.00 print), ABCL (again contradictory -- $5.09-$6.04 point reads vs a separate '+17% by midday' report, the same unresolved noise flagged repeatedly since 8/25), BKKT (insider-accumulation thesis intact but today's reads gave conflicting direction, +3.38%/24h vs -5.75%-since-close, on top of a historically wide $7.24-$31.92 spread), KURA (CEO Troy Wilson's insider buys remain the strongest signal in the universe, but reads spanned $10.89-$12.80 again, unreliable for a third straight run), TTMI (new name -- CEO Roks Edwin bought ~$1.1M in shares on 8/25, but price reads spanned $94.90-$145.29, a >50% range, unusable), OPEN (cleanly priced at ~$3.40 across two sources, but no fresh catalyst and shares still declining -- not a buy). Sell list is empty -- there are no open holdings to evaluate. Only 2 days remain in the 30-day challenge (ends 2026-08-30), arguing for decisive, high-conviction exposure over passive cash-holding, but sizing stayed conservative given persistent web-sourced pricing noise across roughly half of tonight's names. Not financial advice.]"
+        }
+      ],
+      "sells": []
     }
   ]
 }
