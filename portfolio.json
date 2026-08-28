@@ -1491,6 +1491,61 @@
         }
       ],
       "sells": []
+    },
+    {
+      "timestamp": "2026-08-28T16:15:00-04:00",
+      "buys": [
+        {
+          "ticker": "RZLV",
+          "qty": 10,
+          "price": 2.94,
+          "cost": 29.4,
+          "price_source": "web-search-fallback (cross-referenced: $2.93-$2.94 range via a Robinhood/stockanalysis.com-family aggregate read vs $2.96 via a ts2.tech session-close read citing the stock's +21.8% single-day surge; ~1% spread, within tolerance; both reflect Aug 28 morning-session data)",
+          "reasoning": "Rezolve AI (RZLV). Fourth consecutive run recommending this name (rank #4 8/26 evening, #4 8/27 morning, #3 8/27 evening, #1 8/28 morning) -- price has held/firmed in the low-$2.90s across all four runs rather than fading, suggesting the Google Cloud Web3 database-indexing win (added ~$211M market cap in a single session) has durable legs, not just a one-day pop. Strong Buy consensus (5 analysts), avg PT $10.50 (~257% implied upside from $2.94), the largest theoretical torque of any name in this run's set. Ranked #1 for expected profit potential on the combination of a fresh-and-holding catalyst plus the cheapest entry price in the group, allowing meaningful share count on a small allocation."
+        },
+        {
+          "ticker": "MARA",
+          "qty": 2,
+          "price": 11.67,
+          "cost": 23.34,
+          "price_source": "web-search-fallback (cross-referenced: a Robinhood/CNN/Google-Finance-family aggregate showing a $11.65-$11.79 intraday range with a $11.67 point estimate, vs a Seeking-Alpha-sourced read of Aug 27's close at $11.87 (+5.79%); ~1.7% spread, within tolerance)",
+          "reasoning": "MARA Holdings. Bitcoin broke back above $80,000-$81,000 this week (~+23% over the past week) on renewed spot-ETF inflows (~$517M single day, ~$1B over two weeks) and ~$1.5B in short liquidations -- a live, ongoing macro catalyst distinct from the earlier failed CLARITY-Act-hope pop (which faded by 8/21). MARA is pure bitcoin-treasury-beta with direct leverage to this move. Ranked #2: the rally is still in progress (unlike names such as ESTC below whose catalyst-driven pop already happened today), so there is real near-term room if BTC/ETF flows continue."
+        },
+        {
+          "ticker": "RIOT",
+          "qty": 1,
+          "price": 20.88,
+          "cost": 20.88,
+          "price_source": "web-search-fallback (cross-referenced: a CNN/CNBC-family aggregate at $20.88 current / $20.88 previous close, day range $20.65-$21.86, vs a Bloomberg/CNBC-sourced read of a $20.61 last close; ~1.3% spread, within tolerance)",
+          "reasoning": "Riot Platforms. Same live bitcoin-rally tailwind as MARA above, plus a separate AI-datacenter diversification leg (up to $16.1B Anthropic 191MW Texas colo deal) that should cushion downside if the crypto rally stalls before challenge_end (8/30). Bernstein PT raised to $35 (from $30); Strong Buy consensus (20 buy/0 sell), avg PT $32.40. Ranked #3: same macro catalyst as MARA with an added non-bitcoin growth leg, but a smaller position given the higher per-share price relative to the $200 budget."
+        },
+        {
+          "ticker": "ESTC",
+          "qty": 1,
+          "price": 100.6,
+          "cost": 100.6,
+          "price_source": "web-search-fallback (cross-referenced: $100.56 via a stockanalysis.com/Robinhood-family read, day range $95.23-$108.00, vs $100.63 via a separate FinancialContent/Seeking-Alpha-sourced read citing the same Q2 print; ~0.07% spread, tightly converged, both reflecting Aug 28 intraday trading)",
+          "reasoning": "Elastic N.V. (ESTC), NEW candidate. Q2 FY2027 earnings beat released 8/27-8/28: revenue $478.1M (+15.1% YoY), non-GAAP EPS $0.70, non-GAAP operating margin 16.2%, subscription revenue $449M, and raised full-year guidance -- a genuine, already-confirmed fundamental beat (not a speculative catalyst), driving a same-day +17-18% move on real AI-search-platform demand. Ranked #4: the highest pricing-confidence read of this run's set (~0.07% spread) and the cleanest fundamental story, but ranked behind the three momentum names above because today's pop already captured most of the immediate surprise -- upside from here is follow-through re-rating rather than a still-unfolding catalyst. Sized to 1 share given the price consumes roughly half the remaining post-RZLV/MARA/RIOT budget."
+        },
+        {
+          "ticker": "RGTI",
+          "qty": 0,
+          "price": 16.4,
+          "cost": 0.0,
+          "price_source": "web-search-fallback (cross-referenced: $16.40 current via an Investing.com/CNN-family aggregate vs $16.44 after-hours via a CNBC/Fidelity-sourced read off a $15.94 previous close; ~0.24% spread, tightly converged)",
+          "reasoning": "Rigetti Computing. Standing catalysts intact: DoC CHIPS Act LOI (up to $100M), June 22 White House quantum executive order, and net institutional accumulation (219 holders added vs 205 trimmed last quarter). Note: a broader quantum-sector pullback was flagged in older coverage (Rigetti/Infleqtion -7%, IonQ -6%), but that specific move was dated to Monday 8/24, not today -- today's actual cross-referenced RGTI prints show the stock modestly UP (~+2.9%) from its $15.94 previous close, so that stale headwind does not apply to today's read. Ranked #5 and NOT funded by this run's $200 cash after the four buys above ($174.22 total, $25.78 remaining) -- listed for completeness per RULES.md; would cost ~$16.40 for 1 share if reallocating from a lower-ranked name above."
+        },
+        {
+          "ticker": "TE",
+          "qty": 0,
+          "price": 4.95,
+          "cost": 0.0,
+          "price_source": "web-search-fallback (cross-referenced: $4.95 via a stockanalysis.com-family read, +9.98% over 24h, vs $4.96 via a MarketBeat-sourced Thursday 8/27 close, +6.98% that session; ~0.2% spread, tightly converged)",
+          "reasoning": "T1 Energy. Standing catalyst intact and strengthening: reported U.S. polysilicon tariffs/price-floor news specifically targeting Chinese supply broke 8/27, pushing the stock up ~7-10% into today's price of $4.95-4.96 (up from the $4.30-4.55 range this name traded at across the past several runs' buys). Encompass Capital's 21.5M-share stake increase remains the standing institutional signal. Ranked #6 and NOT funded this run after the $174.22 already committed above ($25.78 remaining) -- listed for completeness; would cost ~$4.95/share if reallocating."
+        }
+      ],
+      "sells": [],
+      "reasoning_summary": "Evening run 2026-08-28 (2 days remain in the 30-day challenge, ends 2026-08-30). No open holdings exist (none of this challenge's dozens of buy recommendations to date have ever been reported by the user as executed -- per RULES.md, recommendations alone never move cash/holdings), so cash remains the full $200.00, there is nothing to mark-to-market, and no same-day round-trip risk; the sell list is empty because there are no open holdings to evaluate. Funded buys this run: RZLV $29.40 + MARA $23.34 + RIOT $20.88 + ESTC $100.60 = $174.22 of $200.00 cash, leaving a $25.78 (12.9%) buffer consistent with conservative-sizing guidance for web-search-fallback-priced trades; RGTI and TE are ranked #5/#6 but listed at qty 0 (unfunded) for completeness per RULES.md step 4, so the hard cash-limit rule is respected exactly (sum of qty x price across all recommended buys = $174.22 < $200.00 cash). EXCLUDED this run on unreliable/conflicting pricing: QBTS (today's reads split between a $17.90-$17.94 same-day-close cluster and a $16.68-$17.86 intraday-range cluster centered on $16.76, a ~7% spread -- consistent with this ticker's repeated history of pricing noise in this challenge -- kept on watchlist, fundamentals/analyst coverage unchanged); KURA (reads spanned $10.89 to $13.18 across three sources, a ~21% spread, unreliable for the third-plus consecutive run -- BUT flagging a materially strengthened institutional signal: CEO Troy Wilson made a SECOND large open-market purchase this run, $1.24M at $12.39/sh on 8/24, on top of the $1.11M purchase at $11.12/sh on 8/17 logged previously -- two large CEO buys in eight days is one of the strongest insider signals in the whole watchlist; re-verify pricing urgently next run); ABCL (no clean same-day print found despite a JonesResearch PT raise to $25 from $13 and positive ABCL635 Phase II vasomotor-symptom data); BKKT (search returned an internally inconsistent pair, a stale ~$7.40 previous-close figure alongside an unrelated $28.57 read that does not fit this ticker's known price range -- discarded as unusable); Macy's/M (NEW research this run: Berkshire Hathaway's Q2 2026 13F, filed mid-August, shows Berkshire ADDING to Macy's along with Delta Air Lines, Lennar, D.R. Horton and New York Times, while trimming Bank of America/DaVita/Kroger/Ally/Capital One and eliminating Constellation Brands -- a genuine fresh institutional-accumulation signal on a name affordable on this budget, but price reads split from $22.18-$22.90 (one aggregate) to $23.55/$24.12 (a second), an ~8.6% spread; excluded from sizing pending a cleaner quote, added fresh to watchlist notes). Broader market context: Nasdaq +1.6% to 26,541.35 and S&P 500 +0.7% to 7,730.99 on Thursday 8/27, led by NVIDIA's 8.7% jump on a Q2 beat (EPS $2.22 vs $2.09 est, revenue $96.22B, +4.82% beat); Friday 8/28 premarket saw Salesforce +22.6% and Elastic (ESTC, bought this run) +17-18% on earnings beats, while PayPal -16% (Advent/Stripe abandoned a takeover pursuit) and Marvell -7.8% -- both flagged as bearish/no-action, added to watchlist as sector context only, not buys. Institutional/13F research this run: Berkshire Hathaway Q2 2026 13F confirmed filed (~$299B portfolio, top five positions ~72%) -- major new buying in Alphabet (~$17B added, partly via a $10B direct placement), plus Delta, Lennar, Macy's, D.R. Horton, NYT; trims/exits as above. Pershing Square (Ackman) 13F shows new stakes in Visa, Mastercard, S&P Global and Netflix -- all too expensive for this budget, sector-context only. Ionis Pharmaceuticals is presenting new ION775 (siRNA) data at the ESC Congress (Munich, 8/28-31), a live near-term catalyst for the antisense-oligonucleotide watchlist name -- added to notes, not priced this run. New candidates added to watchlist (not priced/bought this run): CRM (Salesforce, +22.6% earnings beat, too expensive for meaningful sizing on $200), VEEV (Veeva Systems, +16% earnings beat, likely too expensive, needs a price check), PYPL (PayPal, bearish flag -- Advent/Stripe deal collapse, -16% premarket, not a buy candidate), MRVL (Marvell, bearish flag -- down 7.8% today despite the broader semis/AI momentum theme, watch for a better entry). Not financial advice."
     }
   ]
 }
