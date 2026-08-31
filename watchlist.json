@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-31T09:45:00-04:00",
+  "last_updated": "2026-08-31T16:15:00-04:00",
   "candidates": [
     {
       "ticker": "ABCL",
@@ -9,7 +9,9 @@
     },
     {
       "ticker": "ACHR",
-      "note": "2026-08-18 EVENING RUN: still excluded -- price sources diverged too much to establish a reliable cross-referenced print this evening (one set of sources ~$6.96-$7.03, another ~$5.345 -- more than 30% apart, far outside the ~1-2% tolerance). Per RULES.md, excluding from sizing until a clean two-source read is available. Boeing (Wisk/SkyGrid/Insitu) deal thesis from this morning stands; revisit next run."
+      "note": "2026-08-31 EVENING RUN: still EXCLUDED on pricing grounds -- $5.34 (Investing.com, undated 'today') vs $5.744 (TradingView/Benzinga aggregate, explicitly dated Aug 28 7:57pm ET -- 3 days stale, not a genuine same-day cross-check), ~7.6% spread, FAIL/inconclusive. Boeing acquired Wisk Aero/Insitu/SkyGrid and took a 19.9% equity stake in Archer -- a strong strategic-investor signal, thesis intact. Needs a genuinely fresh two-source same-day quote. || PRIOR: 2026-08-18 EVENING RUN: still excluded -- price sources diverged too much to establish a reliable cross-referenced print this evening (one set of sources ~$6.96-$7.03, another ~$5.345 -- more than 30% apart, far outside the ~1-2% tolerance). Per RULES.md, excluding from sizing until a clean two-source read is available. Boeing (Wisk/SkyGrid/Insitu) deal thesis from this morning stands; revisit next run.",
+      "last_updated": "2026-08-31T16:15:00-04:00",
+      "last_seen_price": 5.34
     },
     {
       "ticker": "GOOGL",
@@ -320,7 +322,8 @@
     },
     {
       "ticker": "TSM",
-      "note": "2026-08-10 MORNING RUN: Taiwan Semiconductor -- flagged for a cluster of 3 distinct insider buyers in the trailing 90 days, notable given TSM's centrality to the whole AI/semis theme, though likely too expensive for this budget. New candidate, not yet priced."
+      "note": "2026-08-31 EVENING RUN: fresh INSTITUTIONAL SIGNAL -- Fundsmith (Terry Smith) Q2 2026 13F shows a new TSM stake at 4% of its ~$13.65B portfolio (part of a broader 34->41 holding expansion that also added Uber, Mastercard, Netflix, GE Vernova). Reinforces TSM's centrality to the AI/semis institutional-accumulation theme alongside the 3-insider-buyer cluster already on file. Not priced this run -- still likely too expensive for this budget. || PRIOR: 2026-08-10 MORNING RUN: Taiwan Semiconductor -- flagged for a cluster of 3 distinct insider buyers in the trailing 90 days, notable given TSM's centrality to the whole AI/semis theme, though likely too expensive for this budget. New candidate, not yet priced.",
+      "last_updated": "2026-08-31T16:15:00-04:00"
     },
     {
       "ticker": "RIOT",
@@ -403,9 +406,9 @@
     },
     {
       "ticker": "SMCI",
-      "note": "2026-08-31 MORNING RUN: not priced this run. Standing quote from research: ~$37.08 (undated, likely late Aug), on strong Q4 FY26 results (net sales $11.1B, GAAP gross margin 17.5%, record $60B+ backlog); analyst rating Neutral (5 buy/3 sell), avg target $42.38; next earnings 11/3. || PRIOR: 2026-08-28 MORNING RUN: EXCLUDED from sizing (listed #5, unfunded) -- price reads directionally inconsistent: $38.05 +2.27% today (Investing.com aggregate) vs a separately dated Aug-26 read of $37.70 off a $38.46 prior close (TradingView/CNBC aggregate), one showing a gain and the other a decline two days apart. AI/semis momentum intact (Raymond James Strong Buy upgrade on AMD this week, 44% 5-yr AI-server-CPU CAGR read-through; NVDA reported 8/26, Marvell 8/27, Broadcom next) but the sector's big near-term catalyst has already passed and confidence in today's specific print is lower than the four funded buys this run. || PRIOR: 2026-08-14 MORNING RUN: BOUGHT (1 sh @ $39.55, ranked #3), extending prior runs' thesis. Q4 FY26 EPS $1.70 vs $0.71 est.; FY2027 revenue guidance $65-72B vs Street ~$50B; $60B in new quarterly orders. Price cross-referenced $39.56 vs $39.53, ~0.08% spread, tightest of the run. || PRIOR: 2026-08-13 EVENING RUN: BOUGHT again (1 sh, rank #2). Extended gains for a third straight session (+5-6% intraday today) to ~$39.78 (cross-referenced: $39.56 Benzinga vs $40.00 Yahoo Finance, ~1.11% spread) on top of the FY2027 revenue guidance beat ($65-72B vs ~$52.5B consensus) from the 8/11 print. Sized to 1 share given genuine chasing risk after three consecutive up days. || PRIOR: 2026-08-13 MORNING RUN: BOUGHT again (1 sh). Fiscal Q4 2026 earnings (after close 8/11): FY2027 revenue guidance $65-72B vs ~$52.5B consensus, a ~30% guidance beat. Continued higher today (+10.6% intraday) to ~$37.73 on top of Tuesday's pop -- now a two-day momentum move, chasing risk noted. || PRIOR: 2026-08-12 EVENING RUN, BOUGHT (1 sh, new buy this run). Blockbuster fiscal Q4 2026 earnings (after close 8/11): FY2027 revenue guidance $65-72B vs ~$52.5B consensus (~30% beat), new SpaceX AI-datacenter contract mentioned in coverage. Price ~$35.50 (prior close $31.60, day range $33.94-37.17) but the two distinct-sourced reads ($35.96 vs $34.94) spread ~2.9%, at/slightly past normal tolerance though both sit inside the confirmed day range -- flagged as this run's least-certain price, re-verify next run with a cleaner cross-reference.",
-      "last_seen_price": 38.0,
-      "last_updated": "2026-08-31T09:45:00-04:00"
+      "note": "2026-08-31 EVENING RUN: priced but EXCLUDED on pricing grounds -- $37.08 (Investing.com, dated Aug 31, day range $36.87-$38.97) vs $38.39 (StockAnalysis.com, date ambiguous, likely reflecting the Aug 25 Cisco-deal pop), ~3.5% spread, narrowly outside this project's ~1-2% tolerance -- treated as FAIL per this project's convention on borderline reads. Cisco AI-hardware partnership (Aug 25, +9%) and a record $60B+ backlog remain the standing thesis. Re-check next run for a cleaner same-day cross-reference. || PRIOR: 2026-08-31 MORNING RUN: not priced this run. Standing quote from research: ~$37.08 (undated, likely late Aug), on strong Q4 FY26 results (net sales $11.1B, GAAP gross margin 17.5%, record $60B+ backlog); analyst rating Neutral (5 buy/3 sell), avg target $42.38; next earnings 11/3. || PRIOR: 2026-08-28 MORNING RUN: EXCLUDED from sizing (listed #5, unfunded) -- price reads directionally inconsistent: $38.05 +2.27% today (Investing.com aggregate) vs a separately dated Aug-26 read of $37.70 off a $38.46 prior close (TradingView/CNBC aggregate), one showing a gain and the other a decline two days apart. AI/semis momentum intact (Raymond James Strong Buy upgrade on AMD this week, 44% 5-yr AI-server-CPU CAGR read-through; NVDA reported 8/26, Marvell 8/27, Broadcom next) but the sector's big near-term catalyst has already passed and confidence in today's specific print is lower than the four funded buys this run. || PRIOR: 2026-08-14 MORNING RUN: BOUGHT (1 sh @ $39.55, ranked #3), extending prior runs' thesis. Q4 FY26 EPS $1.70 vs $0.71 est.; FY2027 revenue guidance $65-72B vs Street ~$50B; $60B in new quarterly orders. Price cross-referenced $39.56 vs $39.53, ~0.08% spread, tightest of the run. || PRIOR: 2026-08-13 EVENING RUN: BOUGHT again (1 sh, rank #2). Extended gains for a third straight session (+5-6% intraday today) to ~$39.78 (cross-referenced: $39.56 Benzinga vs $40.00 Yahoo Finance, ~1.11% spread) on top of the FY2027 revenue guidance beat ($65-72B vs ~$52.5B consensus) from the 8/11 print. Sized to 1 share given genuine chasing risk after three consecutive up days. || PRIOR: 2026-08-13 MORNING RUN: BOUGHT again (1 sh). Fiscal Q4 2026 earnings (after close 8/11): FY2027 revenue guidance $65-72B vs ~$52.5B consensus, a ~30% guidance beat. Continued higher today (+10.6% intraday) to ~$37.73 on top of Tuesday's pop -- now a two-day momentum move, chasing risk noted. || PRIOR: 2026-08-12 EVENING RUN, BOUGHT (1 sh, new buy this run). Blockbuster fiscal Q4 2026 earnings (after close 8/11): FY2027 revenue guidance $65-72B vs ~$52.5B consensus (~30% beat), new SpaceX AI-datacenter contract mentioned in coverage. Price ~$35.50 (prior close $31.60, day range $33.94-37.17) but the two distinct-sourced reads ($35.96 vs $34.94) spread ~2.9%, at/slightly past normal tolerance though both sit inside the confirmed day range -- flagged as this run's least-certain price, re-verify next run with a cleaner cross-reference.",
+      "last_seen_price": 37.08,
+      "last_updated": "2026-08-31T16:15:00-04:00"
     },
     {
       "ticker": "TRAX",
@@ -442,7 +445,8 @@
     },
     {
       "ticker": "V",
-      "note": "NEW 2026-08-12 MORNING RUN: Visa. Seth Klarman/Baupost Group opened a new ~$212M stake in the Q1 2026 13F (filed 5/15/26). Not priced this run -- likely $300+/share, too expensive for this budget; noted as an institutional-conviction signal only."
+      "note": "2026-08-31 EVENING RUN: fresh INSTITUTIONAL SIGNAL -- Pershing Square (Bill Ackman) Q2 2026 13F shows a new Visa stake as part of a broader move into Mastercard/S&P Global/Netflix (portfolio grew to $19.47B, 10->14 positions). Adds to the existing Klarman/Baupost ~$212M stake already on file. Not priced this run -- still likely $300+/share, too expensive for this budget; institutional-conviction signal only. || PRIOR: NEW 2026-08-12 MORNING RUN: Visa. Seth Klarman/Baupost Group opened a new ~$212M stake in the Q1 2026 13F (filed 5/15/26). Not priced this run -- likely $300+/share, too expensive for this budget; noted as an institutional-conviction signal only.",
+      "last_updated": "2026-08-31T16:15:00-04:00"
     },
     {
       "ticker": "PDX",
@@ -894,9 +898,9 @@
     },
     {
       "ticker": "ESTC",
-      "note": "2026-08-28 EVENING RUN: NEW CANDIDATE, BOUGHT (rank #4) 1 sh @ $100.60. Elastic N.V. (search AI platform). Q2 FY2027 earnings beat (released 8/27-8/28): revenue $478.1M (+15.1% YoY), non-GAAP EPS $0.70, non-GAAP operating margin 16.2%, subscription revenue $449M, raised full-year guidance -- confirmed fundamental beat, not speculative, driving a same-day +17-18% move on real AI-search demand. Cross-referenced $100.56 (stockanalysis.com/Robinhood family, range $95.23-$108.00) vs $100.63 (FinancialContent/Seeking Alpha), ~0.07% spread, tightly converged.",
-      "last_seen_price": 100.6,
-      "last_updated": "2026-08-28T16:15:00-04:00"
+      "note": "2026-08-31 EVENING RUN: EXCLUDED this run on pricing grounds -- sources appear to span different dates: $85.06 (aggregated, dated Aug 31 3:57pm ET, -3.11%, consistent with a pullback off the post-earnings spike) vs $103.62 (StockAnalysis.com, +23.7%, appears to reflect the Aug 27/28 post-earnings spike day rather than today), ~22% spread, FAIL. $85.06 is the more plausible today's print given the pullback narrative, but needs a clean second same-day source. Note: this ticker has an open 8/28-run recommendation (1 sh @ $100.60, never executed by the user) -- if the pullback figure is accurate, that entry price would now be well underwater; re-verify carefully next run. || PRIOR: 2026-08-28 EVENING RUN: NEW CANDIDATE, BOUGHT (rank #4) 1 sh @ $100.60. Elastic N.V. (search AI platform). Q2 FY2027 earnings beat (released 8/27-8/28): revenue $478.1M (+15.1% YoY), non-GAAP EPS $0.70, non-GAAP operating margin 16.2%, subscription revenue $449M, raised full-year guidance -- confirmed fundamental beat, not speculative, driving a same-day +17-18% move on real AI-search demand. Cross-referenced $100.56 (stockanalysis.com/Robinhood family, range $95.23-$108.00) vs $100.63 (FinancialContent/Seeking Alpha), ~0.07% spread, tightly converged.",
+      "last_seen_price": 85.06,
+      "last_updated": "2026-08-31T16:15:00-04:00"
     },
     {
       "ticker": "CRM",
@@ -943,8 +947,9 @@
     },
     {
       "ticker": "SAIC",
-      "note": "2026-08-31 MORNING RUN: NEW candidate, not priced (historically ~$90-110/share -- likely unaffordable for a meaningful position at this budget). Science Applications International Corp, government-tech integrator. +8.13% on 8/31 (today) on better-than-expected Q2 results. Noted for tracking; would need a clean price check and budget-fit assessment.",
-      "last_updated": "2026-08-31T09:45:00-04:00"
+      "note": "2026-08-31 EVENING RUN: EXCLUDED on pricing grounds -- $131.45 (StockAnalysis.com, dated Aug 31 1:05pm ET, +4.36%, self-consistent with the reported $125.96 Aug 27 earnings-day close) vs $112.73-$116.06 range / $113.52 open (Investing.com, undated -- looks stale/mismatched), ~13% spread, FAIL. Q2 EPS $3.01 vs $2.31 est. beat; raised FY27 EPS guidance to $10.65-10.75 vs $9.95 consensus stands as the thesis. Even at the lower price this is a 1-share-max position on this budget. || PRIOR: 2026-08-31 MORNING RUN: NEW candidate, not priced (historically ~$90-110/share -- likely unaffordable for a meaningful position at this budget). Science Applications International Corp, government-tech integrator. +8.13% on 8/31 (today) on better-than-expected Q2 results. Noted for tracking; would need a clean price check and budget-fit assessment.",
+      "last_updated": "2026-08-31T16:15:00-04:00",
+      "last_seen_price": 131.45
     },
     {
       "ticker": "VRSN",
@@ -970,6 +975,34 @@
       "ticker": "DNN",
       "note": "2026-08-31 MORNING RUN: NEW candidate, not priced this run. Denison Mines, uranium developer. Reported +33% month-to-date as of late August as part of the same nuclear-sector rally as UEC/CCJ/UUUU. No ticker-specific clean price found yet -- needs its own cross-referenced quote before sizing.",
       "last_updated": "2026-08-31T09:45:00-04:00"
+    },
+    {
+      "ticker": "POET",
+      "note": "2026-08-31 EVENING RUN: NEW candidate, BOUGHT (rank #2) 5 sh @ $8.06. POET Technologies -- optical-engine/AI-interconnect play. Largest customer Lumilens closed a $700M funding round validating a $50M initial PO with $500M+ potential over 5 years; two optics-industry veterans added to the board; 800G high-volume production starting Q3 2026. Price cross-referenced cleanly: $8.08 (Yahoo Finance/TradingView aggregate) vs $8.04 (Investing.com), ~0.5% spread, PASS -- tightest cross-reference of this run. No specific institutional/insider 13F hit found this search pass.",
+      "last_seen_price": 8.06,
+      "last_updated": "2026-08-31T16:15:00-04:00"
+    },
+    {
+      "ticker": "AFRM",
+      "note": "2026-08-31 EVENING RUN: NEW candidate, BOUGHT (rank #1) 2 sh @ $74.10. Affirm Holdings -- Q4 GMV +36% YoY, revenue +33% YoY to $1.17B, big beat on both lines; FY27 GMV guidance >$64B; Bernstein raised PT to $110 (+~49% from current price). Price cross-referenced: $74.14 (Yahoo Finance/StockStory, Aug 31 intraday, day low $71.23) vs $74.05-$77.97 day range / $74.17 open (Investing.com, Aug 31), <1% spread at the cluster point, PASS. No specific institutional/insider 13F hit found this search pass.",
+      "last_seen_price": 74.1,
+      "last_updated": "2026-08-31T16:15:00-04:00"
+    },
+    {
+      "ticker": "NRGV",
+      "note": "2026-08-31 EVENING RUN: NEW candidate, EXCLUDED on pricing grounds -- $3.665 (Yahoo Finance, explicitly dated 8/31 12:36pm ET) vs $4.37-$4.71 range / $4.49 open (Investing.com, undated), ~20%+ spread, FAIL; Yahoo's dated figure is the more trustworthy read but no clean second source confirms it. Energy Vault Holdings -- signed its largest-ever commercial deal (1.25 GW power infrastructure for hyperscaler AI data centers in Texas, targeting $500-600M revenue 2026-27); Q2 revenue more than doubled YoY; raised FY26 guidance to $270-310M. INSTITUTIONAL/INSIDER: Director Dylan Hixon bought 27,472 sh (~$106.5K) on 8/17 -- positive but mixed signal, as CFO Beer and CEO Piconi have both sold shares in the past. Needs a clean same-day quote before ever sizing.",
+      "last_seen_price": 3.665,
+      "last_updated": "2026-08-31T16:15:00-04:00"
+    },
+    {
+      "ticker": "GME",
+      "note": "2026-08-31 EVENING RUN: NEW candidate, EXCLUDED on pricing grounds -- genuinely conflicting reads with unclear timestamps: $19.31 (StockAnalysis.com, undated, -11.1%) vs $17.87 (Investing.com/CNBC, dated Aug 28 close) vs a separate $18.45 Aug 31 premarket report -- no reliable same-day print established. GameStop -- preliminary Q2 showed higher expected profit despite lower sales; converted ~$1.4B of convertible notes to equity (deleveraging, though dilutive); ongoing speculation re: an eBay bid. Volatile/meme-adjacent name; re-verify live before ever sizing.",
+      "last_updated": "2026-08-31T16:15:00-04:00"
+    },
+    {
+      "ticker": "CRWD",
+      "note": "2026-08-31 EVENING RUN: NEW candidate, context only -- not priced this run (historically $300-450+/share, likely unaffordable for a meaningful position on this $200 budget). CrowdStrike -- Q2 EPS beat ($0.31 vs $0.29 est.), shares +20.5% on the print; Fal.Con 2026 conference brought multiple new partnership announcements. Needs a price check if budget ever supports a mega-cap-adjacent position.",
+      "last_updated": "2026-08-31T16:15:00-04:00"
     }
   ],
   "note": "This is a GROWING candidate universe, not overwritten each run: new high-growth names are added over time and existing entries get their notes/prices refreshed, per RULES.md. Not user-curated. Every open holding must always appear here too. All prices are WebSearch-sourced and cross-referenced across independent sources -- never exchange-API-verified; no TipRanks or Alpha Vantage is used in this project."
