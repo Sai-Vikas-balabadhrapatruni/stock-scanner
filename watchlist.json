@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-01T09:45:00-04:00",
+  "last_updated": "2026-09-01T16:15:00-04:00",
   "candidates": [
     {
       "ticker": "ABCL",
@@ -9,9 +9,9 @@
     },
     {
       "ticker": "ACHR",
-      "note": "2026-09-01 MORNING RUN: RECOMMENDED BUY (ranked #2) 7 sh @ $5.75 -- first clean same-day price cross-reference for this ticker after 3 consecutive prior-run pricing exclusions. Investing.com $5.75 vs CNN Markets $5.74, both citing an identical day range of ~$5.68-$5.92, ~0.2% spread, PASS. Fresh catalysts: agreed acquisition of three Boeing subsidiaries (Wisk Aero, SkyGrid, Insitu) adding autonomy/drone/ATM capability and reported >$200M annual revenue; Midnight aircraft now in Phase 3 of 4 of FAA Type Certification plus a UAE Restricted Type Certificate program; live piloted Salinas-Monterey route seen as an LA 2028 Olympics air-taxi template. INSTITUTIONAL: ARK Invest bought ~940,000 shares in a single session; 257 institutional investors added ACHR last quarter incl. State Street (+33.2%), Blackstone, Norges Bank. Counter-signal: one recent insider-sale report (8/17) and heavy cash burn (~$156M/qtr operating burn vs $1.56B cash on hand).",
-      "last_updated": "2026-09-01T09:45:00-04:00",
-      "last_seen_price": 5.75
+      "note": "2026-09-01 EVENING RUN: re-checked -- pre-market/last read $5.69-5.78 (~1.6% spread across two sources), essentially flat vs this morning's $5.75 buy price. No fresh catalyst since this morning's Boeing-subsidiary-acquisition/ARK-buying thesis. Broader market was risk-off today (Nasdaq -0.1%, chip/tech names hit harder) on renewed U.S.-Iran tension in the Strait of Hormuz. NOT re-recommended this run -- already bought twice today per morning run, no new information to act on. || PRIOR: 2026-09-01 MORNING RUN: RECOMMENDED BUY (ranked #2) 7 sh @ $5.75 -- first clean same-day price cross-reference for this ticker after 3 consecutive prior-run pricing exclusions. Investing.com $5.75 vs CNN Markets $5.74, both citing an identical day range of ~$5.68-$5.92, ~0.2% spread, PASS. Fresh catalysts: agreed acquisition of three Boeing subsidiaries (Wisk Aero, SkyGrid, Insitu) adding autonomy/drone/ATM capability and reported >$200M annual revenue; Midnight aircraft now in Phase 3 of 4 of FAA Type Certification plus a UAE Restricted Type Certificate program; live piloted Salinas-Monterey route seen as an LA 2028 Olympics air-taxi template. INSTITUTIONAL: ARK Invest bought ~940,000 shares in a single session; 257 institutional investors added ACHR last quarter incl. State Street (+33.2%), Blackstone, Norges Bank. Counter-signal: one recent insider-sale report (8/17) and heavy cash burn (~$156M/qtr operating burn vs $1.56B cash on hand).",
+      "last_updated": "2026-09-01T16:15:00-04:00",
+      "last_seen_price": 5.74
     },
     {
       "ticker": "GOOGL",
@@ -151,8 +151,8 @@
     },
     {
       "ticker": "IONS",
-      "note": "2026-08-28 EVENING RUN: live near-term catalyst -- Ionis is presenting new ION775 (next-gen siRNA follow-on) one-year plus Phase 1 data at the ESC Congress in Munich, 8/28-31/2026. Not priced this run; worth a dedicated pricing pass given the live conference-driven catalyst window. || PRIOR: 2026-08-17 EVENING RUN: not re-priced (already bought this morning, 1 sh @ $58.75... see morning entry, no fresh catalyst found this run to justify re-buying). Morning pick stands. || PRIOR: 2026-08-17 MORNING RUN: BOUGHT (1 sh, rank #1). FDA approved Ionis's drug for severe hypertriglyceridemia this run -- a resolved regulatory catalyst. Mixed analyst reaction (Guggenheim cut PT on Tryngolza sales outlook, Bernstein raised PT on phase-3 pipeline). Price $58.25 (Investing.com) vs $57.24 (CNBC/Nasdaq blend), ~1.76% spread, PASS -- cleanest cross-reference of the run. || PRIOR: 2026-08-12 EVENING RUN: EXCLUDED -- price sources diverged sharply today ($55.42 stockanalysis.com vs $76.50-77.29 Kraken, ~38% spread, clearly a bad/mismatched read on one side). Director Michael Hayden's insider-buying thesis remains intact and fresh ($1.1M total across Jul 30-31). Re-verify price next run; this looks like a data-quality issue, not a fundamental one.",
-      "last_updated": "2026-08-28T16:15:00-04:00"
+      "note": "2026-09-01 EVENING RUN: ESC Congress 2026 (Munich, 8/28-31) concluded -- ION775 Phase 1 (12-month, single-dose, moderate hypertriglyceridemia) and olezarsen/TRYNGOLZA sHTG data were presented 8/28 as previewed, but no fresh post-Congress market-reaction coverage or updated price found this run. Not priced/bought this run; re-check next run for delayed analyst reaction. || PRIOR: 2026-08-28 EVENING RUN: live near-term catalyst -- Ionis is presenting new ION775 (next-gen siRNA follow-on) one-year plus Phase 1 data at the ESC Congress in Munich, 8/28-31/2026. Not priced this run; worth a dedicated pricing pass given the live conference-driven catalyst window. || PRIOR: 2026-08-17 EVENING RUN: not re-priced (already bought this morning, 1 sh @ $58.75... see morning entry, no fresh catalyst found this run to justify re-buying). Morning pick stands. || PRIOR: 2026-08-17 MORNING RUN: BOUGHT (1 sh, rank #1). FDA approved Ionis's drug for severe hypertriglyceridemia this run -- a resolved regulatory catalyst. Mixed analyst reaction (Guggenheim cut PT on Tryngolza sales outlook, Bernstein raised PT on phase-3 pipeline). Price $58.25 (Investing.com) vs $57.24 (CNBC/Nasdaq blend), ~1.76% spread, PASS -- cleanest cross-reference of the run. || PRIOR: 2026-08-12 EVENING RUN: EXCLUDED -- price sources diverged sharply today ($55.42 stockanalysis.com vs $76.50-77.29 Kraken, ~38% spread, clearly a bad/mismatched read on one side). Director Michael Hayden's insider-buying thesis remains intact and fresh ($1.1M total across Jul 30-31). Re-verify price next run; this looks like a data-quality issue, not a fundamental one.",
+      "last_updated": "2026-09-01T16:15:00-04:00"
     },
     {
       "ticker": "ARTV",
@@ -984,9 +984,9 @@
     },
     {
       "ticker": "AFRM",
-      "note": "2026-09-01 MORNING RUN: RECOMMENDED BUY (ranked #1) 2 sh @ $74.45. Cross-referenced: Yahoo Finance news article dated today explicitly stating AFRM closed at $74.45, down 4.26% today on post-earnings-rally profit-taking, vs a separate Investing.com/Bernstein-context read of $74.73, ~0.4% spread, PASS. Roughly flat vs the 8/31 evening entry price of $74.10 -- consolidating, not breaking down. Bernstein PT $110 (+~48% upside) and the Q4 GMV/revenue beat thesis stand unchanged. Broader market was risk-off today (Dow -0.7%, Nasdaq -1.3%, Iran/Strait-of-Hormuz tension, rising yields).",
-      "last_seen_price": 74.45,
-      "last_updated": "2026-09-01T09:45:00-04:00"
+      "note": "2026-09-01 EVENING RUN: re-checked -- two reads ($71.11, range $70.35-73.62) and (open $72.51, -6.46% vs prior close), roughly consistent in the $71-73 band, down meaningfully from this morning's $74.45 buy price. No fresh catalyst found since the analyst-upgrade-driven gains earlier this week; broader market risk-off today (Iran/Strait of Hormuz tension, bond selloff) likely a factor. NOT re-recommended this run -- already bought twice today, and today's decline argues for watching rather than adding. || PRIOR: 2026-09-01 MORNING RUN: RECOMMENDED BUY (ranked #1) 2 sh @ $74.45. Cross-referenced: Yahoo Finance news article dated today explicitly stating AFRM closed at $74.45, down 4.26% today on post-earnings-rally profit-taking, vs a separate Investing.com/Bernstein-context read of $74.73, ~0.4% spread, PASS. Roughly flat vs the 8/31 evening entry price of $74.10 -- consolidating, not breaking down. Bernstein PT $110 (+~48% upside) and the Q4 GMV/revenue beat thesis stand unchanged. Broader market was risk-off today (Dow -0.7%, Nasdaq -1.3%, Iran/Strait-of-Hormuz tension, rising yields).",
+      "last_seen_price": 71.8,
+      "last_updated": "2026-09-01T16:15:00-04:00"
     },
     {
       "ticker": "NRGV",
@@ -1028,6 +1028,28 @@
       "ticker": "FBIO",
       "note": "2026-09-01 MORNING RUN: NEW candidate, context only -- one read only this pass ($2.85, +3.19% in 24h, market cap ~$96.67M, avg analyst PT $10.00), no independent second source found to cross-reference, so not sized this run despite being cheap enough ($200 could buy ~70 sh) to matter on this budget. Fortress Biotech -- biopharma holding-company model spanning dermatology, oncology, and rare-disease programs via partly-owned subsidiaries. Needs a second same-day price source before ever sizing.",
       "last_updated": "2026-09-01T09:45:00-04:00"
+    },
+    {
+      "ticker": "GPRO",
+      "note": "2026-09-01 EVENING RUN: NEW, LOW QUALITY/high-risk like HYFM/EZRA -- GoPro shares up ~140% over two sessions (Mon+Tue) after YouTube creator Markiplier (Mark Fischbach) disclosed an 8.5% stake, becoming the largest shareholder, sparking retail-driven short-squeeze speculation about creator partnerships/brand tie-ins. BUT this masks a 31% revenue decline, a going-concern warning, and an ~$800M share-dilution overhang -- fundamentally broken company riding a social-media-driven pump. Price ~$1.44-1.56 (Tuesday morning reads, multiple sources roughly agree). Kept on watchlist for visibility/momentum tracking only -- NOT a genuine buy candidate given the going-concern risk.",
+      "last_seen_price": 1.5,
+      "last_updated": "2026-09-01T16:15:00-04:00"
+    },
+    {
+      "ticker": "FRVO",
+      "note": "2026-09-01 EVENING RUN: NEW. Fervo Energy (geothermal, IPO'd 5/13/26 at $27). Fresh genuine catalyst -- announced 9/1 a 396MW Google power-purchase agreement, described as the world's largest enhanced-geothermal PPA to date, for the Cape Station GeoCluster in Utah. HOWEVER price data is badly unreliable this run -- THREE sources diverged wildly: $17.80 (Robinhood, described as +14% on the news), $20.16 (TradingView, +1.05%), $21.71 (stockanalysis.com, -10.2%) -- a ~22% spread with no two agreeing, and directions even conflict (up vs down). Also facing investor scrutiny from a research report (HBSS, published today) over a mid-August transmission-curtailment disclosure that had already knocked shares from $27 IPO down to ~$20.16. EXCLUDED from sizing this run purely on data-quality grounds despite the real catalyst -- HIGH PRIORITY re-check next run for a clean quote.",
+      "last_updated": "2026-09-01T16:15:00-04:00"
+    },
+    {
+      "ticker": "UAMY",
+      "note": "2026-09-01 EVENING RUN: NEW. United States Antimony Corp -- critical-minerals/antimony theme (China export restrictions have made antimony strategically important through 2025-2026). CEO Gary C. Evans bought 20,000 sh (~$98,400) on 8/28 at $4.92; company also announced a $100M share buyback (shares +~9% on the news). Counter-signal: Q2 2026 revenue badly missed ($7.9M vs $21.7M consensus, -25% YoY) on lower antimony prices, and full-year guidance was cut hard (from $125M to $60-75M) -- H.C. Wainwright cut its PT to $9.25 from $11.75 but kept a Buy rating. Price also FAILED cross-reference this run ($5.07 heygotrade vs $5.55 aggregate, ~9% spread). EXCLUDED this run on both the guidance-cut caution flag and pricing-reliability grounds -- re-check next run.",
+      "last_updated": "2026-09-01T16:15:00-04:00"
+    },
+    {
+      "ticker": "LIDR",
+      "note": "2026-09-01 EVENING RUN: NEW. AEye Inc (lidar for ADAS/autonomous vehicles) -- was among today's top % gainers but on closer look no fresh catalyst: Q2 2026 EPS -$0.17 simply met estimates (in-line, not a beat), next earnings not until 11/5/26. Price ~$1.14-1.19 (single-source cluster, not independently cross-referenced this run). Kept on watchlist for context -- not a genuine buy candidate without a real catalyst behind the move.",
+      "last_seen_price": 1.16,
+      "last_updated": "2026-09-01T16:15:00-04:00"
     }
   ],
   "note": "This is a GROWING candidate universe, not overwritten each run: new high-growth names are added over time and existing entries get their notes/prices refreshed, per RULES.md. Not user-curated. Every open holding must always appear here too. All prices are WebSearch-sourced and cross-referenced across independent sources -- never exchange-API-verified; no TipRanks or Alpha Vantage is used in this project."
