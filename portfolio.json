@@ -1722,6 +1722,50 @@
       ],
       "sells": [],
       "note": "Challenge window (challenge_start 2026-07-31 to challenge_end 2026-08-30) remains ELAPSED as of this run -- today is 4 days past challenge_end with no trades ever reported/executed across 51 prior runs (cash still the untouched $200 starting balance, 0 holdings, 0 closed history). Repeating the flag raised in recent runs: please decide whether to extend challenge_end, start acting on recommendations, or wind the schedule down. This run's 4 buys (HUT/AFRM/RIOT/GPRO) total $188.97 of the $200 available, leaving an $11.03 (~5.5%) cash buffer per RULES.md's conservative-sizing guidance for web-sourced prices. No sells recommended -- there are no open holdings to review (0 positions). Excluded this run on price-cross-reference-failure grounds (spreads exceeded the ~1-2% tolerance or sources were outright contradictory): ACHR ($5.56 vs $5.80, ~4.3% spread, and a separate $6.26 read -- 4th consecutive run without a clean 2-source match despite a live Boeing/Wisk Aero acquisition thesis), QBTS ($16.49 vs a contradictory $32.42 headline figure in the same source cluster -- the PT-upside math implied by both blobs was internally consistent at ~$16.6, but the raw headline numbers directly conflicted, so excluded per the letter of the rule), RGTI ($14.89 read twice vs $16.575 vs $17.52-18.64, ~25% max spread -- despite a genuine fresh $100M Commerce Dept funding deal), SOFI ($17.14 vs $18.64, ~8.7% spread), CLSK ($9.02 vs $11.16, ~24% spread), POET ($7.81 vs $8.04 today, ~3% spread, plus a stale $7.30 Sept-2 read -- same unresolved data-quality problem flagged repeatedly since 8/25), IREN ($37.66 vs $39.29, ~4.3% spread), TLYS (single-source only, $3.94, no second independent read found despite a genuine post-earnings-beat catalyst), MARA (single/stale $10.24 read dated Sept 1, no today confirmation), RKLB (no specific today price found, only a multi-week trading range). SNOW/AVGO/CRWV/NBIS/CCJ/RDDT/PLTR excluded as too expensive for a single full share to fit sensibly in a $200 budget this run. Institutional/insider signals researched but not tied to a priced buy this run: Berkshire Hathaway's Q2 2026 13F (filed 8/14) showed a net-buyer quarter under CEO Greg Abel, including a $10B+ new Alphabet (GOOGL) stake tied to Google's AI-infrastructure equity raise -- GOOGL itself too expensive for this budget; Kura Oncology CEO bought ~$1.24M in shares this week (second insider buy in days) but no confirmed today price found; Quoin Pharmaceuticals saw its entire C-suite plus a director buy shares (~$280K combined) and U.S. Antimony saw a director+EVP buy (~$193K combined) -- both added to the watchlist for visibility, neither priced/sized this run; broad market insider-selling trend on 9/2 ($175M+ in disposals vs $2.6M in purchases, led by Caterpillar/Synopsys/Airbnb insiders) is a mild bearish undertone for large caps generally; Truist initiated Hold (not Buy) on OKLO/SMR/NNE this week -- a skeptical institutional signal on the nuclear-power trio, noted for future runs."
+    },
+    {
+      "timestamp": "2026-09-03T16:15:00-04:00",
+      "buys": [
+        {
+          "ticker": "RIOT",
+          "qty": 3,
+          "price": 20.62,
+          "cost": 61.86,
+          "price_source": "web-search cross-referenced: $20.57 (session close context, prev close $18.64, CNN/Yahoo Finance aggregate read) vs $20.67 (+10.89% intraday, Google Finance aggregate read, 11:28am ET) -- ~0.5% spread, PASS.",
+          "reasoning": "Riot Platforms. Ranked #1: today's standout mover (+10.89%) on confirmation/follow-through of the $9.1B, 20-year Anthropic compute-lease deal (191MW at the Rockdale, TX campus, extendable to $16.1B across two 5-yr options) -- CEO Jason Les cites $9.8B total contracted revenue across the Anthropic + AMD leases. Institutional ownership ~49.14% (Seeking Alpha/CNBC). Bitcoin-miner-to-AI-infrastructure pivot thesis, same theme as HUT but RIOT had the cleanest same-day cross-reference this run (HUT's two reads diverged ~7%, excluded below). No same-holding conflict -- no open position in RIOT."
+        },
+        {
+          "ticker": "AFRM",
+          "qty": 1,
+          "price": 74.05,
+          "cost": 74.05,
+          "price_source": "web-search cross-referenced: $73.71-$74.20 range, current $73.71 (Robinhood/CNBC/Investing.com aggregate read) vs $74.45 (+4.26%, stockanalysis.com aggregate read) -- ~1.0% spread, PASS.",
+          "reasoning": "Affirm Holdings. Ranked #2: continuing strength off the fiscal Q4 beat ($1.17B revenue, GMV +36% YoY), up another ~4.3% today. Bank of America PT $104 (Buy) implies ~40% upside from today's entry; broader consensus (34 analysts) is Buy, avg PT $91.67 (+18%). INSTITUTIONAL SIGNAL (Q2 2026 13Fs, carried forward from prior runs): JPMorgan Chase added ~16.7M shares (~$1.36B), Sixth Street Partners added ~1.66M shares (~$135M). Ranked below RIOT because today's move is incremental continuation of a known catalyst rather than a new contract announcement."
+        }
+      ],
+      "sells": [],
+      "excluded_price_cross_ref_failure": [
+        {
+          "ticker": "HUT",
+          "note": "$81.00 (range $75.42-$81.50, CNN/Nasdaq/CNBC cluster) vs $86.84 (+4.01%, stockanalysis.com) -- ~7.2% spread, FAIL. Excluded from sizing this run."
+        },
+        {
+          "ticker": "GPRO",
+          "note": "Only one consistent number obtained ($1.50, prev close $1.69) despite active merger news ($285M Starman Optical deal, Markiplier 8.5% stake disclosure, +116% over 5 days) -- could not establish a second independent same-day figure distinct from the same cached read. Excluded from sizing this run pending a clean two-source print."
+        },
+        {
+          "ticker": "POET",
+          "note": "$7.81 (stockanalysis.com) vs $8.04 (CNBC) -- ~2.9% spread, just outside the ~1-2% tolerance. Excluded from sizing this run."
+        },
+        {
+          "ticker": "TE",
+          "note": "Reads ranged implausibly from $4.12 to $9.24 across sources -- likely a stale/mismatched data artifact on one side. Excluded from sizing this run."
+        },
+        {
+          "ticker": "QNRX",
+          "note": "No same-day (9/3) price found; most recent dated reads are from 9/2 ($6.51) and 7/17 ($4.24), not usable as a same-day print. Excluded from sizing again this run."
+        }
+      ]
     }
   ]
 }
