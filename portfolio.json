@@ -1811,6 +1811,82 @@
         }
       ],
       "notes": "No open holdings this run -- nothing to sell or mark-to-market. Total recommended buy cost $158.85 of $200.00 cash available (buffer $41.15)."
+    },
+    {
+      "timestamp": "2026-09-04T16:15:00-04:00",
+      "buys": [
+        {
+          "ticker": "HUT",
+          "qty": 1,
+          "price": 86.84,
+          "cost": 86.84,
+          "price_source": "web-search cross-referenced: $86.84 (+4.01%, stockanalysis.com-style aggregate read) vs $87.00 (day range $86.80-$89.55, Kraken/CNBC aggregate read) -- ~0.2% spread, PASS. Reflects Sept 4 2026 intraday trading; USD NASDAQ:HUT listing confirmed (excluded the CAD-denominated HUT.TO Toronto dual-listing at ~109.47 CAD, a currency/venue mismatch, same as prior runs).",
+          "reasoning": "Hut 8 Corp. Ranked #1: standing highest-conviction thesis continues to run -- Anthropic's confirmed $35B multi-year Lambda/Nvidia cloud-capacity deal routed through a Hut 8-built Texas data center, layered on the existing $9.8B/15-yr direct Anthropic Beacon Point lease (704MW). Stock has run from $76.80 (Sept 3 evening buy price) to $86.84 today (+13% in 2 sessions), so much of the near-term catalyst is now priced in -- ranked #1 on signal strength/institutional breadth despite the reduced margin of safety, not on today's price action alone. INSTITUTIONAL SIGNAL (Q2 2026 13Fs, standing signal carried forward): Coatue +9.72M sh, BlackRock new ~$1.09B stake, Third Point (Loeb) ~$40.8M new position, plus Wellington/Avala/Montanova new positions. Analyst consensus Strong Buy, 12-mo PT ~$161.78 implies still-substantial upside even after the run. Sized to 1 share given the higher entry price relative to the $200 budget."
+        },
+        {
+          "ticker": "RCAT",
+          "qty": 6,
+          "price": 8.36,
+          "cost": 50.16,
+          "price_source": "web-search cross-referenced: $8.40 (Robinhood aggregate read, day range $8.24-$8.82) vs $8.32 (+0.85%, second aggregate read) -- ~1% spread, PASS. Reflects Sept 4 2026 intraday trading.",
+          "reasoning": "Red Cat Holdings. Ranked #2: pure-play US drone maker directly benefiting from the new 100% tariff on imported drone components, a durable structural tailwind (not a one-day headline) advantaging US-based producers over Chinese incumbents (DJI). Q2 2026 revenue +520% YoY to $20.2M, guiding to $150-180M FY26 revenue. 8-analyst Strong Buy consensus, avg 12-month PT $16.75 (~100% upside from today's entry) -- the largest raw analyst-upside gap of any priced candidate this run. Institutional ownership ~38-51% with recent stake increases from Goldman Sachs and Mirae Asset; some insider selling over the past 90 days (~$5.3M) is a minor counter-signal but not thesis-breaking given the scale of the tariff catalyst. Price consistent with the Sept 4 morning buy ($8.35), no material move today -- re-buying to add to the position at essentially the same level."
+        },
+        {
+          "ticker": "UMAC",
+          "qty": 2,
+          "price": 26.29,
+          "cost": 52.58,
+          "price_source": "web-search cross-referenced: $26.10 vs $26.47, ~1.4% spread, PASS (specific quote-page aggregate reads). Reflects Sept 4 2026 intraday trading, up from the $24.50 morning-run entry.",
+          "reasoning": "Unusual Machines. Ranked #3: FPV/drone-components maker, same tariff-driven US-manufacturing tailwind as RCAT. INSTITUTIONAL SIGNAL (fresh this run): Vanguard lifted its stake +13.3%; BlueCrest Capital Management and Sei Investments both opened new positions last quarter -- genuine new-money accumulation, not just a standing signal. H.C. Wainwright initiated Buy, PT $42 (~60% upside from today's entry). Counter-signal: President Andrew Camden sold 100,000 shares (~$3M) in recent insider activity, though at a weighted price (~$30.05) above today's level, tempering but not negating the buy case. Ranked below HUT/RCAT because the insider selling is a fresher and more direct caution flag than either of the other two picks carries."
+        }
+      ],
+      "sells": [],
+      "excluded_price_cross_ref_failure": [
+        {
+          "ticker": "RIOT",
+          "note": "Three independent reads this run diverged widely and could not be reconciled: $18.99 (+1.91%), $19.92 (+6.90%), and $21.10 (+2.38%) -- an ~11% spread top-to-bottom with three different percent-change bases, suggesting at least one read is stale or mismatched. Excluding from sizing this run per RULES.md. Anthropic $9.1B/20-yr compute-lease thesis (Rockdale, TX, 191MW) remains the standing catalyst; re-check next run for a clean 2-source match."
+        },
+        {
+          "ticker": "BTDR",
+          "note": "Reads diverged sharply across searches this run: $9.14 (-15.9%), $9.39 (+2.85%), and $12.25 (day range $11.45-$12.46) -- a >30% top-to-bottom spread, far outside tolerance, vs. this morning's $11.20 buy price. Excluding from sizing this run per RULES.md pending a clean same-day cross-reference. 16-year, $4.7B AI/HPC hosting lease (Tydal, Norway) and Duquesne/Druckenmiller's fresh Q2 2026 13F stake remain the standing thesis."
+        },
+        {
+          "ticker": "CPRI",
+          "note": "Reads diverged this run: $12.78 (open) with day range $12.57-$13.32 vs a separate $13.61-$14.21 range -- ~5-7% spread, outside tolerance. Excluding from sizing this run per RULES.md vs. this morning's $13.15 buy price. Versace-sale-to-Prada balance-sheet thesis remains the standing catalyst; re-check next run."
+        }
+      ],
+      "watch_only_not_sized": [
+        {
+          "ticker": "GPRO",
+          "note": "Definitive $285M cash merger with Starman Optical confirmed ($1.14/sh cash + ~10% retained equity in combined AI/defense-optics company, debt-free balance sheet, expected close by end of 2026). Current price ~$1.63 is already trading ABOVE the $1.14 cash consideration, meaning the market has priced in more value than the deal's cash floor from the retained equity stake -- this is not a standard merger-arb discount-to-cash situation, so further upside is speculative rather than mechanical. Not sized this run; watch for confirmed terms on the retained-equity valuation."
+        },
+        {
+          "ticker": "MANE",
+          "note": "Veradermics -- hair-regrowth biotech, IPO'd Feb 2026 at $17, now cited near $97-100 (Citi PT raised to $160, Strong Buy consensus). Genuine momentum name but far too expensive for this $200 budget to size meaningfully; context/watch only, same treatment as PRAX."
+        },
+        {
+          "ticker": "GPUS",
+          "note": "Hyperscale Data -- penny stock (~$0.19, -3.6% today, -35% over the week) on a new AI-compute hosting MSA (20MW, expandable to 52MW, 10-yr term). Extremely thin ($26M market cap) and volatile; too speculative/illiquid to size responsibly even though nominally cheap. Watch only."
+        },
+        {
+          "ticker": "IMRN",
+          "note": "Immuron -- micro-cap biotech, +56% today to ~$1.74 on a new exclusive US distribution deal (Calmino group AB) for ProIBS, an IBS digestive-health product already established in Sweden/Australia. Fresh same-day catalyst but a single-source spike with no second cross-reference obtained yet and classic pump-risk profile for a name this small. Added to watchlist for next-run follow-up, not sized today."
+        },
+        {
+          "ticker": "AOUT",
+          "note": "American Outdoor Brands -- Q1 FY27 earnings beat ($0.03 EPS vs -$0.30 est.), revenue $37.25M beat, raised FY27 adjusted EBITDA guidance to $14.5-17.5M and revenue guidance up from $191-193M prior. Stock surged ~15-25% this week toward its 52-week high (~$14-15 area per pre-market commentary). No confirmed same-day 2-source price obtained yet -- added to watchlist for next-run pricing and possible buy if it holds above the breakout."
+        }
+      ],
+      "ranked_but_unfunded_by_current_cash": [
+        {
+          "ticker": "AFRM",
+          "qty": 1,
+          "price": 73.5,
+          "cost": 73.5,
+          "price_source": "web-search cross-referenced: $72.43 (+1.72%... base) vs $74.58 (+1.72%, second aggregate read) -- ~2.9% spread, PASS at edge of tolerance (consistent with prior runs' treatment of similar-sized AFRM spreads). Reflects Sept 4 2026 intraday trading.",
+          "reasoning": "Affirm Holdings. Ranked #4: continuing strength off the fiscal Q4 beat ($1.17B revenue, GMV +36% YoY). BofA PT $104 (Buy) implies ~41% upside; broader consensus (34 analysts) avg PT $91.67 (+25%). INSTITUTIONAL SIGNAL (Q2 2026 13Fs, standing signal): JPMorgan Chase added ~16.7M shares (~$1.36B), Sixth Street Partners added ~1.66M shares. Ranked #4 (below HUT/RCAT/UMAC) on lower relative analyst upside and a wider-than-usual price-cross-ref spread this run. NOT funded by remaining cash after HUT+RCAT+UMAC ($189.58 spent, $10.42 left) -- listed for ranking/optionality only; buying it this run would require skipping one of the top 3."
+        }
+      ]
     }
   ]
 }
