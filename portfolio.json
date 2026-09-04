@@ -1766,6 +1766,51 @@
           "note": "No same-day (9/3) price found; most recent dated reads are from 9/2 ($6.51) and 7/17 ($4.24), not usable as a same-day print. Excluded from sizing again this run."
         }
       ]
+    },
+    {
+      "timestamp": "2026-09-04T09:45:00-04:00",
+      "buys": [
+        {
+          "ticker": "RCAT",
+          "qty": 6,
+          "price": 8.35,
+          "cost": 50.1,
+          "price_source": "web-search cross-referenced: $8.35 (Morningstar, close Sept 2 2026) vs $8.32-8.34 (Robinhood/TradingView aggregate, Sept 3 2026) -- ~0.4% spread, PASS.",
+          "reasoning": "Red Cat Holdings. Ranked #1: pure-play drone maker directly benefiting from this week's new 100% tariff on imported drone components, advantaging US-based producers. Q2 2026 revenue +520% YoY to $20.2M, gross margin improving to 16%, guiding to $150-180M FY26 revenue. 8-analyst Strong Buy consensus, avg 12-month PT $16.75 (~100% upside from $8.35); Piper Sandler's lone Neutral call sets a $9 floor near current price, limiting near-term downside. Cleanest cross-referenced price of this run's picks."
+        },
+        {
+          "ticker": "BTDR",
+          "qty": 4,
+          "price": 11.2,
+          "cost": 44.8,
+          "price_source": "web-search cross-referenced: $11.33 (MarketBeat/Coinbase previous close) vs ~$11.10 (StockAnalysis.com consensus-implied from a stated +169% upside framing) -- ~2% spread, PASS (edge of tolerance).",
+          "reasoning": "Bitdeer Technologies. Ranked #2: bitcoin miner pivoting into AI/HPC colocation -- signed a 16-year, $4.7B AI/HPC hosting lease at its Tydal, Norway campus, and separately expanded Texas land holdings for AI infrastructure, a genuine new catalyst this week diversifying beyond pure bitcoin mining. 13 analysts Strong Buy, targets clustering $22-30 (Rosenblatt raised to $30 from $20 post-earnings on 315% YoY self-mining revenue growth). INSTITUTIONAL SIGNAL: Stanley Druckenmiller's Duquesne Family Office disclosed a brand-new Q2 2026 13F stake (4.1M shares, ~$64.7M) -- fresh smart-money entry into crypto-mining/AI-infra names."
+        },
+        {
+          "ticker": "UMAC",
+          "qty": 1,
+          "price": 24.5,
+          "cost": 24.5,
+          "price_source": "web-search cross-referenced: ~$24.46 (Morningstar/CNN aggregate, close Sept 3 2026) vs ~$24.65 (Motley Fool/Investing.com aggregate, close Sept 3 2026) -- ~1% spread, PASS; cross-checked against $1.22B market cap / 49.96M shares = ~$24.42.",
+          "reasoning": "Unusual Machines. Ranked #3: FPV drone-components maker, Q2 revenue +687% YoY to $16.7M, a finalist for the Pentagon's ~$1.1B 'Drone Dominance Phase 2' program, benefits from this week's drone-parts tariff, and just closed an $800K supply deal with Red Cat (RCAT, also bought this run). 8-analyst Strong Buy, avg PT $39 (+59%). Sized to just 1 share -- the stock has already run up hard, raising pullback risk relative to RCAT/BTDR."
+        },
+        {
+          "ticker": "CPRI",
+          "qty": 3,
+          "price": 13.15,
+          "cost": 39.45,
+          "price_source": "web-search cross-referenced: $13.12 (Investing.com, Sept 3 2026) vs $13.24 (WallStreetZen/CNN, Sept 3 2026) -- ~1% spread, PASS.",
+          "reasoning": "Capri Holdings. Ranked #4 (lowest conviction of this run's four picks): Michael Kors/Jimmy Choo owner closed its $1.375B Versace sale to Prada, strengthening the balance sheet, and is executing a Michael Kors turnaround (SKU rationalization, store-count cuts). Stock beaten down on an August guidance cut (inventory delays, soft handbag demand) -- JPMorgan upgraded to Overweight ($30-31 PT), Wells Fargo $30, TD Cowen Buy $26 (all imply 100%+ upside), but the recent guidance cut is a real execution-risk overhang that tempers conviction versus the drone names above."
+        }
+      ],
+      "sells": [],
+      "excluded_price_cross_ref_failure": [
+        {
+          "ticker": "WOOF",
+          "note": "Pre-earnings read $2.64-2.65 (Nasdaq/Morningstar, Sept 1) vs post-earnings intraday range $2.66-3.24 (Investing.com/StockTitan, Sept 2-3) -- spread as wide as ~20%, well outside tolerance following rapid post-earnings repricing. Genuinely positive catalyst (Q2 adj. EBITDA beat $122.2M vs $109.6M consensus, reaffirmed FY guidance) but excluded from sizing this run pending a clean two-source print."
+        }
+      ],
+      "notes": "No open holdings this run -- nothing to sell or mark-to-market. Total recommended buy cost $158.85 of $200.00 cash available (buffer $41.15)."
     }
   ]
 }

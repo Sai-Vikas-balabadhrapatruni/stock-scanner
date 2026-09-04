@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-03T16:15:00-04:00",
+  "last_updated": "2026-09-04T09:45:00-04:00",
   "candidates": [
     {
       "ticker": "ABCL",
@@ -125,9 +125,9 @@
     },
     {
       "ticker": "HOOD",
-      "note": "2026-09-03 MORNING RUN: single-source read $104.34 (-0.5%), insulated from the SOFI/AFRM yield-driven credit pressure due to its transaction-fee model. Too expensive for a full-share $200-budget buy this run. || PRIOR: 2026-08-13 EVENING RUN: continuing to surge -- Goldman price-target hike, Robinhood Ventures Fund II ($225.5M) IPO debut on NYSE, strong July metrics, and a technical 'Golden Cross' breakout above $100 all cited today. Not priced this run (likely well over $100/share; budget already committed to five other names). || PRIOR: Robinhood Markets. A director-affiliated fund (Meyer 'Micky' Malka) made a ~$20M open-market buy (249,000 sh @ avg $80.39/sh) on 2026-05-28 -- his first purchase after 18+ months of selling. 2026-08-03 EVENING RUN: price cleared cross-reference cleanly -- $86.56 (CNN) exact match vs $86.56 (TradingView); an Investing.com read of $92.15 was excluded as an outlier. NOT included in this run's buy list -- the insider signal is now ~2.5 months stale with nothing fresher found this run, and no new catalyst surfaced this week. Kept as a 'priced and ready' candidate for a future run with a fresher signal.",
+      "note": "2026-09-04 MORNING RUN: fresh catalyst -- Morgan Stanley upgraded to Overweight from Equal-weight, raised target to $150 from $124 (~43% implied upside), citing prediction-market revenue ($156M in Q2, more than stock trading or crypto revenue) as an underappreciated growth driver; second bullish sell-side call in two days. Price still well above $100/share -- too expensive to size meaningfully in this $200 run. || PRIOR: 2026-09-03 MORNING RUN: single-source read $104.34 (-0.5%), insulated from the SOFI/AFRM yield-driven credit pressure due to its transaction-fee model. Too expensive for a full-share $200-budget buy this run. || PRIOR: 2026-08-13 EVENING RUN: continuing to surge -- Goldman price-target hike, Robinhood Ventures Fund II ($225.5M) IPO debut on NYSE, strong July metrics, and a technical 'Golden Cross' breakout above $100 all cited today. Not priced this run (likely well over $100/share; budget already committed to five other names). || PRIOR: Robinhood Markets. A director-affiliated fund (Meyer 'Micky' Malka) made a ~$20M open-market buy (249,000 sh @ avg $80.39/sh) on 2026-05-28 -- his first purchase after 18+ months of selling. 2026-08-03 EVENING RUN: price cleared cross-reference cleanly -- $86.56 (CNN) exact match vs $86.56 (TradingView); an Investing.com read of $92.15 was excluded as an outlier. NOT included in this run's buy list -- the insider signal is now ~2.5 months stale with nothing fresher found this run, and no new catalyst surfaced this week. Kept as a 'priced and ready' candidate for a future run with a fresher signal.",
       "last_seen_price": 104.34,
-      "last_updated": "2026-09-03T09:45:00-04:00"
+      "last_updated": "2026-09-04T09:45:00-04:00"
     },
     {
       "ticker": "CAG",
@@ -453,8 +453,9 @@
     },
     {
       "ticker": "DAL",
-      "note": "2026-08-28 EVENING RUN: institutional signal reaffirmed -- Berkshire Hathaway's Q2 2026 13F confirms an increased Delta Air Lines stake (alongside Macy's/Lennar/D.R. Horton/NYT adds). Not priced this run. || PRIOR: 2026-08-20 EVENING RUN: INSTITUTIONAL SIGNAL: Berkshire Hathaway added 17.5M Delta Air Lines shares (~$1.4B) in Q2 2026. Not priced this run. || PRIOR: NEW 2026-08-12 MORNING RUN: Delta Air Lines. Berkshire Hathaway's boldest new Q1 2026 13F position (~$2.6B new stake, filed 5/15/26), paired with a 96% bullish analyst consensus (25 buy vs. 1 sell per 24/7 Wall St). Price ~$90.77 (Aug 11 close), cross-referenced against an intraday range of $89.51-91.91 and a $91.44 after-hours read (same cluster; an earlier stray $81.33 read was excluded as inconsistent with every other source). NOT bought this run -- at ~$91/share it would consume nearly half the $200 budget for a lower-beta, lower-expected-return name relative to today's other candidates. Watching for a pullback or smaller-lot opportunity.",
-      "last_updated": "2026-08-28T16:15:00-04:00"
+      "note": "2026-09-04 MORNING RUN: institutional signal reconfirmed -- Berkshire Hathaway's Q2 2026 13F showed a 44% increase to its Delta stake (ownership 6.1%->8.7%, ~57.3M shares worth ~$5.4B), part of Berkshire's first net-buying quarter of equities in 14 quarters. Price ~$81-85 (Aug 28 quote, no fresher same-day cross-check found this run) -- too pricey to size meaningfully in a $200 budget; watch only. Analyst mean target ~$105 (~28% upside). || PRIOR: 2026-08-28 EVENING RUN: institutional signal reaffirmed -- Berkshire Hathaway's Q2 2026 13F confirms an increased Delta Air Lines stake (alongside Macy's/Lennar/D.R. Horton/NYT adds). Not priced this run. || PRIOR: 2026-08-20 EVENING RUN: INSTITUTIONAL SIGNAL: Berkshire Hathaway added 17.5M Delta Air Lines shares (~$1.4B) in Q2 2026. Not priced this run. || PRIOR: NEW 2026-08-12 MORNING RUN: Delta Air Lines. Berkshire Hathaway's boldest new Q1 2026 13F position (~$2.6B new stake, filed 5/15/26), paired with a 96% bullish analyst consensus (25 buy vs. 1 sell per 24/7 Wall St). Price ~$90.77 (Aug 11 close), cross-referenced against an intraday range of $89.51-91.91 and a $91.44 after-hours read (same cluster; an earlier stray $81.33 read was excluded as inconsistent with every other source). NOT bought this run -- at ~$91/share it would consume nearly half the $200 budget for a lower-beta, lower-expected-return name relative to today's other candidates. Watching for a pullback or smaller-lot opportunity.",
+      "last_updated": "2026-09-04T09:45:00-04:00",
+      "last_seen_price": 81.45
     },
     {
       "ticker": "MSFT",
@@ -527,7 +528,8 @@
     },
     {
       "ticker": "WDAY",
-      "note": "2026-08-13 EVENING RUN: New candidate, NOT bought. Workday Inc, +18% today on dueling analyst moves -- Wells Fargo (PT $215, Overweight) and Monness Crespi Hardt (PT $202, Buy) upgrades citing AI/cloud-ERP demand, vs a same-day Morgan Stanley downgrade to Underweight (PT $145). At >$200/share, not affordable for a meaningful position on this $200 budget."
+      "note": "2026-09-04 MORNING RUN: fresh catalyst reconfirmed -- shares jumped ~6% this week on a Q2 beat (adj. EPS $2.75 vs $2.61 est., revenue $2.65B vs $2.64B est.); reinforces existing bullish thesis. No new same-day price cross-check obtained this run (>$200/share, too expensive for this budget). || PRIOR: 2026-08-13 EVENING RUN: New candidate, NOT bought. Workday Inc, +18% today on dueling analyst moves -- Wells Fargo (PT $215, Overweight) and Monness Crespi Hardt (PT $202, Buy) upgrades citing AI/cloud-ERP demand, vs a same-day Morgan Stanley downgrade to Underweight (PT $145). At >$200/share, not affordable for a meaningful position on this $200 budget.",
+      "last_updated": "2026-09-04T09:45:00-04:00"
     },
     {
       "ticker": "ARX",
@@ -683,7 +685,9 @@
     },
     {
       "ticker": "RCAT",
-      "note": "2026-08-19 MORNING RUN: EXCLUDED -- price failed cross-reference. Reads this run spanned $10.06-$11.44 across sources (>10% spread, far outside the ~1-2% tolerance), with some quotes dated Aug 14 mixed into current search results. Thesis (Section 232 drone tariffs up to 100% on imports, benefiting the US-domestic drone maker) remains intact -- re-check price cleanly next run before sizing. || PRIOR: 2026-08-18 EVENING RUN: RECOMMENDED BUY (ranked #2) 7 sh @ $10.06. Price re-confirmed twice today (two separate WebSearch pulls both returned $10.06); one pull's stated intraday range ($10.24-$11.11) is inconsistent with the $10.06 print itself (likely a stale-range data artifact) so sized using the repeatedly-confirmed $10.06 figure. Fresh catalyst since this morning: Teal Drones (Red Cat subsidiary) awarded a $2.49M USAF Security Forces Center contract for Black Widow drones (delivery due Aug 24) -- second government catalyst this week, reinforcing the defense-demand thesis alongside the maritime Blue Ops/Havoc partnership noted this morning."
+      "note": "2026-09-04 MORNING RUN: BUY (ranked #1) 6 sh @ $8.35. Price cleared cross-reference: $8.35 (Morningstar, close Sept 2) vs $8.32-8.34 (Robinhood/TradingView, Sept 3), ~0.4% spread, PASS. Drone maker benefiting from this week's new 100% tariff on imported drone components; Q2 2026 revenue +520% YoY to $20.2M, gross margin improving to 16%, guiding to $150-180M FY26 revenue. 8-analyst Strong Buy consensus, avg PT $16.75 (~100% upside). || PRIOR: 2026-08-19 MORNING RUN: EXCLUDED -- price failed cross-reference. Reads this run spanned $10.06-$11.44 across sources (>10% spread, far outside the ~1-2% tolerance), with some quotes dated Aug 14 mixed into current search results. Thesis (Section 232 drone tariffs up to 100% on imports, benefiting the US-domestic drone maker) remains intact -- re-check price cleanly next run before sizing. || PRIOR: 2026-08-18 EVENING RUN: RECOMMENDED BUY (ranked #2) 7 sh @ $10.06. Price re-confirmed twice today (two separate WebSearch pulls both returned $10.06); one pull's stated intraday range ($10.24-$11.11) is inconsistent with the $10.06 print itself (likely a stale-range data artifact) so sized using the repeatedly-confirmed $10.06 figure. Fresh catalyst since this morning: Teal Drones (Red Cat subsidiary) awarded a $2.49M USAF Security Forces Center contract for Black Widow drones (delivery due Aug 24) -- second government catalyst this week, reinforcing the defense-demand thesis alongside the maritime Blue Ops/Havoc partnership noted this morning.",
+      "last_updated": "2026-09-04T09:45:00-04:00",
+      "last_seen_price": 8.35
     },
     {
       "ticker": "FOXA",
@@ -910,9 +914,9 @@
     },
     {
       "ticker": "BTDR",
-      "note": "2026-09-03 MORNING RUN: conflicting reads spanning $7.06-$10.75 (~50% spread) -- flagged unreliable again; re-check next run. || PRIOR: 2026-08-31 MORNING RUN: EXCLUDED on price -- sources span $8.56-$10.32 across dated snapshots (stockanalysis.com $9.13 close 8/14; Morningstar/GuruFocus-derived ~$10.32 close 8/28; Yahoo $8.56; Benzinga $8.70-$9.09 after a Q2 earnings miss triggered a ~20% single-day crash) -- well outside tolerance, genuinely volatile post-earnings rather than a clean cross-reference. Excluding from sizing this run. AI Cloud ARR growth (+77% QoQ), the $4.7B/16-yr Norway AI colocation lease, and Barclays' Overweight/$15 PT initiation remain the standing thesis for whenever a clean quote is available. || PRIOR: 2026-08-27 EVENING RUN: still excluded from sizing -- price reads spanned $8.93-$10.58 across sources (one page alone showed both -15.9%-to-$9.14 and +9.9%-to-$10.58 in different sections), too wide to establish a reliable print. Druckenmiller's (Duquesne) new stake remains the standing institutional signal; revisit once a clean two-source read is available. || PRIOR: 2026-08-26 EVENING RUN: NEW CANDIDATE, not priced/bought this run. INSTITUTIONAL SIGNAL: Stanley Druckenmiller (Duquesne) disclosed a new $64.7M stake in Q2 2026 13F (4.1M shares, avg cost $12.26), one of his two named top picks alongside Hyperliquid; Jane Street and Citadel also both increased BTDR holdings in the same quarter -- a real multi-manager accumulation signal, and notably at a cost basis far below where the stock trades now. Price read ~$25.22 (-2.63%, single source only this run, not yet cross-referenced against a second independent source -- needs confirmation before sizing). Caution flag: the cited 12-month analyst consensus PT ($21.77, Strong Buy rating) is BELOW the current price, an internally inconsistent signal worth resolving before buying. Bitcoin miner pivoting into AI/HPC infrastructure (16-year, $4.7B AI hosting deal for 121MW at Norway's Tydal campus; Nevada Sealminer plant under construction). Revisit next run with a second price source and a cleaner read on the PT discrepancy.",
-      "last_updated": "2026-09-03T09:45:00-04:00",
-      "last_seen_price": 9
+      "note": "2026-09-04 MORNING RUN: BUY (ranked #2) 4 sh @ $11.20. Price: $11.33 (MarketBeat/Coinbase previous close) vs ~$11.10 (StockAnalysis.com consensus-implied from +169% upside framing), ~2% spread. Bitcoin miner pivoting into AI/HPC colocation -- signed a 16-year, $4.7B AI/HPC hosting lease at its Tydal, Norway campus, and expanded Texas land holdings for AI infrastructure. 13 analysts Strong Buy, targets clustering $22-30 (Rosenblatt raised to $30 from $20 post-earnings on 315% YoY self-mining revenue growth). INSTITUTIONAL SIGNAL: Stanley Druckenmiller's Duquesne Family Office disclosed a brand-new Q2 2026 13F stake (4.1M shares, ~$64.7M) alongside a new Hyperliquid Strategies position -- fresh smart-money entry. || PRIOR: 2026-09-03 MORNING RUN: conflicting reads spanning $7.06-$10.75 (~50% spread) -- flagged unreliable again; re-check next run. || PRIOR: 2026-08-31 MORNING RUN: EXCLUDED on price -- sources span $8.56-$10.32 across dated snapshots (stockanalysis.com $9.13 close 8/14; Morningstar/GuruFocus-derived ~$10.32 close 8/28; Yahoo $8.56; Benzinga $8.70-$9.09 after a Q2 earnings miss triggered a ~20% single-day crash) -- well outside tolerance, genuinely volatile post-earnings rather than a clean cross-reference. Excluding from sizing this run. AI Cloud ARR growth (+77% QoQ), the $4.7B/16-yr Norway AI colocation lease, and Barclays' Overweight/$15 PT initiation remain the standing thesis for whenever a clean quote is available. || PRIOR: 2026-08-27 EVENING RUN: still excluded from sizing -- price reads spanned $8.93-$10.58 across sources (one page alone showed both -15.9%-to-$9.14 and +9.9%-to-$10.58 in different sections), too wide to establish a reliable print. Druckenmiller's (Duquesne) new stake remains the standing institutional signal; revisit once a clean two-source read is available. || PRIOR: 2026-08-26 EVENING RUN: NEW CANDIDATE, not priced/bought this run. INSTITUTIONAL SIGNAL: Stanley Druckenmiller (Duquesne) disclosed a new $64.7M stake in Q2 2026 13F (4.1M shares, avg cost $12.26), one of his two named top picks alongside Hyperliquid; Jane Street and Citadel also both increased BTDR holdings in the same quarter -- a real multi-manager accumulation signal, and notably at a cost basis far below where the stock trades now. Price read ~$25.22 (-2.63%, single source only this run, not yet cross-referenced against a second independent source -- needs confirmation before sizing). Caution flag: the cited 12-month analyst consensus PT ($21.77, Strong Buy rating) is BELOW the current price, an internally inconsistent signal worth resolving before buying. Bitcoin miner pivoting into AI/HPC infrastructure (16-year, $4.7B AI hosting deal for 121MW at Norway's Tydal campus; Nevada Sealminer plant under construction). Revisit next run with a second price source and a cleaner read on the PT discrepancy.",
+      "last_updated": "2026-09-04T09:45:00-04:00",
+      "last_seen_price": 11.2
     },
     {
       "ticker": "XPON",
@@ -991,8 +995,8 @@
     },
     {
       "ticker": "WOOF",
-      "note": "2026-08-31 MORNING RUN: NEW candidate, not priced this run. Petco. +4.9% on 8/31 (today) on turnaround optimism / pet-retail sentiment shift. Flagged as a weak, broad-sentiment catalyst rather than a hard company-specific event -- lower conviction than other names on today's list; would need a specific catalyst (earnings, guidance, activist involvement) before treating as a real candidate. Very cheap (low single digits per research context), which is the main reason it's worth tracking at all for a small budget.",
-      "last_updated": "2026-08-31T09:45:00-04:00"
+      "note": "2026-09-04 MORNING RUN: EXCLUDED on price-reliability grounds -- pre-earnings read $2.64-2.65 (Nasdaq/Morningstar, Sept 1) vs post-earnings intraday range $2.66-3.24 (Investing.com/StockTitan, Sept 2-3), spread as wide as ~20%, well outside the ~1-2% tolerance following the rapid post-earnings repricing. Underlying catalyst genuinely positive -- Q2 adj. EBITDA beat ($122.2M vs $109.6M consensus), GAAP EPS beat ($0.13 vs ~$0.05 prior year), nearly doubled operating cash flow, reaffirmed FY EBITDA guidance $415-430M, stock popped up to +20% intraday this week. Analyst target ~$3.54-3.75 (+30-36% from the ~$2.75 midpoint). Re-check next run once the post-earnings price settles into a cleaner cross-reference. || PRIOR: 2026-08-31 MORNING RUN: NEW candidate, not priced this run. Petco. +4.9% on 8/31 (today) on turnaround optimism / pet-retail sentiment shift. Flagged as a weak, broad-sentiment catalyst rather than a hard company-specific event -- lower conviction than other names on today's list; would need a specific catalyst (earnings, guidance, activist involvement) before treating as a real candidate. Very cheap (low single digits per research context), which is the main reason it's worth tracking at all for a small budget.",
+      "last_updated": "2026-09-04T09:45:00-04:00"
     },
     {
       "ticker": "CCJ",
@@ -1110,9 +1114,9 @@
     },
     {
       "ticker": "SNOW",
-      "note": "2026-09-03 MORNING RUN: NEW. Q2 beat + raised FY guidance -- EPS $0.62 vs $0.45 est, revenue $1.55B vs $1.48B est (+35% YoY); stock +23-24% premarket on 9/3 (CNBC/Yahoo, two sources agreeing on the move magnitude, exact $ price not confirmed). Likely well above $100/share -- too expensive for the $200 budget, but the rally lifted software peers (DDOG +5%, NOW +3%, CRM +1.5%, all already/newly on this watchlist). Added for visibility, not a near-term buy candidate given price.",
+      "note": "2026-09-04 MORNING RUN: fresh catalyst reconfirmed -- shares surged 20%+ this week after a Q2 beat (adj. EPS $0.62 vs consensus, revenue $1.55B); reinforces existing bullish thesis. No new same-day price cross-check obtained this run (likely well above $100/share, too expensive for this $200 budget regardless). || PRIOR: 2026-09-03 MORNING RUN: NEW. Q2 beat + raised FY guidance -- EPS $0.62 vs $0.45 est, revenue $1.55B vs $1.48B est (+35% YoY); stock +23-24% premarket on 9/3 (CNBC/Yahoo, two sources agreeing on the move magnitude, exact $ price not confirmed). Likely well above $100/share -- too expensive for the $200 budget, but the rally lifted software peers (DDOG +5%, NOW +3%, CRM +1.5%, all already/newly on this watchlist). Added for visibility, not a near-term buy candidate given price.",
       "last_seen_price": null,
-      "last_updated": "2026-09-03T09:45:00-04:00"
+      "last_updated": "2026-09-04T09:45:00-04:00"
     },
     {
       "ticker": "TLYS",
@@ -1143,6 +1147,54 @@
       "note": "2026-09-03 EVENING RUN: NEW. Fiscal Q2 FY27 beat -- $286.3M revenue, non-GAAP EPS $0.24, raised FY27 guidance on AI-driven demand (Flex product, hybrid seat/consumption model). Stock +12.81% to $50.82 (range $50.20-55.38, prev close $45.05) -- single-source read only (investing.com/stockanalysis.com aggregate), no independent second print obtained this run, so not sized/bought. Consensus 'Buy' (27 analysts) but avg 12-mo PT $52.14 is only marginally above today's price -- limited analyst-implied upside despite the beat, worth noting as a check on conviction. Re-check next run for a cross-referenced price before considering a buy.",
       "last_seen_price": 50.82,
       "last_updated": "2026-09-03T16:15:00-04:00"
+    },
+    {
+      "ticker": "UMAC",
+      "note": "2026-09-04 MORNING RUN: NEW CANDIDATE, BUY (ranked #3) 1 sh @ $24.50. Price: ~$24.46 (Morningstar/CNN aggregate, close Sept 3) vs ~$24.65 (Motley Fool/Investing.com aggregate, close Sept 3), ~1% spread, PASS; cross-checked against $1.22B market cap / 49.96M shares = ~$24.42. Unusual Machines (FPV drone components) crushed Q2 estimates with 687% YoY revenue growth to $16.7M; finalist for the Pentagon's ~$1.1B 'Drone Dominance Phase 2' program; benefits from this week's 100% drone-parts tariff; closed an $800K supply deal with Red Cat (RCAT); pending Upgrade Energy acquisition closing Q3 2026. 8-analyst Strong Buy, avg PT $39 (+59%). Sized smaller than RCAT/BTDR given the stock has already run up hard, raising pullback risk.",
+      "last_seen_price": 24.5,
+      "last_updated": "2026-09-04T09:45:00-04:00"
+    },
+    {
+      "ticker": "CPRI",
+      "note": "2026-09-04 MORNING RUN: NEW CANDIDATE, BUY (ranked #4) 3 sh @ $13.15. Price: $13.12 (Investing.com, Sept 3) vs $13.24 (WallStreetZen/CNN, Sept 3), ~1% spread, PASS. Capri Holdings (Michael Kors, Jimmy Choo) closed its $1.375B Versace sale to Prada, strengthening the balance sheet; executing a Michael Kors turnaround (SKU rationalization, store count cuts). Stock beaten down on an August guidance cut (inventory delays, soft handbag demand) -- real execution risk tempers conviction despite large analyst gap: JPMorgan upgraded to Overweight ($30-31 PT), Wells Fargo $30, TD Cowen Buy $26 (all imply 100%+ upside).",
+      "last_seen_price": 13.15,
+      "last_updated": "2026-09-04T09:45:00-04:00"
+    },
+    {
+      "ticker": "KTOS",
+      "note": "2026-09-04 MORNING RUN: NEW CANDIDATE, not bought this run. Kratos Defense -- directed-energy/laser-weapons momentum theme (peer AVAV won a $464.8M Army laser award this week), but KTOS itself is down 37% YTD and Stifel/Truist just cut targets (to $115 from $134, and $104 from $135 respectively) despite maintaining Buy ratings. Price $48.10-48.15 (two aggregator sources, ~0.1% spread, PASS) but skipped from this run's buy list on negative price momentum and budget constraints; still large implied upside if targets hold.",
+      "last_seen_price": 48.15,
+      "last_updated": "2026-09-04T09:45:00-04:00"
+    },
+    {
+      "ticker": "FI",
+      "note": "2026-09-04 MORNING RUN: NEW watchlist entry, caution flag (not a buy candidate). Fiserv (ticker FI, formerly FISV) slashed 2026 guidance on Aug 6 (organic revenue growth cut to -1%/flat from 1-3%, EPS guide cut to $7.20-7.40 from $8-8.30) after a 26% YoY adjusted EPS decline; shares plunged toward 52-week lows near $47-48. Price ~$52.00 (Investing.com/Robinhood, previous close $51.98). Negative momentum -- watch for stabilization only.",
+      "last_seen_price": 52.0,
+      "last_updated": "2026-09-04T09:45:00-04:00"
+    },
+    {
+      "ticker": "MBRX",
+      "note": "2026-09-04 MORNING RUN: NEW speculative candidate, penny stock, not bought. Moleculin Biotech has a September 2026 readout expected for Annamycin in relapsed/refractory AML (Phase III MIRACLE trial). Price ~$0.64 (MacroTrends/Investing.com aggregate, close Aug 31). Single-analyst Strong Buy with $3 target implies huge % upside, but this is a micro-cap with a recent $9.3M dilutive equity raise (Aug 3) -- high dilution/binary-catalyst risk, not sized this run.",
+      "last_seen_price": 0.64,
+      "last_updated": "2026-09-04T09:45:00-04:00"
+    },
+    {
+      "ticker": "GOSS",
+      "note": "2026-09-04 MORNING RUN: NEW speculative candidate, penny stock, not bought. Gossamer Bio on track to file its seralutinib NDA (pulmonary arterial hypertension) in September 2026 after reacquiring full rights from Chiesi; tied to a structured $250M financing where ~$125M unlocks only on FDA NDA acceptance and ~$100M more on approval. Price ~$0.175 (Simply Wall St, Aug 24) -- extremely speculative/dilution-exposed, not sized as a buy.",
+      "last_seen_price": 0.175,
+      "last_updated": "2026-09-04T09:45:00-04:00"
+    },
+    {
+      "ticker": "LEU",
+      "note": "2026-09-04 MORNING RUN: NEW candidate, context/watch only -- too expensive for this budget. Centrus Energy signed a new HALEU/LEU enrichment supply deal with X-energy (X-energy prepaying to fund Centrus's Oak Ridge centrifuge expansion) and is in the running for a ~$900M DOE HALEU award. Price ~$168-171 (Investing.com/StockAnalysis aggregate, close Sept 2). Priced out of a meaningful $200 allocation.",
+      "last_seen_price": 171.24,
+      "last_updated": "2026-09-04T09:45:00-04:00"
+    },
+    {
+      "ticker": "PRAX",
+      "note": "2026-09-04 MORNING RUN: existing-sector biotech, context/watch only -- too expensive for this budget. Praxis Precision's FDA decision on relutrigine (DEE epilepsy) pushed back to Dec 27, 2026 from the original Sept 27, 2026 PDUFA date (3-month extension). Price ~$374-377 (Investing.com/CNN aggregate). Far too expensive for this $200 budget; watch only.",
+      "last_seen_price": 374.49,
+      "last_updated": "2026-09-04T09:45:00-04:00"
     }
   ],
   "note": "This is a GROWING candidate universe, not overwritten each run: new high-growth names are added over time and existing entries get their notes/prices refreshed, per RULES.md. Not user-curated. Every open holding must always appear here too. All prices are WebSearch-sourced and cross-referenced across independent sources -- never exchange-API-verified; no TipRanks or Alpha Vantage is used in this project."
