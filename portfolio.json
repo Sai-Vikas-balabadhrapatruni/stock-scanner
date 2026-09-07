@@ -1934,6 +1934,69 @@
       ],
       "sells": [],
       "note": "US markets closed today for Labor Day (confirmed via WebSearch); no new trading session since Friday 9/4 close. All prices above are Friday's confirmed close, cross-referenced across two independent sources per RULES.md, carried forward since no fresher print exists. Zero open holdings currently, so no mark-to-market updates and no sell candidates this run. Funded buys (ATRA+RCAT+UMAC) total $141.78, within the $200 cash cap with a $58.22 buffer; AFRM/HUT ranked but unfunded this run per the cash cap."
+    },
+    {
+      "timestamp": "2026-09-07T16:15:00-04:00",
+      "buys": [
+        {
+          "ticker": "RCAT",
+          "qty": 6,
+          "price": 8.36,
+          "rank": 1,
+          "funded": true,
+          "reasoning": "Ranked #1 this run (up from #2 this morning): highest raw analyst-upside of the funded picks -- Strong Buy consensus, avg PT $16.75 (~100% upside) -- on the durable 100%-tariff-on-imported-drone-components thesis (structural, not one-day headline) advantaging US-based producers over DJI. Institutional buying (Goldman Sachs, Mirae Asset stake increases) stands. Price: Friday 9/4 close $8.36, cross-referenced $8.40 (day range $8.24-$8.82) vs $8.32 (+0.85%), ~1% spread, PASS -- carried forward, no new session today (Labor Day)."
+        },
+        {
+          "ticker": "IREN",
+          "qty": 1,
+          "price": 44.68,
+          "rank": 2,
+          "funded": true,
+          "reasoning": "NEW BUY this run -- IREN has failed price cross-reference on every prior run this challenge (spreads of 4%+ from syndicated/duplicate sources); today two independent reads (a direct Sept 4 2026 closing-price search and a separate CNBC/StockAnalysis-sourced quote) both converged on $44.68 (+7.27%/+7.55%), a clean PASS for the first time. Thesis: AI-cloud pivot from bitcoin mining -- $19B in funding secured, $4B ARR contracted for FY26 ($1B already operating), guiding $25-30B FY27 capex; 17-analyst Buy consensus, 12-month PT $77.84 (~74% upside). Risk flag: stock is already ~50% off its July 29 bottom, so some of the catalyst is priced in -- ranked #2, not #1, on that basis. Not an open holding (would be a fresh position)."
+        },
+        {
+          "ticker": "UMAC",
+          "qty": 2,
+          "price": 26.29,
+          "rank": 3,
+          "funded": true,
+          "reasoning": "Fresh institutional signal carried from Friday: Vanguard lifted stake +13.3%; BlueCrest Capital Management and Sei Investments opened new positions last quarter; H.C. Wainwright initiated Buy, PT $42 (~60% upside). Pentagon 'Drone Dominance Phase 2' finalist (~$1.1B program) and an $800K RCAT supply deal remain the catalyst. Minor counter-signal: insider sale by President Andrew Camden (100,000 sh, ~$3M at ~$30.05, above current price). Price: Friday 9/4 close $26.29, cross-referenced $26.10 vs $26.47, ~1.4% spread, PASS -- carried forward, no new session today (Labor Day)."
+        },
+        {
+          "ticker": "ATRA",
+          "qty": 4,
+          "price": 9.76,
+          "rank": 4,
+          "funded": true,
+          "reasoning": "Fresh same-day insider buy (Director Brian N. Cherry, 104,166 sh / ~$1.0M at $9.60 on 9/4/2026); Moderate Buy consensus, PT $13.00 (~33% upside) -- the lowest raw upside % of the four funded picks, so ranked #4, but remains the cheapest per-share pick and most capital-efficient use of the budget. Price: Friday 9/4 close $9.76, cross-referenced CNN Markets vs TradingView (agree, PASS) -- carried forward, no new session today (Labor Day)."
+        },
+        {
+          "ticker": "AFRM",
+          "qty": 1,
+          "price": 73.5,
+          "rank": 5,
+          "funded": false,
+          "reasoning": "Listed for ranking/optionality only -- NOT funded this run (RCAT+IREN+UMAC+ATRA = $186.46 already allocated, leaving only $13.54, insufficient for a $73.50 share). BofA PT $104 (~41% upside), consensus avg PT $91.67; institutional adds from JPMorgan Chase (+16.7M sh, ~$1.36B) and Sixth Street Partners. Price: Friday 9/4 close $73.50, cross-referenced $72.43 vs $74.58 (~2.9% spread, PASS at edge of tolerance) -- carried forward, no new session today (Labor Day)."
+        },
+        {
+          "ticker": "HUT",
+          "qty": 1,
+          "price": 86.84,
+          "rank": 6,
+          "funded": false,
+          "reasoning": "Listed for ranking/optionality only -- NOT funded this run (cash-constrained behind higher-ranked picks). Strong institutional breadth (Coatue, BlackRock, Third Point, Wellington) and the $35B Anthropic/Lambda/Nvidia compute deal, but stock is +13% over the last 2 sessions (9/3-9/4) -- much of the catalyst already priced in, hence low rank. Price: Friday 9/4 close $86.84, cross-referenced $86.84 (+4.01%) vs $87.00 (day range $86.80-$89.55), ~0.2% spread, PASS -- carried forward, no new session today (Labor Day)."
+        },
+        {
+          "ticker": "AXTI",
+          "qty": 1,
+          "price": 61.8,
+          "rank": 7,
+          "funded": false,
+          "reasoning": "NEW BUY (unfunded) this run -- AXT Inc, indium phosphide/gallium arsenide substrate maker on Goldman's list of AI-infrastructure names both hedge funds and mutual funds added to in Q2 2026. Record Q2 2026 revenue $47.6M (+164% YoY), backlog >$100M. 5-analyst Buy consensus, PT $91.60 (~48% upside from ~$61.8). Price cross-ref: $61.965 (day range $56.01-$62.43, prev close $56.20) vs $61.64 (+9.68%, prev close ~$56.20) -- ~0.5% spread, PASS, but flagged with extra caution: AXTI has failed genuine independent cross-reference on nearly every prior run this challenge (often two hits tracing to the same syndicated article) and its 52-week range ($2.98-$143.16) shows extreme volatility. Not funded (cash exhausted by higher ranks) and would be sized small even if it were, given the reliability history and volatility."
+        }
+      ],
+      "sells": [],
+      "note": "US markets closed today for Labor Day (confirmed via WebSearch); no new trading session since Friday 9/4 close (same holiday as this morning's run) -- prices for repeat names are carried forward from the confirmed Friday close, cross-referenced across two independent sources per RULES.md. Two names got a clean cross-reference for the first time in a while and were added: IREN (funded, first-ever PASS on this ticker this challenge) and AXTI (unfunded, first clean PASS but treated cautiously given its history of unreliable cross-sourcing). ENOV (Enovis) was researched on a dual-insider-buy signal (CEO + CAO both bought 9/2-9/4) but EXCLUDED from pricing this run -- searches returned materially conflicting prices ($18.56 'near 52-week low' vs a separate $30.18 last-close figure, >60% apart), a clear cross-reference failure; carried on the watchlist for a cleaner look next run. Funded buys (RCAT+IREN+UMAC+ATRA) total $186.46 of the $200 cash cap, leaving a $13.54 buffer; AFRM/HUT/AXTI ranked but unfunded this run. Zero open holdings currently (no trade has ever been executed/reported across 58 prior runs), so no mark-to-market updates and no sell candidates. REMINDER: challenge window (challenge_start 2026-07-31 to challenge_end 2026-08-30) remains ELAPSED -- today is 8 days past challenge_end with zero trades ever reported/executed; cash is still the untouched $200 starting balance. Flagging again since it's been several runs since this was last restated."
     }
   ]
 }
