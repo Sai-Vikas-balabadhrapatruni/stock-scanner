@@ -1887,6 +1887,53 @@
           "reasoning": "Affirm Holdings. Ranked #4: continuing strength off the fiscal Q4 beat ($1.17B revenue, GMV +36% YoY). BofA PT $104 (Buy) implies ~41% upside; broader consensus (34 analysts) avg PT $91.67 (+25%). INSTITUTIONAL SIGNAL (Q2 2026 13Fs, standing signal): JPMorgan Chase added ~16.7M shares (~$1.36B), Sixth Street Partners added ~1.66M shares. Ranked #4 (below HUT/RCAT/UMAC) on lower relative analyst upside and a wider-than-usual price-cross-ref spread this run. NOT funded by remaining cash after HUT+RCAT+UMAC ($189.58 spent, $10.42 left) -- listed for ranking/optionality only; buying it this run would require skipping one of the top 3."
         }
       ]
+    },
+    {
+      "timestamp": "2026-09-07T09:45:00-04:00",
+      "buys": [
+        {
+          "ticker": "ATRA",
+          "qty": 4,
+          "price": 9.76,
+          "rank": 1,
+          "funded": true,
+          "reasoning": "Fresh same-day insider buy (Director Brian N. Cherry, 104,166 sh / ~$1.0M at $9.60 on 9/4/2026) just below Friday's close; Moderate Buy consensus, PT $13.00 (~33% upside). Cheapest per-share pick this run -- most capital-efficient use of the $200 budget. Price: Friday 9/4 close $9.76, cross-referenced CNN Markets vs TradingView (agree, PASS). Market closed today (Labor Day) -- no fresher session available."
+        },
+        {
+          "ticker": "RCAT",
+          "qty": 6,
+          "price": 8.36,
+          "rank": 2,
+          "funded": true,
+          "reasoning": "Tariff-on-imported-drone-components thesis; Strong Buy consensus, avg PT $16.75 (~100% upside); institutional buying (Goldman Sachs, Mirae Asset stake increases). Price: Friday 9/4 close $8.36, cross-referenced $8.40 (day range $8.24-$8.82) vs $8.32 (+0.85%), ~1% spread, PASS (established 9/4 evening run; no new session today, Labor Day)."
+        },
+        {
+          "ticker": "UMAC",
+          "qty": 2,
+          "price": 26.29,
+          "rank": 3,
+          "funded": true,
+          "reasoning": "Fresh institutional signal: Vanguard lifted stake +13.3%; BlueCrest Capital Management and Sei Investments opened new positions last quarter; H.C. Wainwright initiated Buy, PT $42 (~60% upside). Minor counter-signal: insider sale by President Andrew Camden (100,000 sh, ~$3M at ~$30.05, above current price). Price: Friday 9/4 close $26.29, cross-referenced $26.10 vs $26.47, ~1.4% spread, PASS (established 9/4 evening run; no new session today, Labor Day)."
+        },
+        {
+          "ticker": "AFRM",
+          "qty": 1,
+          "price": 73.5,
+          "rank": 4,
+          "funded": false,
+          "reasoning": "Listed for ranking/optionality only -- NOT funded this run (ATRA+RCAT+UMAC = $141.78 already allocated; adding AFRM would require $215.28, exceeding the $200 cash cap). BofA PT $104 (~41% upside), consensus avg PT $91.67; institutional adds from JPMorgan Chase (+16.7M sh, ~$1.36B) and Sixth Street Partners. Price: Friday 9/4 close $73.50, cross-referenced $72.43 vs $74.58 (~2.9% spread, PASS at edge of tolerance)."
+        },
+        {
+          "ticker": "HUT",
+          "qty": 1,
+          "price": 86.84,
+          "rank": 5,
+          "funded": false,
+          "reasoning": "Listed for ranking/optionality only -- NOT funded this run (cash-constrained behind higher-ranked picks). Strong institutional breadth (Coatue, BlackRock, Third Point, Wellington) and the $35B Anthropic/Lambda/Nvidia compute deal, but stock is +13% over the last 2 sessions (9/3-9/4) -- much of the catalyst already priced in, hence lowest rank of this run's shortlist. Price: Friday 9/4 close $86.84, cross-referenced $86.84 (+4.01%) vs $87.00 (day range $86.80-$89.55), ~0.2% spread, PASS."
+        }
+      ],
+      "sells": [],
+      "note": "US markets closed today for Labor Day (confirmed via WebSearch); no new trading session since Friday 9/4 close. All prices above are Friday's confirmed close, cross-referenced across two independent sources per RULES.md, carried forward since no fresher print exists. Zero open holdings currently, so no mark-to-market updates and no sell candidates this run. Funded buys (ATRA+RCAT+UMAC) total $141.78, within the $200 cash cap with a $58.22 buffer; AFRM/HUT ranked but unfunded this run per the cash cap."
     }
   ]
 }
