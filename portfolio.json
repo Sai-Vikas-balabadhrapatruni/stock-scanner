@@ -1997,6 +1997,66 @@
       ],
       "sells": [],
       "note": "US markets closed today for Labor Day (confirmed via WebSearch); no new trading session since Friday 9/4 close (same holiday as this morning's run) -- prices for repeat names are carried forward from the confirmed Friday close, cross-referenced across two independent sources per RULES.md. Two names got a clean cross-reference for the first time in a while and were added: IREN (funded, first-ever PASS on this ticker this challenge) and AXTI (unfunded, first clean PASS but treated cautiously given its history of unreliable cross-sourcing). ENOV (Enovis) was researched on a dual-insider-buy signal (CEO + CAO both bought 9/2-9/4) but EXCLUDED from pricing this run -- searches returned materially conflicting prices ($18.56 'near 52-week low' vs a separate $30.18 last-close figure, >60% apart), a clear cross-reference failure; carried on the watchlist for a cleaner look next run. Funded buys (RCAT+IREN+UMAC+ATRA) total $186.46 of the $200 cash cap, leaving a $13.54 buffer; AFRM/HUT/AXTI ranked but unfunded this run. Zero open holdings currently (no trade has ever been executed/reported across 58 prior runs), so no mark-to-market updates and no sell candidates. REMINDER: challenge window (challenge_start 2026-07-31 to challenge_end 2026-08-30) remains ELAPSED -- today is 8 days past challenge_end with zero trades ever reported/executed; cash is still the untouched $200 starting balance. Flagging again since it's been several runs since this was last restated."
+    },
+    {
+      "timestamp": "2026-09-08T09:45:00-04:00",
+      "buys": [
+        {
+          "ticker": "RCAT",
+          "qty": 6,
+          "price": 8.37,
+          "cost": 50.22,
+          "rank": 1,
+          "funded": true,
+          "price_source": "web-search cross-referenced: $8.38 (current intraday read, day range $8.37-$8.44) vs $8.37 (stockanalysis.com, closed -1.99%) -- ~0.1% spread, PASS. Reflects Sept 8 2026 trading.",
+          "reasoning": "Red Cat Holdings. Standing #1 multi-run thesis: pure-play US drone maker benefiting from the 100% tariff on imported drone components (structural tailwind), advantaging domestic producers over DJI. Strong Buy consensus (8 analysts), 12-mo PT $16.75 (~100% upside). Q2 FY26 revenue +520% YoY to $20.2M, gross margin improving to 16%, targeting $150-180M FY26 revenue. Institutional buying (Goldman Sachs, Mirae Asset stake increases) unchanged. Cheapest, most capital-efficient high-conviction pick this run."
+        },
+        {
+          "ticker": "HUT",
+          "qty": 1,
+          "price": 93.4,
+          "cost": 93.4,
+          "rank": 2,
+          "funded": true,
+          "price_source": "web-search cross-referenced: $93.33 (current intraday read, range $93.00-$96.90) vs $93.55 (CNN Markets, +6.19% today) -- ~0.2% spread, PASS. Reflects Sept 8 2026 trading.",
+          "reasoning": "Hut 8 Corp. Standing highest-conviction institutional thesis: Anthropic's confirmed $35B multi-year Lambda/Nvidia cloud-capacity deal plus the existing $9.8B/15-yr Beacon Point lease (704MW). Up ~8% today on continued momentum. INSTITUTIONAL SIGNAL (Q2 2026 13Fs): Coatue +9.72M sh, BlackRock new ~$1.09B stake, Third Point (Loeb) ~$40.8M new position, Wellington/Avala/Montanova new positions. Strong Buy consensus, 12-mo PT ~$161.78 (~73% upside). Sized to 1 share given the high per-share cost relative to the $200 budget."
+        },
+        {
+          "ticker": "IREN",
+          "qty": 1,
+          "price": 35.3,
+          "cost": 35.3,
+          "rank": 3,
+          "funded": true,
+          "price_source": "web-search cross-referenced: $35.20 (Yahoo Finance, down 12.8% intraday, 1:02pm ET) vs $35.36/$35.42 (two independent 'why IREN sliding' reads) -- tight ~0.6% cluster, PASS. Reflects Sept 8 2026 intraday trading, a sharp reversal from the $44.68 Friday close used the last two runs.",
+          "reasoning": "IREN Limited -- HIGH-RISK, SPECULATIVE dip-buy, not the same setup as prior runs. Down ~13% today after FY2026 results revealed a $639M non-cash impairment tied to accelerated Bitcoin-mining-equipment disposal, pushing FY26 net loss to ~$703M and EPS to -$1.89 vs -$0.55 est (large miss). Offsetting: AI Cloud revenue more than doubled sequentially to $70.5M; 17-analyst Buy consensus, PT $77.84 now implies ~120% upside off today's crashed price. Ranked #3, sized to a single share only -- fresh negative catalyst, no confirmed bottom, real risk of further downside before stabilizing. Include only for risk-tolerant, small allocation."
+        },
+        {
+          "ticker": "AFRM",
+          "qty": 1,
+          "price": 73.5,
+          "rank": 4,
+          "funded": false,
+          "reasoning": "Listed for ranking/optionality only -- NOT funded this run: price cross-reference spread too wide to trust (Robinhood $72.20 vs TradingView $74.58 vs Investing.com $71.51, ~4.3% spread, exceeds ~1-2% tolerance). Buy consensus, PT $90.60 (~+22% upside implied at midpoint) unchanged. Also, RCAT+HUT+IREN = $178.92 already allocated; adding AFRM would leave an unhealthy cash buffer even if priced cleanly."
+        },
+        {
+          "ticker": "MOBX",
+          "qty": 0,
+          "price": 1.16,
+          "rank": 5,
+          "funded": false,
+          "reasoning": "Mobix Labs -- NOT funded. Genuine defense/aerospace M&A catalysts (Special Project Delivery + Vision Aerial acquisitions, Gulfstream connector order, guided 100% sequential Q4 revenue growth) but technical/fundamental models both flag 'Sell'/'Strong Sell', and only a single unconfirmed price read obtained. Added to watchlist for next-run follow-up, not sized today."
+        },
+        {
+          "ticker": "OPFI",
+          "qty": 0,
+          "price": 7.0,
+          "rank": 6,
+          "funded": false,
+          "reasoning": "OppFi Inc. -- NOT funded. CEO Todd Schwartz open-market buying (~$50K at $6.88-$7.15, 9/1-9/2) is a real confidence signal at a low-multiple name (P/E ~3.4x, PT $11-16), but today's price reads conflict badly ($7.12 vs $6.86, and may be conflating an older Aug-11 post-earnings crash with a fresh move) -- too muddled to size responsibly this run."
+        }
+      ],
+      "sells": []
     }
   ]
 }
