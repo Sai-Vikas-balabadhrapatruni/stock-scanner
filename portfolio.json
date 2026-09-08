@@ -2057,6 +2057,92 @@
         }
       ],
       "sells": []
+    },
+    {
+      "timestamp": "2026-09-08T16:15:00-04:00",
+      "buys": [
+        {
+          "ticker": "IONQ",
+          "qty": 2,
+          "price": 39.52,
+          "cost": 79.04,
+          "rank": 1,
+          "funded": true,
+          "price_source": "web-search cross-referenced: $39.52 (current, +1.28% blended 24h) vs implied $39.54 from a separately-reported +8.1% intraday move as of 10:50am ET off an implied ~$36.57 prior close -- ~0.1% spread, PASS. Reflects Sept 8 2026 trading.",
+          "reasoning": "IonQ. Raised FY26 revenue guidance to $450-460M from $280-290M (~62% raise at midpoint, includes SkyWater Technology from its 7/31/2026 acquisition close); opened orders for new Superion 256 platform; signed $8.18M Congruity360 quantum-security contract; held NYSE Investor Day. B.Riley reiterated Buy, $100 PT (~153% upside). INSTITUTIONAL: Morgan Stanley largest disclosed holder (~$1.40B, Q2 2026 13F); 41.42% institutional/hedge-fund ownership. Highest-conviction pick this run given the scale and freshness of the catalyst."
+        },
+        {
+          "ticker": "RGTI",
+          "qty": 3,
+          "price": 16.29,
+          "cost": 48.87,
+          "rank": 2,
+          "funded": true,
+          "price_source": "web-search cross-referenced: $16.29 (current, +0.13% blended 24h) vs Sept-8-dated day range $15.46-$16.27 ('up 7.9% as of 9:54am ET, as much as 12.2% intraday') -- point read sits ~0.1% above the recorded high, consistent with continued afternoon strength, PASS with note.",
+          "reasoning": "Rigetti Computing. Signed a DEFINITIVE $100M agreement with the U.S. Dept of Commerce (CHIPS Act Broad Agency Announcement) for three superconducting-quantum R&D projects, upgrading the prior LOI-stage story. Quantum sector broadly higher today alongside IONQ. Institutional accumulation net positive (219 holders added vs 205 trimmed, late-Aug data, standing). Ranked #2 behind IONQ's larger guidance-raise catalyst."
+        },
+        {
+          "ticker": "RCAT",
+          "qty": 5,
+          "price": 8.37,
+          "cost": 41.85,
+          "rank": 3,
+          "funded": true,
+          "price_source": "web-search cross-referenced: $8.38 (current intraday read, day range $8.37-$8.44) vs $8.37 (stockanalysis.com, closed -1.99%) -- ~0.1% spread, PASS. Price stable from this morning's run; no material after-hours move found.",
+          "reasoning": "Red Cat Holdings. Standing multi-run thesis: pure-play US drone maker benefiting from the 100% tariff on imported drone components, advantaging domestic producers over DJI. Strong Buy consensus, PT $16.75 (~100% upside). Q2 FY26 revenue +520% YoY, gross margin improving to 16%. Institutional buying (Goldman Sachs, Mirae Asset) unchanged. Most capital-efficient high-conviction pick this run, ranked behind the two fresher quantum-sector catalysts."
+        },
+        {
+          "ticker": "WULF",
+          "qty": 1,
+          "price": 16.48,
+          "cost": 16.48,
+          "rank": 4,
+          "funded": true,
+          "price_source": "web-search cross-referenced: $16.48 (day range $16.06-$16.59, prev close $16.24, +1.51%) vs $16.35 (independent heygotrade read) -- ~0.8% spread, PASS. Reflects Sept 8 2026 trading.",
+          "reasoning": "TeraWulf. FRESH INSTITUTIONAL SIGNAL (13F filings): Vanguard +37.4% stake increase (now 33.6M sh/$386.6M), BlackRock NEW ~$577.8M position (Q2 2026), Connor Clark & Lunn NEW ~$62.0M stake, Canada Pension Plan Investment Board NEW ~$39.5M stake -- broad-based fresh accumulation. Thesis: 20-year, ~$19B contracted-revenue Anthropic lease at the Kentucky campus (401MW IT load), same bitcoin-miner-to-AI-datacenter conversion cohort as HUT/IREN. Note: previously-logged analyst PTs ($33-$62.50) look stale/inconsistent with the current price scale and were not relied upon for conviction here."
+        },
+        {
+          "ticker": "HUT",
+          "qty": 0,
+          "price": 93.33,
+          "cost": null,
+          "rank": 5,
+          "funded": false,
+          "price_source": "web-search cross-referenced: $93.33 (CNN Markets, dated Sept 8 2026, day range $93.00-$96.90) vs this morning's already-confirmed $93.33/$93.55 pair (~0.2% spread) -- PASS, but flagged: same-day reads this run ranged unusually widely ($81.11-$99.93); a later $99.93 (+6.83%, 3:22pm ET) read could not be independently corroborated so was not used for sizing.",
+          "reasoning": "Hut 8 Corp. Not funded -- cash exhausted by higher-ranked picks, and this run's wider-than-usual price-data dispersion argued for extra caution. Thesis intact: Anthropic/Lambda $35B cloud-capacity deal (Nueces County TX site, ~350MW) plus existing Beacon Point lease; Strong Buy consensus, PT $161.78 (~70%+ upside). Institutional: Coatue, BlackRock, Third Point, Wellington/Avala/Montanova (Q2 2026 13Fs, standing)."
+        },
+        {
+          "ticker": "IREN",
+          "qty": 0,
+          "price": 35.2,
+          "cost": null,
+          "rank": 6,
+          "funded": false,
+          "price_source": "web-search cross-referenced: $35.20 (dated Sept 8 2026, -13.15%) -- matches this morning's independently cross-referenced cluster ($35.20 Yahoo Finance @ 1:02pm ET vs $35.36/$35.42 from two separate 'why IREN sliding' pieces, ~0.6% spread), PASS.",
+          "reasoning": "IREN Limited -- HIGH-RISK, SPECULATIVE dip-buy. Not funded this run (cash exhausted; also elevated risk argues against stretching for it). FY2026 $639M non-cash impairment pushed FY26 net loss to ~$703M (EPS -$1.89 vs -$0.55 est, large miss); AI Cloud revenue more than doubled sequentially to $70.5M. 17-analyst Buy consensus, PT $77.84 (~121% upside off today's crashed price), but no confirmed bottom."
+        },
+        {
+          "ticker": "INTC",
+          "qty": 0,
+          "price": 95.8,
+          "cost": null,
+          "rank": 7,
+          "funded": false,
+          "price_source": "web-search cross-referenced: $95.80 close (+4.51%) vs a second same-day read ('up more than 4% in Tuesday's pre-market... after gaining more than 4% in the previous session') -- consistent ~4-4.5% move, PASS. Both dated Sept 8 2026.",
+          "reasoning": "Intel. New pricing this run; not funded (cash exhausted, and the lowest expected-return/capital-efficiency of the funded-candidate set). Northland upgraded to Outperform, $120 PT (~25% upside) on Sept 8 2026. Institutional/strategic: Nvidia holds ~$30B stake (~4% ownership), U.S. government holds 9.9% equity stake via CHIPS Act. Intel Foundry + ASML High-NA EUV progress (1M+ wafers processed)."
+        },
+        {
+          "ticker": "AFRM",
+          "qty": 0,
+          "price": 71.28,
+          "cost": null,
+          "rank": 8,
+          "funded": false,
+          "price_source": "web-search cross-referenced: $71.28 (CNN Markets, day range $70.64-$72.30, Sept 8 2026) vs recent-context prior closes ($74.30 ~4 days prior, $77.33 on 8/19) -- consistent with a modest ~8.5% weekly pullback, PASS. A separate $47.71 Robinhood-sourced read near the 52-wk low was discarded as stale/anomalous.",
+          "reasoning": "Affirm Holdings. Lowest conviction this run, not funded. NEW CAUTION FLAG: Form 4 filings show COO Michael Linford and CFO Robert O'Hare exercising/selling shares at $80-90 through late Aug/early Sept 2026 -- routine compensation-related activity, not necessarily bearish, but a modest conviction-dampener on top of the recent pullback. Analyst consensus stays 74% Buy, avg PT $90.60 (~27% upside)."
+        }
+      ],
+      "sells": []
     }
   ]
 }
