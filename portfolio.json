@@ -2143,6 +2143,62 @@
         }
       ],
       "sells": []
+    },
+    {
+      "timestamp": "2026-09-09T09:45:00-04:00",
+      "buys": [
+        {
+          "ticker": "IONQ",
+          "qty": 2,
+          "price": 39.1,
+          "cost": 78.2,
+          "rank": 1,
+          "funded": true,
+          "price_source": "web-search cross-referenced: $39.02-$39.28 premarket cluster (two independent reads, ~0.8% spread, flat vs prior close) vs a separately-reported Sept 8 close of $40.47 (+2.4%, Motley Fool, used only as context) -- used the tighter premarket cluster. Reflects Sept 9 2026 premarket.",
+          "reasoning": "IonQ. Raised FY26 revenue guidance to $450-460M (SkyWater acquisition), opened orders for new Superion 256 platform, signed $8.18M Congruity360 quantum-security contract, held NYSE investor day 9/8. B.Riley reiterated Buy, $100 PT (~156% upside). INSTITUTIONAL: Morgan Stanley largest disclosed holder (~$1.40B, Q2 2026 13F); 41.42% institutional/hedge-fund ownership (standing signal; Q3 13Fs not due until mid-Nov). Highest-conviction pick this run on catalyst freshness plus largest raw upside."
+        },
+        {
+          "ticker": "RGTI",
+          "qty": 2,
+          "price": 15.75,
+          "cost": 31.5,
+          "rank": 2,
+          "funded": true,
+          "price_source": "web-search cross-referenced across three reads clustering $15.62-$15.93 (a same-day-labeled $15.62 read, a Vantage Markets CFD read of $15.83, and a premarket range of $15.74-$15.93) -- ~2% spread, PASS with note that an earlier premarket spike (as much as +7.4%) had mostly settled by this run. Reflects Sept 9 2026.",
+          "reasoning": "Rigetti Computing. Fresh catalyst: House Quantum Bill advancing with up to $200M in funding (American Quantum Competitiveness Act), building on yesterday's definitive $100M U.S. Dept of Commerce (CHIPS Act) agreement for superconducting-quantum R&D. Consensus PT $28.67 (~82% upside), 6/9 analysts Buy. Institutional: standing net-positive accumulation (219 holders added vs 205 trimmed, late-Aug data). Ranked #2 behind IONQ's larger raw upside."
+        },
+        {
+          "ticker": "WULF",
+          "qty": 3,
+          "price": 17.89,
+          "cost": 53.67,
+          "rank": 3,
+          "funded": true,
+          "price_source": "web-search cross-referenced: $17.95 (heygotrade) vs $17.83 (stocktwits-aggregated) -- ~0.7% spread, PASS. Confirms continuation of yesterday's move (9/8 range $16.60-$18.03) rather than a stale repeat. Reflects Sept 9 2026.",
+          "reasoning": "TeraWulf. Standing catalyst: 20-year ~$19B contracted Anthropic lease (Kentucky campus, 401MW); BofA Securities initiated Buy with $34 PT (~90% upside) on HPC lease revenue ($21M) now exceeding bitcoin mining revenue ($13M) for the first time. INSTITUTIONAL (most recent standing 13F signal, pending Q3 filings): Vanguard +37.4% stake increase, BlackRock NEW ~$577.8M position, Connor Clark & Lunn NEW ~$62.0M stake, CPPIB NEW ~$39.5M stake -- broad fresh accumulation. Ranked #3, slightly behind the quantum names' same-day catalysts."
+        },
+        {
+          "ticker": "IREN",
+          "qty": 0,
+          "price": 47.3,
+          "cost": null,
+          "rank": 4,
+          "funded": false,
+          "price_source": "web-search cross-referenced: $46.93 (TradingView/aggregator, +5.04%) vs $47.71 (CNN Markets, prior close $44.68, +7.27%) -- ~1.7% spread, PASS. Reflects Sept 9 2026.",
+          "reasoning": "IREN Limited. Not funded -- cash exhausted by higher-ranked picks. FRESH same-day catalyst: 2GW Sweetwater Hub (Texas) conditionally included in ERCOT's Batch Zero process as Base Load, a key regulatory milestone; also raised annualized run-rate revenue target to over $4.0B (from $3.7B) on ~$2.8B in new multi-year AI cloud agreements. 17-analyst Buy consensus, PT $77.84 (~65% upside). Would be the next add if cash allowed."
+        },
+        {
+          "ticker": "INTC",
+          "qty": 0,
+          "price": 102.75,
+          "cost": null,
+          "rank": 5,
+          "funded": false,
+          "price_source": "web-search cross-referenced: $102.75 premarket (stockmarketwatch, 7:10am ET, -1.65%) vs Sept 8 close $104.47 (+9.05%, corroborated across Yahoo/Fool/AskTraders/FXLeaders) -- consistent small pullback off a well-confirmed prior close, PASS.",
+          "reasoning": "Intel. Not funded -- cash exhausted, and lowest raw %-upside of this run's picks (Northland PT $120, ~17% upside). Catalyst: reported ~10% PC-chip price hike planned for early October, read as a margin-defense signal; Northland Securities upgraded citing improving fundamentals. Institutional/strategic backing standing: Nvidia ~$30B stake (~4% ownership), U.S. government 9.9% equity stake via CHIPS Act."
+        }
+      ],
+      "sells": []
     }
   ]
 }
