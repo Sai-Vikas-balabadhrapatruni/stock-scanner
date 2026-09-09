@@ -2199,6 +2199,72 @@
         }
       ],
       "sells": []
+    },
+    {
+      "timestamp": "2026-09-09T16:15:00-04:00",
+      "buys": [
+        {
+          "ticker": "IONQ",
+          "qty": 2,
+          "price": 39.15,
+          "cost": 78.3,
+          "rank": 1,
+          "funded": true,
+          "price_source": "web-search cross-referenced: $38.77 (24/7 Wall St/Yahoo, 'down 4% to $38.77' early-afternoon) vs $39.52 (separate aggregator read) -- ~1.9% spread, PASS. Reflects Sept 9 2026 afternoon.",
+          "reasoning": "IonQ. Quantum-sector-wide pullback today (IONQ/RGTI/QBTS all lower) is macro-driven -- CME now prices 60% odds of a 25bp Fed hike next week, lifting the 10Y toward 4.8% and punishing long-duration growth names -- not a company-specific break. Fundamentals strengthened this week: raised FY26 revenue guidance to $450-460M (SkyWater deal) at the 9/8 investor day, new Superion 256 platform, $8.18M Congruity360 contract. B.Riley Buy, $100 PT (~155% upside from today's dip price). INSTITUTIONAL: Morgan Stanley remains largest disclosed holder (~$1.40B per Q2 2026 13F). Highest-conviction pick this run -- treating today's macro-driven dip as a better entry, not a warning sign."
+        },
+        {
+          "ticker": "WULF",
+          "qty": 3,
+          "price": 17.86,
+          "cost": 53.58,
+          "rank": 2,
+          "funded": true,
+          "price_source": "web-search cross-referenced: $17.86 (specific dated close, +8.18%) vs $18.46 (separate Benzinga-linked aggregate) -- ~3.3% spread, wider than ideal but consistent direction; used the more specifically-dated figure. Reflects Sept 9 2026.",
+          "reasoning": "TeraWulf. Continuing yesterday's rally on the ~$19B 20-year Anthropic lease (Kentucky, 401MW) -- BofA Buy, $34 PT (~90% upside) as HPC lease revenue now exceeds bitcoin-mining revenue for the first time. Fresh news today: Kentucky regulators approved a separate 482MW power deal for the $4.5B Hancock Co. AI campus. INSTITUTIONAL: Vanguard +37.4% stake increase, new positions from BlackRock, Connor Clark & Lunn, and CPPIB (standing signal, pending Q3 13Fs). Ranked #2 behind IONQ's larger raw upside."
+        },
+        {
+          "ticker": "RGTI",
+          "qty": 2,
+          "price": 15.65,
+          "cost": 31.3,
+          "rank": 3,
+          "funded": true,
+          "price_source": "web-search cross-referenced: $15.83 (Vantage Markets, stated close +1.83%) vs ~$15.51 (implied by a 24/7 Wall St report of shares sliding 2% intraday) -- ~2% spread, PASS, noting a choppy/mixed intraday tape. Reflects Sept 9 2026.",
+          "reasoning": "Rigetti Computing. Standing catalysts: definitive $100M Commerce Dept (CHIPS Act) agreement signed 9/8 for superconducting-quantum R&D, plus the House Quantum Bill (up to $200M, American Quantum Competitiveness Act) advancing. Shares gave back some of yesterday's CHIPS Act pop today alongside the broader rate-driven quantum selloff, but the federal-funding catalyst is durable. Institutional: standing net-positive accumulation (219 holders added vs 205 trimmed, late-Aug data). Ranked #3."
+        },
+        {
+          "ticker": "AFRM",
+          "qty": 0,
+          "price": 68.85,
+          "cost": null,
+          "rank": 4,
+          "funded": false,
+          "price_source": "web-search cross-referenced: two independent reports (StockStory/FinancialContent and Benzinga) both cite shares down 4.3% to $68.85 in the afternoon session -- tight agreement, PASS. Reflects Sept 9 2026.",
+          "reasoning": "Affirm. Not funded -- cash exhausted by higher-ranked picks. FRESH catalyst: Loop Capital initiated coverage today with a Buy rating and $105 PT (~53% upside), even as shares fell on broad consumer-fintech weakness rather than an Affirm-specific issue. Standing thesis: strong Q4 FY26 print (33% revenue growth, 36% GMV growth) tempered by CEO Levchin's caution on consumer credit pressure. Would be the next add if cash allowed."
+        },
+        {
+          "ticker": "IREN",
+          "qty": 0,
+          "price": 46.73,
+          "cost": null,
+          "rank": 5,
+          "funded": false,
+          "price_source": "web-search cross-referenced: $46.73 (aggregator, day range $44.69-$49.29) vs $47.83 (Yahoo/24-7 Wall St 'surges 7%' report) -- ~2.3% spread across adjacent reads, PASS. Reflects Sept 9 2026.",
+          "reasoning": "IREN Limited. Not funded -- cash exhausted. FRESH catalyst: 2GW Sweetwater Hub conditionally classified as Base Load in ERCOT's Batch Zero screening (de-risks grid interconnection); raised AI Cloud annualized run-rate revenue target to over $4.0B on ~$2.8B in new multi-year deals (Microsoft, Nvidia, Perplexity). Move is company-specific (sector ETF DTCR only +1% same session). Institutional: 330 of 491 13F holders added shares in the most recent quarter (Q1 2026 data, standing signal)."
+        },
+        {
+          "ticker": "HUT",
+          "qty": 0,
+          "price": 99.5,
+          "cost": null,
+          "rank": 6,
+          "funded": false,
+          "price_source": "web-search cross-referenced: $98.09 (aggregator, intraday range $97.82-$101.83) vs $101.25 (separate 'current price, +6.36% 24h' read) -- ~3.2% spread, PASS. Reflects Sept 9 2026.",
+          "reasoning": "Hut 8. Not funded -- cash exhausted, and the most valuation-extended name in this run's set (stock up ~240% over the trailing year, already up ~6.4% yesterday and further today). Standing catalyst: large contracted revenue backlog and massive YoY revenue growth (Q2 $74.9M vs $41.3M prior year); Rosenblatt Buy, $124 PT. Ranked last of this run's buy candidates on valuation-extension grounds."
+        }
+      ],
+      "sells": []
     }
   ]
 }
