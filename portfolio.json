@@ -2301,6 +2301,72 @@
         }
       ],
       "sells": []
+    },
+    {
+      "timestamp": "2026-09-10T16:15:00-04:00",
+      "buys": [
+        {
+          "ticker": "IONQ",
+          "qty": 1,
+          "price": 38.77,
+          "cost": 38.77,
+          "rank": 1,
+          "funded": true,
+          "price_source": "web-search cross-referenced: $38.77 (24/7 Wall St/Yahoo, 'IonQ sank 4% to $38.77', early-afternoon Sept 10 2026) vs $37.64 close (-0.37%, separate Robinhood/aggregator read) -- ~3% spread, PASS, both confirming a pullback from Sept 9's ~$40-42 range. Resolves this morning's EXCLUDED status (stale $73.82/$41.83 reads have dropped out of the cluster). Reflects Sept 10 2026 afternoon.",
+          "reasoning": "IonQ. Quantum-sector-wide pullback today (IONQ/RGTI/QBTS all lower) is macro-driven -- CME prices ~60% odds of a 25bp Fed hike next week, 10Y near 4.8-4.71%, punishing long-duration pre-revenue names -- not a company-specific break. Fundamentals intact/strengthening: FY26 revenue guidance raised to $450-460M (SkyWater deal) at the Sept 8 investor day, new Superion 256 platform, $8.18M Congruity360 contract. B.Riley Buy, $100 PT implies ~158% upside from today's price -- largest raw upside of this run's four picks. INSTITUTIONAL: Morgan Stanley remains largest disclosed holder (~$1.40B per Q2 2026 13F, standing signal pending Q3 filings). Ranked #1 on largest raw upside plus thesis-intact dip."
+        },
+        {
+          "ticker": "RGTI",
+          "qty": 3,
+          "price": 15.2,
+          "cost": 45.6,
+          "rank": 2,
+          "funded": true,
+          "price_source": "web-search cross-referenced: $15.01-$15.46 day range / $15.22 open (one aggregator) vs $15.43 (+1.52% since open, CNBC/Coinbase-sourced read) and a separate report of RGTI/D-Wave 'sliding 2%' intraday (implying ~$14.95 off yesterday's ~$15.25 morning read) -- all cluster within ~3%, PASS. Reflects Sept 10 2026 afternoon; used $15.20 as a conservative mid-range point.",
+          "reasoning": "Rigetti Computing. Standing catalysts hold: finalized $100M Commerce Dept/CHIPS Act R&D agreement, 84-qubit Ankaa-3 system posted 99.5% median 2-qubit gate fidelity (genuine technical milestone). Today's small pullback is the same rate-driven quantum-sector rotation hitting IONQ/QBTS, not thesis-specific. Consensus Buy, avg 12-mo PT $28.67-$29.65 (~89-95% upside). INSTITUTIONAL: Q2 2026 13Fs show 300 institutions added vs 216 trimmed; D.E. Shaw +52.4% (~$35.6M), BlackRock +12.2% (~$59.9M) -- clean net-positive accumulation signal. Ranked #2 behind IONQ's larger raw upside."
+        },
+        {
+          "ticker": "WULF",
+          "qty": 3,
+          "price": 18.45,
+          "cost": 55.35,
+          "rank": 3,
+          "funded": true,
+          "price_source": "web-search cross-referenced: $18.45 (day range $18.41-$20.02, reported 'down 7.9% today', Sept 10 2026) vs a separate same-day read of $20.01 which falls inside that same day range (likely an earlier/higher intraday print before the afternoon pullback) -- internally consistent, PASS. Reflects Sept 10 2026 afternoon.",
+          "reasoning": "TeraWulf. Today's -7.9% move is macro/rate-driven (same Fed-hike-odds rotation hitting quantum and other long-duration growth names), not a thesis break -- the 20-year ~$19B contracted Anthropic lease (Kentucky, 401MW) and BofA's Buy rating/$34 PT (~84% upside from today's price) stand. HPC lease revenue now exceeds bitcoin-mining revenue for the first time. INSTITUTIONAL (standing signal, pending Q3 13Fs): Vanguard +37.4% stake increase, new positions from BlackRock (~$577.8M), Connor Clark & Lunn (~$62.0M), CPPIB (~$39.5M) -- broad fresh accumulation. Ranked #3: treating today's steepest pullback of the run as a better entry on an intact catalyst."
+        },
+        {
+          "ticker": "OKLO",
+          "qty": 1,
+          "price": 44.1,
+          "cost": 44.1,
+          "rank": 4,
+          "funded": true,
+          "price_source": "web-search cross-referenced: $44.10 (Sept 10 2026 read) vs Sept 9 2026 range $41.55-$44.78 / close ~$43.01-$44.78 (two separate sources) -- consistent, PASS.",
+          "reasoning": "Oklo Inc. Nuclear/SMR-sector rebound continues; Groves Isotope Test Reactor reached first criticality Aug 5 (5th DOE Reactor Pilot Program reactor, 1st on private land) -- a real regulatory/technical proof point. Avg Wall St PT ~$75 implies ~70% upside. INSTITUTIONAL: mixed/divergent -- CalSTRS +8.55M sh (+6518.7%, ~$447.5M) in Q2 2026, even as BlackRock trimmed its stake ~54% (~$449.8M) the same quarter -- ranked behind RGTI/WULF on institutional-signal clarity despite comparable upside. Sized at 1 share given the higher per-share cost relative to this run's remaining budget."
+        },
+        {
+          "ticker": "UBER",
+          "qty": 0,
+          "price": 72.21,
+          "cost": null,
+          "rank": 5,
+          "funded": false,
+          "price_source": "web-search: $72.21, -2.80% (Sept 10 2026, single clearly-dated aggregator read); a second read of the day's close level was not independently found this run, so this price is single-sourced -- noted as a lower-confidence read, and in any case the run's $200 budget is exhausted before reaching this rank.",
+          "reasoning": "Uber Technologies. NOT bought -- budget exhausted after ranks 1-4 ($183.82 of $200). Notable purely as an INSTITUTIONAL/insider signal: CEO Dara Khosrowshahi bought $10.0M (141,000 sh, Sept 10) on top of COO Andrew Macdonald's $5.3M buy (Sept 4) -- a fresh $15M combined cluster buy from the top two executives, a strong conviction signal, arriving while the stock is down on the day. Flagged for a future run if budget allows or a cheaper entry appears; price also needs a second independent source before sizing."
+        },
+        {
+          "ticker": "SWKS",
+          "qty": 0,
+          "price": 85.43,
+          "cost": null,
+          "rank": 6,
+          "funded": false,
+          "price_source": "web-search: $85.43 vs prior close $76.54 (implies +11.6%), though one headline on the same story said 'up 5.1%' -- an internal inconsistency in the available reporting, so this price is treated as unconfirmed/single-sourced this run.",
+          "reasoning": "Skyworks Solutions. NOT bought -- budget exhausted before this rank, and price/percent-move reporting is internally inconsistent (needs a clean second source next run). Nasdaq-listed shares jumped intraday on merger speculation/progress tied to the planned Qorvo combination (exchange-offer deadline extension for Qorvo notes showed high participation). Momentum/merger-arb play, not an institutional-accumulation signal -- lower conviction than ranks 1-4 given the stock has already moved ~10%+ intraday and deal-completion risk remains binary. New watchlist candidate."
+        }
+      ],
+      "sells": []
     }
   ]
 }
