@@ -2265,6 +2265,42 @@
         }
       ],
       "sells": []
+    },
+    {
+      "timestamp": "2026-09-10T09:45:00-04:00",
+      "buys": [
+        {
+          "ticker": "RGTI",
+          "qty": 5,
+          "price": 15.25,
+          "cost": 76.25,
+          "rank": 1,
+          "funded": true,
+          "price_source": "web-search cross-referenced: $15.22 open / $15.01-$15.46 intraday range (stockanalysis.com, Sept 10 2026 session) vs $15.43 (CNBC/Coinbase real-time quote, Sept 10 2026) -- ~1.4% spread, PASS.",
+          "reasoning": "Rigetti Computing. Highest-conviction pick this run: definitive $100M Commerce Dept/CHIPS Act R&D agreement standing, and the 84-qubit Ankaa-3 system posted 99.5% median 2-qubit gate fidelity, a genuine technical milestone (not just a funding headline). Analyst consensus Buy, avg 12-mo PT ~$29.65 (~94% upside from today's price) -- highest raw upside of this run's three picks. INSTITUTIONAL: Q2 2026 13Fs show 300 institutions added vs 216 trimmed; D.E. Shaw +52.4% (~$35.6M add), BlackRock +12.2% (~$59.9M add) -- net-positive, relatively clean institutional accumulation signal (contrast with OKLO's mixed one below), so ranked #1 despite similar sector-momentum profile to OKLO."
+        },
+        {
+          "ticker": "OKLO",
+          "qty": 1,
+          "price": 43.0,
+          "cost": 43.0,
+          "rank": 2,
+          "funded": true,
+          "price_source": "web-search cross-referenced: $43.00 premarket (-0.75% from prior close, Sept 10 2026, aggregator read) vs $43.01-$43.33 Sept 9 2026 close (Motley Fool / Robinhood-sourced quote) -- <1% spread, PASS.",
+          "reasoning": "Oklo Inc. Nuclear/SMR-sector rebound after an extended selloff (stock still down ~46% YTD despite the recent bounce). Groves Isotope Test Reactor reached first criticality Aug 5 -- the 5th DOE Reactor Pilot Program reactor to do so and the 1st on private land -- a real regulatory/technical proof point, not just sentiment. Texas Capital cut its price target this week but still named Oklo its top pick among the SMR group. Wall St avg PT ~$75 implies ~74% upside from today's price. INSTITUTIONAL: mixed -- CalSTRS added 8.55M shares (+6518.7%, ~$447.5M) in Q2 2026, even as BlackRock trimmed its stake 54% (~$449.8M) the same quarter, a genuine large-holder divergence -- ranked behind RGTI on institutional-signal clarity despite comparable raw upside. Sized at just 1 share given the higher per-share cost relative to this run's $200 budget."
+        },
+        {
+          "ticker": "SMR",
+          "qty": 6,
+          "price": 10.85,
+          "cost": 65.1,
+          "rank": 3,
+          "funded": true,
+          "price_source": "web-search cross-referenced: $10.85 (investing.com, Sept 9 2026 session, day range $10.75-$11.26) vs prior close $11.18 (matches an independent Yahoo Finance trending-ticker read of $11.18) -- internally consistent, PASS.",
+          "reasoning": "NuScale Power. Part of the same nuclear-sector rotation/rebound as Oklo, but lower conviction: analyst consensus is Hold (6 buy / 2 sell) with avg PT $12.63, only ~16% upside from today's price -- lowest raw upside of this run's three picks and no fresh company-specific catalyst found today beyond the broader 'nuclear selloff exhausted' rebound narrative. Included as a cheaper, more liquid way to add nuclear-theme exposure alongside OKLO without concentrating the whole sector bet in one higher-priced name; ranked last."
+        }
+      ],
+      "sells": []
     }
   ]
 }
