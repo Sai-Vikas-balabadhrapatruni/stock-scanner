@@ -2367,6 +2367,62 @@
         }
       ],
       "sells": []
+    },
+    {
+      "timestamp": "2026-09-11T09:45:00-04:00",
+      "buys": [
+        {
+          "ticker": "WULF",
+          "qty": 3,
+          "price": 16.5,
+          "cost": 49.5,
+          "rank": 1,
+          "funded": true,
+          "price_source": "Web-search cross-referenced across 3 independent named outlets (Yahoo Finance/AOL, 24/7 Wall St) all reporting WULF 'fell 4% to $16.50' at Thursday 9/10/2026 close, consistent with prior close ~$17.20 -- tight agreement, PASS. Reflects Sept 10 2026 close (web-search-sourced, not exchange-API-verified; no fresher pre-open Sept 11 print available).",
+          "reasoning": "TeraWulf. Today's -4% move is flagged by every source as plain profit-taking after a 44% YTD run, with 'no company news, no analyst downgrades, no macro shock' -- an attractive dip entry on a name with real revenue backing, not a thesis break. Standing catalyst: $19B/20-yr Anthropic AI-datacenter lease (~400MW). Freedom Capital initiated Buy this week ($19 PT); Needham previously raised its target on the same deal. Ranked #1 on best risk/reward -- real secular AI-infra revenue backlog plus a no-news dip."
+        },
+        {
+          "ticker": "IONQ",
+          "qty": 2,
+          "price": 36.84,
+          "cost": 73.68,
+          "rank": 2,
+          "funded": true,
+          "price_source": "Web-search cross-referenced: $36.84 (Yahoo Finance recap, 'IONQ suffers a larger drop than the market... -3.41% move') vs $36.94 (Marketbeat/Morningstar Sept 10 post-close read) -- <0.3% spread, PASS. Prior close $38.14 (Sept 9) confirms the move is real. Reflects Sept 10 2026 close (web-search-sourced, not exchange-API-verified).",
+          "reasoning": "IonQ. Down today on a macro/rate-driven quantum-sector-wide pullback (RGTI/IONQ/QBTS all lower together; Fed hike odds into next week elevated, 2yr yield at a 2yr+ high) -- not company- specific. Fundamentals accelerating: revenue +287% YoY, remaining performance obligations +297% YoY (Q2 2026). INSTITUTIONAL: Morgan Stanley remains largest disclosed holder (~$1.40B per Q2 2026 13F, standing signal). Ranked #2 -- strongest raw fundamental growth of this run's picks, tempered by sector rate-sensitivity."
+        },
+        {
+          "ticker": "RGTI",
+          "qty": 2,
+          "price": 15.16,
+          "cost": 30.32,
+          "rank": 3,
+          "funded": true,
+          "price_source": "Web-search cross-referenced: $15.16 close for Thursday 9/10/2026 (stockinvest.us-sourced, 'down from $15.24 the previous day') returned consistently on two independent queries; day range $14.84-$15.43 -- PASS, tight. Reflects Sept 10 2026 close (web-search-sourced, not exchange-API-verified).",
+          "reasoning": "Rigetti Computing. Same macro rate-rotation hitting quantum names today, not company-specific. Standing catalysts intact: finalized $100M Commerce Dept/CHIPS Act R&D agreement (federal-backing signal), 84-qubit Ankaa-3 system at 99.5% median 2-qubit gate fidelity. Cheapest of the three quantum/AI-infra names this run -- good for share-count diversification."
+        },
+        {
+          "ticker": "SMR",
+          "qty": 2,
+          "price": 10.81,
+          "cost": 21.62,
+          "rank": 4,
+          "funded": true,
+          "price_source": "Web-search cross-referenced: $10.81 close for Thursday 9/10/2026, returned consistently on two independent queries via Investing.com/CNN/Motley Fool aggregate reads -- PASS, no spread. Reflects Sept 10 2026 close (web-search-sourced, not exchange-API-verified).",
+          "reasoning": "NuScale Power. Nuclear/SMR sector riding the AI-datacenter power-demand secular tailwind (hyperscalers signing 20-yr PPAs for carbon-free baseload). Note: Jefferies' top nuclear picks this month were specifically NexGen Energy/Cameco/BWX Technologies, not NuScale -- this is a broader sector-tailwind thesis, not an NuScale-specific fresh analyst call. Hold consensus (6 buy/2 sell), avg PT ~$12.63 (~17% upside off $10.81). Cheapest name this run, used to round out diversification with the remaining budget."
+        },
+        {
+          "ticker": "AFRM",
+          "qty": 0,
+          "price": 67.9,
+          "cost": 0,
+          "rank": 5,
+          "funded": false,
+          "price_source": "Web-search cross-referenced: $67.90 (Robinhood-sourced, day range $66.03-$69.03, Sept 10 2026) returned consistently across two separate searches; MacroTrends shows the Sept 8 close at $72.08, so this implies a real ~5.8% two-day pullback, not a data error -- PASS. Reflects Sept 10 2026 (web-search-sourced, not exchange-API-verified).",
+          "reasoning": "Affirm Holdings. Standing fintech/BNPL growth thesis (33% revenue growth / 36% GMV growth last print) but no fresh catalyst found today, and the lowest raw conviction/upside of this run's five candidates. NOT FUNDED: only ~$24.88 of the $200 cash remains after ranks 1-4 (a total spend of $175.12), which does not cover even a single ~$67.90 share. Listed for ranking/completeness per RULES.md."
+        }
+      ],
+      "sells": []
     }
   ]
 }
