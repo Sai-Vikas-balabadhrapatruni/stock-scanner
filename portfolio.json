@@ -2423,6 +2423,52 @@
         }
       ],
       "sells": []
+    },
+    {
+      "timestamp": "2026-09-11T16:15:00-04:00",
+      "buys": [
+        {
+          "ticker": "WULF",
+          "qty": 3,
+          "price": 17.3,
+          "cost": 51.9,
+          "rank": 1,
+          "funded": true,
+          "price_source": "Web-search cross-referenced: two independent same-session Yahoo Finance-sourced reads of today's intraday move (+6.8% to ~$17.24 and +7.6% to ~$17.37 off Thursday's $16.14 close) cluster within <1% of each other -- PASS. Used $17.30 as the blended point. Reflects Sept 11 2026 midday (web-search-sourced, not exchange-API-verified).",
+          "reasoning": "TeraWulf. Continuing today's rally (+6.8-7.6%) on standing momentum from the $19B/20-yr Anthropic AI-datacenter lease (~400MW) -- no new negative news, this is thesis-confirming follow-through rather than a reversal. Strong Buy consensus across 18 analysts, avg 12-mo PT $37.17 (high $72, low $25) -- ~115% upside from today's price, the largest average-PT upside of this run's four picks. Ranked #1 on best combination of raw upside and live positive momentum."
+        },
+        {
+          "ticker": "RGTI",
+          "qty": 3,
+          "price": 15.36,
+          "cost": 46.08,
+          "rank": 2,
+          "funded": true,
+          "price_source": "Web-search cross-referenced: $15.36 real-time intraday read (+1.32%, Yahoo Finance, 2:09pm ET Sept 11 2026) vs Thursday's confirmed $15.16 close (stockinvest.us, down from $15.24 the prior day) -- consistent small continuation move, <2% gap, PASS. Reflects Sept 11 2026 intraday (web-search-sourced, not exchange-API-verified).",
+          "reasoning": "Rigetti Computing. Standing catalysts intact and reinforced: the U.S. government awarded a fresh $300M package split across QBTS/RGTI/Quantinuum this week -- continued direct federal backing on top of the existing $100M Commerce Dept/CHIPS Act R&D agreement. Q2 2026 13F data showed 300 institutions adding vs 216 trimming (D.E. Shaw +52.4%, BlackRock +12.2%) -- a clean, net-positive accumulation signal that has held up across multiple runs. Consensus Buy, avg PT ~$28.67-29.65 (~87-93% upside). Ranked #2 on strong institutional clarity plus fresh federal-funding news."
+        },
+        {
+          "ticker": "IONQ",
+          "qty": 1,
+          "price": 37.5,
+          "cost": 37.5,
+          "rank": 3,
+          "funded": true,
+          "price_source": "Web-search cross-referenced: Thursday Sept 10 2026 close of $36.94 (Marketbeat/Morningstar-sourced read, confirmed via a separate Yahoo/24-7-Wall-St recap of the day's -3.4% move) grossed up by today's independently reported +1.60% intraday move (MarketBeat quantum-stocks screener, Sept 11 2026) implies ~$37.53 -- internally consistent trend, PASS. Reflects Sept 11 2026 intraday (web-search-sourced, not exchange-API-verified).",
+          "reasoning": "IonQ. Fundamentals still accelerating: Q2 revenue +287% YoY to $80M, FY2026 outlook raised to $450-460M combined with SkyWater, new Superion 256 platform launched at the Sept 8 investor day, sector got an added tailwind this week from NVIDIA's open-source quantum AI model release. B.Riley reiterated Buy and raised its target to $100 (from $75) this week; 10-analyst average PT is $68.10 (~82% upside from today's price), the highest absolute analyst target of this run's picks. INSTITUTIONAL: Morgan Stanley remains the largest disclosed holder (~$1.40B per Q2 2026 13F). Ranked #3 -- strongest fundamental growth profile, but average-PT upside slightly below WULF/RGTI so ranked behind them; sized at 1 share given the higher per-share cost relative to this run's budget."
+        },
+        {
+          "ticker": "RIOT",
+          "qty": 2,
+          "price": 21.05,
+          "cost": 42.1,
+          "rank": 4,
+          "funded": true,
+          "price_source": "Web-search cross-referenced: $20.95 (GuruFocus, 'shares fall 5.1%', Sept 10-11 2026) vs $21.22 (TradersUnion, 'slides 3.87% today') -- both independently reporting the same pullback, <1.3% spread, PASS. Reflects Sept 10/11 2026 session (web-search-sourced, not exchange-API-verified).",
+          "reasoning": "Riot Platforms. Today's pullback (-3.9% to -5.1%) reads as a genuine buy-the-dip opportunity rather than a thesis break -- no negative company-specific news found; it follows a run-up on the back of real contracted-revenue growth (241MW of data-center capacity now contracted, up from zero seven months ago, including leases to AMD and an unnamed frontier AI lab, alongside the standing $9.1B/20-yr Anthropic compute-lease deal). Strong Buy consensus, 20 analysts buy / 0 sell, avg PT $32.40 (~54% upside from today's price) -- the most unanimous analyst rating of this run's four picks, though the smallest raw upside, so ranked #4."
+        }
+      ],
+      "sells": []
     }
   ]
 }
