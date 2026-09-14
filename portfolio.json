@@ -2469,6 +2469,42 @@
         }
       ],
       "sells": []
+    },
+    {
+      "timestamp": "2026-09-14T09:45:00-04:00",
+      "buys": [
+        {
+          "ticker": "RGTI",
+          "qty": 2,
+          "price": 14.87,
+          "cost": 29.74,
+          "rank": 1,
+          "funded": true,
+          "price_source": "Web-search cross-referenced: $14.87 same-day intraday read (-0.80%). A second read citing 'Sept 13' data ($15.26 last) was discarded as mislabeled/stale -- Sept 13 2026 is a Sunday, not a trading day. Sanity-checked instead against Friday 9/11's confirmed $15.16 close, implying a plausible ~2% multi-day drift consistent with today's broader risk-off tape, not a stock-specific reversal. Reflects Sept 14 2026 (web-search-sourced, not exchange-API-verified).",
+          "reasoning": "Rigetti Computing. Highest expected-return pick this run: consensus Buy, avg PT ~$28.67-29.65 (~87-93% upside), the largest of today's three picks. Standing catalysts remain fresh and unreversed -- $300M U.S. government quantum award (split QBTS/RGTI/Quantinuum) on top of the existing $100M CHIPS Act R&D agreement, and the Q2 13F net-institutional-accumulation signal (300 institutions adding vs 216 trimming; D.E. Shaw +52.4%, BlackRock +12.2%) carried forward from prior runs. Ranked #1 on institutional clarity plus the largest analyst-PT upside."
+        },
+        {
+          "ticker": "HPE",
+          "qty": 1,
+          "price": 62.09,
+          "cost": 62.09,
+          "rank": 2,
+          "funded": true,
+          "price_source": "Web-search cross-referenced: $62.09 (+12.44%) blended-aggregator read, corroborated by an independent Seeking Alpha headline citing the same '+12%' move -- two independent sources converge, PASS. Reflects Sept 14 2026 (web-search-sourced, not exchange-API-verified).",
+          "reasoning": "Hewlett Packard Enterprise. Fresh, well-corroborated earnings catalyst: record fiscal Q3 revenue +34% YoY to $12.2B, FY26 EPS guidance raised to $3.75-3.85 on 34-37% revenue growth, a new $3.5B hyperscale-cloud AI inferencing contract, and Oracle AI-deal follow-through reported 9/12-9/13. BofA raised PT to $88 (~42% upside), Truist to $70 (Buy, citing 42% order growth/record backlog). Ranked #2: freshest concrete catalyst of the run, though less raw upside than RGTI."
+        },
+        {
+          "ticker": "IONQ",
+          "qty": 1,
+          "price": 37.64,
+          "cost": 37.64,
+          "rank": 3,
+          "funded": true,
+          "price_source": "Web-search cross-referenced: $37.64 returned consistently across two independently-phrased search passes (vs a Sept 9 prior-close reference of $38.14, a plausible small pullback) -- PASS. Reflects Sept 14 2026 (web-search-sourced, not exchange-API-verified).",
+          "reasoning": "IonQ. No fresh company-specific catalyst found this run (roughly flat, -0.37%) so ranked last of today's three picks, but standing thesis remains intact: Q2 revenue +287% YoY, FY26 outlook raised to $450-460M with SkyWater, Superion 256 platform launch, Morgan Stanley the largest disclosed 13F holder (~$1.40B), B.Riley PT $100."
+        }
+      ],
+      "sells": []
     }
   ]
 }
