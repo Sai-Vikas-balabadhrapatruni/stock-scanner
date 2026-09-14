@@ -2505,6 +2505,62 @@
         }
       ],
       "sells": []
+    },
+    {
+      "timestamp": "2026-09-14T16:15:00-04:00",
+      "buys": [
+        {
+          "ticker": "IONQ",
+          "qty": 2,
+          "price": 36.75,
+          "cost": 73.5,
+          "rank": 1,
+          "funded": true,
+          "price_source": "Web-search cross-referenced: $36.75 (-0.24%) returned identically across two independent Google-Finance-style reads. A third read returned $37.64 (-0.37%), identical to this morning's already-logged AM price for this same ticker -- discarded as a stale/cached repeat, not a fresh PM print. Reflects Sept 14 2026 close (web-search-sourced, not exchange-API-verified).",
+          "reasoning": "IonQ. Highest-conviction pick this run. No fresh company-specific catalyst today -- quantum names were pressured 3%+ in premarket by the weekend AI-slowdown-pact call from Altman/Amodei/Musk (OpenAI IPO pushed to 2027), though the broader market recovered into the close (S&P +0.9%, Nasdaq +1%). Standing thesis intact and unreversed: Q2 revenue +287% YoY, FY26 outlook raised to $450-460M, Superion 256 platform launch, Morgan Stanley the largest disclosed 13F holder (~$1.40B), Strong Buy consensus (10 buy/0 sell), average PT $69.25 (~88% upside) with a $100 high PT from B.Riley (~172% upside). Ranked #1 on the combination of largest disclosed institutional conviction and highest analyst-PT upside of today's picks."
+        },
+        {
+          "ticker": "WULF",
+          "qty": 3,
+          "price": 16.6,
+          "cost": 49.8,
+          "rank": 2,
+          "funded": true,
+          "price_source": "Web-search cross-referenced: $16.48 (+1.51%, prior close $16.24) and $16.74 -- two independent reads ~1.6% apart, within the ~1-2% tolerance. Used the $16.60 midpoint for sizing. Reflects Sept 14 2026 (web-search-sourced, not exchange-API-verified).",
+          "reasoning": "TeraWulf. Down from the $17.30 logged 9/11, consistent with today's sector-wide bitcoin-miner/AI-infra-pivot pressure -- rising 10-year Treasury yields near 52-week highs are hitting long-duration data-center cash-flow valuations, compounded by the weekend AI-slowdown call. Standing thesis unreversed: Anthropic AI/HPC compute partnership, Morgan Stanley Overweight rating with PT raised to $41.50 (~150% upside from today's price). Ranked #2 -- very high analyst-PT upside, offset by elevated same-day sector-headwind risk versus IONQ's steadier setup."
+        },
+        {
+          "ticker": "RIG",
+          "qty": 5,
+          "price": 5.76,
+          "cost": 28.8,
+          "rank": 3,
+          "funded": true,
+          "price_source": "Web-search cross-referenced: $5.74 and $5.78 -- two independent reads ~0.7% apart, PASS. Used the $5.76 midpoint. Reflects Sept 14 2026 (web-search-sourced, not exchange-API-verified).",
+          "reasoning": "Transocean. New pick this run, thematically tied to today's dominant macro catalyst: crude spiked toward $100-103/bbl this week after Saudi Arabia shut a major pipeline to drone attacks and Iran-Gulf talks were called off, disrupting Strait-of-Hormuz-adjacent supply. Transocean recently secured a new $300M ultra-deepwater drilling contract. Cheap enough at ~$5.76 to take a meaningful share count on this $200 budget. Ranked #3: real, live catalyst and deep-value entry price, but no quantified analyst PT found this run and one source flagged elevated balance-sheet leverage, so ranked behind the two higher-conviction growth names."
+        },
+        {
+          "ticker": "S",
+          "qty": 2,
+          "price": 19.79,
+          "cost": 39.58,
+          "rank": 4,
+          "funded": true,
+          "price_source": "Web-search cross-referenced: $19.82 and $19.75 -- two independent reads ~0.35% apart, PASS. Used the $19.79 midpoint. Reflects Sept 14 2026 (web-search-sourced, not exchange-API-verified).",
+          "reasoning": "SentinelOne. New pick this run -- the clearest sector-rotation beneficiary of today's AI-slowdown news flow: capital rotated out of chip/AI-infra names (Intel -6%, Marvell -7.4% premarket) and into cybersecurity (CrowdStrike +5.4% to a record $238.64 intraday, closed $237.76 -- itself too expensive for this $200 budget) on expectations of stronger AI-security demand. SentinelOne is a cheaper way to play the identical rotation: AI-native Singularity platform, 35-analyst consensus Buy, PT $24.15 (~22% upside). Ranked #4: smallest expected-return magnitude of today's four picks, but it diversifies this account's recommendation set away from its existing AI-infra/quantum concentration with a live, same-day catalyst rather than a stale one."
+        },
+        {
+          "ticker": "DHI",
+          "qty": 1,
+          "price": 137.76,
+          "cost": 137.76,
+          "rank": 5,
+          "funded": false,
+          "price_source": "Single web-search read only ($137.76, -2.98% 24h, heygotrade.com) -- not cross-referenced against a second independent source, so treat as indicative only. Not used for sizing since this pick is unfunded regardless.",
+          "reasoning": "D.R. Horton. Institutional-signal-only pick, ranked below this run's cash line -- Berkshire Hathaway's Q2 2026 13F disclosed a brand-new toehold position in DHI (Berkshire's only new stock addition that quarter), during a quarter where Berkshire ended a 14-quarter streak of being a net equity seller. Listed for optionality/information only; buying even 1 share here would exceed what's left of this run's $200 cash after the four funded picks above."
+        }
+      ],
+      "sells": []
     }
   ]
 }
