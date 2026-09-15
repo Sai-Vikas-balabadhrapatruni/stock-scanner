@@ -2597,6 +2597,62 @@
         }
       ],
       "sells": []
+    },
+    {
+      "timestamp": "2026-09-15T16:15:00-04:00",
+      "buys": [
+        {
+          "ticker": "IONQ",
+          "qty": 2,
+          "price": 36.75,
+          "cost": 73.5,
+          "rank": 1,
+          "funded": true,
+          "price_source": "Web-search cross-referenced: $36.75 (-0.24%) returned identically across multiple independent aggregator reads as of 10:52:20 AM EDT (intraday range $36.33-$37.94), consistent with an after-hours print of $36.88 (-0.35%) -- PASS. Down from Monday's (Sept 14) confirmed $39.52 close, in line with today's broad quantum/AI-infra selloff (Philadelphia Semiconductor Index -5.9%, Nvidia -3.4%, Intel -5.6%) driven by the 10-year Treasury yield hitting 5.02%, its highest since 2007. Reflects Sept 15 2026 mid-day trading (web-search-sourced, not exchange-API-verified).",
+          "reasoning": "IonQ. Highest-conviction pick again -- treating today's ~7% sector-wide pullback as a buying opportunity on an unreversed thesis rather than a reason to skip: Q2 revenue +287% YoY, FY26 guidance raised to $450-460M, Morgan Stanley remains the largest disclosed 13F holder (~$1.40B), Strong Buy consensus (10 buy/0 sell), average PT $69.25 (~88% upside from today's price). No company-specific bad news found -- the decline is a pure rate/duration rotation hitting the whole quantum and semiconductor complex, not a thesis break. Ranked #1 on institutional conviction plus a materially better entry price than this morning."
+        },
+        {
+          "ticker": "RIG",
+          "qty": 8,
+          "price": 5.88,
+          "cost": 47.04,
+          "rank": 2,
+          "funded": true,
+          "price_source": "Web-search cross-referenced: $5.88 (+7.70%, prior close $5.46, intraday range $5.52-$5.95) returned consistently across a CNN/aggregator cluster on three separate search passes. One outlier read of $5.67 (WallStreetZen) and a clearly stale/erroneous $3.42 (MarketBeat) were discarded as unreliable single-source outliers. Reflects Sept 15 2026 intraday trading (web-search-sourced, not exchange-API-verified).",
+          "reasoning": "Transocean. Oil-disruption catalyst is intensifying further: Brent hit $108.15 and WTI $102.64 on Sept 14, with Oman postponing Gulf-Iran Strait-of-Hormuz talks and Saudi Arabia's East-West pipeline still shut after drone strikes -- two of the region's main export corridors simultaneously disrupted. Standing thesis unreversed: recent $300M ultra-deepwater drilling contract. BofA's Underperform rating / $4.75 PT (below today's price) remains a real counter-signal and keeps this ranked behind IONQ, but the live, worsening geopolitical catalyst and cheap per-share entry justify a meaningful share count on this budget."
+        },
+        {
+          "ticker": "RGTI",
+          "qty": 2,
+          "price": 15.25,
+          "cost": 30.5,
+          "rank": 3,
+          "funded": true,
+          "price_source": "Web-search cross-referenced: $15.25 (intraday range $14.51-$15.60) and a second independent read of $15.20-$15.94 / $15.27 -- both clusters center on ~$15.2-15.3, PASS. Reflects Sept 15 2026 intraday trading (web-search-sourced, not exchange-API-verified).",
+          "reasoning": "Rigetti Computing. New pick this run on a fresh institutional/government catalyst: Rigetti finalized a definitive agreement with the U.S. Department of Commerce's CHIPS R&D Office for up to $100M in funding (alongside D-Wave and Quantinuum), part of reported Commerce Department equity stakes in the sector. A genuine institutional-backing signal distinct from today's broader rate-driven quantum selloff. Ranked #3: diversifies the account's quantum exposure at a cheaper per-share entry than IONQ, but rests on thinner/more speculative fundamentals than IONQ's confirmed revenue growth."
+        },
+        {
+          "ticker": "QBTS",
+          "qty": 1,
+          "price": 17.3,
+          "cost": 17.3,
+          "rank": 4,
+          "funded": true,
+          "price_source": "Web-search cross-referenced: $17.12 and $17.46 (+5%) -- two independent reads ~2% apart, at the edge of tolerance -- used the $17.30 midpoint. A third, more dated read of $16.49 was discarded. Reflects Sept 15 2026 intraday trading (web-search-sourced, not exchange-API-verified).",
+          "reasoning": "D-Wave Quantum. New pick this run, same Commerce-Department CHIPS R&D funding catalyst as RGTI (D-Wave issued ~7.1M shares to the U.S. Department of Commerce as part of its $100M award) -- shares up ~5% on the news even as most of the quantum sector traded down with rates today. Small 1-share position: sizes exposure to this specific positive, company-confirmed catalyst without over-concentrating the account further in an already quantum-heavy book (IONQ + RGTI already ranked above it)."
+        },
+        {
+          "ticker": "ENOV",
+          "qty": 0,
+          "price": 18.46,
+          "cost": 18.46,
+          "rank": 5,
+          "funded": false,
+          "price_source": "Single web-search read only ($18.46, from the Sept 11 2026 session -- four days stale, not a same-day print) -- not cross-referenced against a fresh second source, so treat as indicative only. Not used for sizing regardless since cash is already exhausted by the four funded picks above.",
+          "reasoning": "Enovis. Institutional/insider-signal-only pick, listed for optionality -- CEO Damien McDonald bought 13,035 shares on Sept 4 (~$249,620, $19.10-$19.16/sh) near the stock's 52-week low, and CAO Oliver Engert also bought on 9/2, with one research desk flagging ~35% undervaluation. Ranked last: price data is stale (pre-dates today) and cash is already spoken for by the four funded picks above."
+        }
+      ],
+      "sells": []
     }
   ]
 }
