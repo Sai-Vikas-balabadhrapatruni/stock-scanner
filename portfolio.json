@@ -2561,6 +2561,42 @@
         }
       ],
       "sells": []
+    },
+    {
+      "timestamp": "2026-09-15T09:45:00-04:00",
+      "buys": [
+        {
+          "ticker": "IONQ",
+          "qty": 2,
+          "price": 39.52,
+          "cost": 79.04,
+          "rank": 1,
+          "funded": true,
+          "price_source": "Web-search cross-referenced: $39.52 prior-day (Sept 14) close corroborated identically across multiple independent aggregator reads (Robinhood, CNN, CNBC, Yahoo, Kraken, Fidelity, Morningstar all consistent). A premarket read of $41.83 (+5.84%) appeared from one source only and was not independently corroborated, so the confirmed $39.52 close was used for sizing instead, per RULES' conservative-pricing guidance. Reflects Sept 14 2026 close (web-search-sourced, not exchange-API-verified).",
+          "reasoning": "IonQ. Highest-conviction pick again this run. Fresh catalyst: IonQ presenting 9 peer-reviewed papers and winning 4 Best Paper Awards at IEEE Quantum Week 2026 this week, driving the (unconfirmed, single-source) premarket pop toward $41.83. Standing thesis unreversed and still the strongest in the account's universe: Q2 revenue +287% YoY, FY26 guidance raised to $450-460M, Morgan Stanley the largest disclosed 13F holder (~$1.40B), Strong Buy consensus (10 buy/0 sell), average PT $69.25 (~75% upside off the confirmed $39.52 close, up to ~153% on B.Riley's $100 high PT). Ranked #1 on the combination of institutional conviction, analyst upside, and a live positive catalyst."
+        },
+        {
+          "ticker": "RIG",
+          "qty": 8,
+          "price": 5.85,
+          "cost": 46.8,
+          "rank": 2,
+          "funded": true,
+          "price_source": "Web-search cross-referenced: intraday range $5.77-$5.96 cited consistently across the Google Finance/CNN/Yahoo cluster, with prior close $6.01 and an after-hours print of $5.83 (-3.00%) all internally consistent -- PASS. Used $5.85 for sizing. Reflects Sept 15 2026 intraday trading (web-search-sourced, not exchange-API-verified).",
+          "reasoning": "Transocean. Oil-disruption catalyst is intensifying, not just standing: Saudi Arabia's East-West pipeline (the main bypass around the Strait of Hormuz) remains shut after drone strikes, with repairs potentially taking months; Brent hit a $109.80 intraday high on Monday 9/14; traders now see crude as 'unlikely to fall below $100 anytime soon.' Recently secured a new $300M ultra-deepwater drilling contract (standing, noted prior run). Honest counter-signal: BofA reiterated an Underperform rating on 9/14 and nudged its price target to just $4.75 -- BELOW today's ~$5.85 price, meaning at least one major desk sees this as already overvalued even with the oil spike. Ranked #2 and sized moderately (not aggressively) given that explicit bearish analyst view plus known balance-sheet leverage."
+        },
+        {
+          "ticker": "INTC",
+          "qty": 0,
+          "price": 102.94,
+          "cost": 102.94,
+          "rank": 3,
+          "funded": false,
+          "price_source": "Web-search cross-referenced: $102.94 returned identically across two independent search passes (an Investing.com/Moomoo/TradingView cluster and a separate Yahoo/TheStreet cluster), both reflecting today's session; prior close $97.19 (-5.59% on 9/14) cited consistently as context -- PASS. Reflects Sept 15 2026 (web-search-sourced, not exchange-API-verified).",
+          "reasoning": "Intel. New institutional-activity-driven pick this run, NOT FUNDED -- ranked below the cash line after IONQ and RIG. Bull case: a fresh analyst-upgrade wave (Citi initiated coverage with a bullish $130 PT; UBS raised its PT to $112, though still rated Neutral), ABS Investment Management disclosed a fresh ~$694M stake, and Intel is reportedly sold out in server CPUs for 2026 with a possible 10-15% price hike. Bear-case caveat that keeps this ranked last: broader analyst consensus PT (~$72) sits well BELOW today's $102.94 price -- Citi is a bullish outlier, not the consensus view -- and the stock already ran +5.9% into today off a rough Sept 14 session. Listed for optionality/information only; even 1 share ($102.94) would exceed the ~$74 left in this run's $200 cash after funding IONQ and RIG."
+        }
+      ],
+      "sells": []
     }
   ]
 }
